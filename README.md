@@ -1,7 +1,7 @@
 # hdDeepLearningStudy
 Code etc for Hacker Dojo Deep Learning Study Group
 __________________________________________________________________________________________________________
-#  March 3, 2016 Gated Feedback RNN
+##  March 3, 2016 Gated Feedback RNN
 The Paper
 "Gated RNN" (http://arxiv.org/pdf/1502.02367v4.pdf
 
@@ -22,7 +22,7 @@ https://docs.google.com/presentation/d/1d2keyJxRlDcD1LTl_zjS3i45xDIh2-QvPWU3Te29
 https://github.com/eadsjr/GFRNNs-nest/tree/master/diagrams/diagrams_formula
 
 ___________________________________________________________________________________________________________
-# April 11, 2016 - Atari Game Playing DQN
+## April 11, 2016 - Atari Game Playing DQN
 The Paper
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
@@ -46,7 +46,7 @@ http://stackoverflow.com/questions/35394446/why-doesnt-my-deep-q-network-master-
 http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
 
 _________________________________________________________________________________________________________________
-# April 18, 2016 - Batch Normalization
+## April 18, 2016 - Batch Normalization
 The Paper
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
