@@ -1,25 +1,18 @@
 # hdDeepLearningStudy
 Code etc for Hacker Dojo Deep Learning Study Group
-__________________________________________________________________________________________________________
-##  March 3, 2016 Gated Feedback RNN
+
+_____________________________________________________________________________________________________________________
+## April 25, 2916 - Microsoft Resnet
 The Paper
-"Gated RNN" (http://arxiv.org/pdf/1502.02367v4.pdf
+http://arxiv.org/pdf/1512.03385v1.pdf
 
--Background Material
-http://arxiv.org/pdf/1506.00019v4.pdf - Lipton's excellent review of RNN
+_________________________________________________________________________________________________________________
+## April 18, 2016 - Batch Normalization
+The Paper
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
-http://www.nehalemlabs.net/prototype/blog/2013/10/10/implementing-a-recurrent-neural-network-in-python/ - Discussion of RNN and theano code for Elman network - Tiago Ramalho
+http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - Batch Normalization for RNN
 
-http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf - Hochreiter's original paper on LSTM
-
-https://www.youtube.com/watch?v=izGl1YSH_JA - Hinton video on LSTM 
-
--Skylar Payne's GF RNN code
-https://github.com/skylarbpayne/hdDeepLearningStudy/tree/master/tensorflow
-
--Slides
-https://docs.google.com/presentation/d/1d2keyJxRlDcD1LTl_zjS3i45xDIh2-QvPWU3Te29TuM/edit?usp=sharing
-https://github.com/eadsjr/GFRNNs-nest/tree/master/diagrams/diagrams_formula
 
 ___________________________________________________________________________________________________________
 ## April 11, 2016 - Atari Game Playing DQN
@@ -45,14 +38,23 @@ http://stackoverflow.com/questions/35394446/why-doesnt-my-deep-q-network-master-
 
 http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
 
-_________________________________________________________________________________________________________________
-## April 18, 2016 - Batch Normalization
+__________________________________________________________________________________________________________
+##  March 3, 2016 Gated Feedback RNN
 The Paper
-https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+"Gated RNN" (http://arxiv.org/pdf/1502.02367v4.pdf
 
-http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - Batch Normalization for RNN
+-Background Material
+http://arxiv.org/pdf/1506.00019v4.pdf - Lipton's excellent review of RNN
 
-_____________________________________________________________________________________________________________________
-## April 25, 2916 - Microsoft Resnet
-The Paper
-http://arxiv.org/pdf/1512.03385v1.pdf
+http://www.nehalemlabs.net/prototype/blog/2013/10/10/implementing-a-recurrent-neural-network-in-python/ - Discussion of RNN and theano code for Elman network - Tiago Ramalho
+
+http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf - Hochreiter's original paper on LSTM
+
+https://www.youtube.com/watch?v=izGl1YSH_JA - Hinton video on LSTM 
+
+-Skylar Payne's GF RNN code
+https://github.com/skylarbpayne/hdDeepLearningStudy/tree/master/tensorflow
+
+-Slides
+https://docs.google.com/presentation/d/1d2keyJxRlDcD1LTl_zjS3i45xDIh2-QvPWU3Te29TuM/edit?usp=sharing
+https://github.com/eadsjr/GFRNNs-nest/tree/master/diagrams/diagrams_formula
