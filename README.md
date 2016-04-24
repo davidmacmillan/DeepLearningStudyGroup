@@ -51,3 +51,8 @@ The Paper
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - Batch Normalization for RNN
+
+_____________________________________________________________________________________________________________________
+## April 25, 2916 - Microsoft Resnet
+The Paper
+http://arxiv.org/pdf/1512.03385v1.pdf
