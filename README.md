@@ -4,7 +4,12 @@ Code etc for Hacker Dojo Deep Learning Study Group
 _____________________________________________________________________________________________________________________
 ## April 25, 2916 - Microsoft Resnet
 The Paper
-http://arxiv.org/pdf/1512.03385v1.pdf
+http://arxiv.org/pdf/1512.03385v1.pdf 
+
+References:
+http://arxiv.org/pdf/1603.05027v2.pdf - 
+https://keunwoochoi.wordpress.com/2016/03/09/residual-networks-implementation-on-keras/ - keras code
+https://github.com/ry/tensorflow-resnet/blob/master/resnet.py - tensorflow code
 
 _________________________________________________________________________________________________________________
 ## April 18, 2016 - Batch Normalization
