@@ -1,8 +1,16 @@
 # hdDeepLearningStudy
 Code etc for Hacker Dojo Deep Learning Study Group
 
+## May 2, 2016
+
+Go playing DQN
+
+https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf
+
+
+
 _____________________________________________________________________________________________________________________
-## April 25, 2916 - Microsoft Resnet
+## April 25, 2016 - Microsoft Resnet
 The Paper
 
 http://arxiv.org/pdf/1512.03385v1.pdf 
