@@ -17,12 +17,15 @@ http://arxiv.org/pdf/1512.03385v1.pdf
 
 References:
 
-http://arxiv.org/pdf/1603.05027v2.pdf - 
+http://arxiv.org/pdf/1603.05027v2.pdf - Identity mapping paper
+
+Code:
 
 https://keunwoochoi.wordpress.com/2016/03/09/residual-networks-implementation-on-keras/ - keras code
 
 https://github.com/ry/tensorflow-resnet/blob/master/resnet.py - tensorflow code
 
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py
 _________________________________________________________________________________________________________________
 ## April 18, 2016 - Batch Normalization
 The Paper
