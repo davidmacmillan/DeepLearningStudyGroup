@@ -1,13 +1,24 @@
 # hdDeepLearningStudy
 Code etc for Hacker Dojo Deep Learning Study Group
 
+## May 9, 2016
+
+https://arxiv.org/pdf/1603.05027v2.pdf - Update on microsoft resnet - identity mapping
+
+http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - batch normalization w. RNN
+
+
 ## May 2, 2016
 
-Go playing DQN
+Go playing DQN - AlphaGo
 
 https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf
 
+https://m.youtube.com/watch?sns=em&v=pgX4JSv4J70 - video of slide presentation on paper
 
+https://en.m.wikipedia.org/wiki/List_of_Go_games#Lee.27s_Broken_Ladder_Game - Handling "ladders" in alphgo
+
+https://en.m.wikipedia.org/wiki/Ladder_(Go) - ladders in go
 
 _____________________________________________________________________________________________________________________
 ## April 25, 2016 - Microsoft Resnet
