@@ -1,6 +1,15 @@
 # hdDeepLearningStudy
 Code etc for Hacker Dojo Deep Learning Study Group
 
+## May 16, 2016
+
+Word2Vec meets LDA:
+
+http://arxiv.org/pdf/1605.02019v1.pdf - Paper
+
+https://twitter.com/chrisemoody - Chris Moody's twiter with links to slides etc.
+
+
 ## May 9, 2016
 
 https://arxiv.org/pdf/1603.05027v2.pdf - Update on microsoft resnet - identity mapping
