@@ -1,6 +1,16 @@
 # hdDeepLearningStudy
 Code etc for Hacker Dojo Deep Learning Study Group
 
+## May 23, 2016
+
+Compressed networks, reducing flops by pruning
+
+https://arxiv.org/pdf/1510.00149.pdf
+
+http://arxiv.org/pdf/1602.07360v3.pdf
+
+
+
 ## May 16, 2016
 
 Word2Vec meets LDA:
