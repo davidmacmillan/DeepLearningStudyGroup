@@ -19,6 +19,8 @@ http://arxiv.org/pdf/1605.02019v1.pdf - Paper
 
 https://twitter.com/chrisemoody - Chris Moody's twiter with links to slides etc.
 
+http://qpleple.com/topic-coherence-to-evaluate-topic-models/ - writeup on topic coherence
+
 
 ## May 9, 2016
 
