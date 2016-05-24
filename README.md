@@ -1,7 +1,19 @@
 # hdDeepLearningStudy
 Code etc for Hacker Dojo Deep Learning Study Group
 
-## May 23, 2016
+## June 6, 2016 - Hacker Dojo
+
+Google inception paper - origin of 1x1 convolution layers
+
+http://arxiv.org/pdf/1409.4842v1.pdf
+
+## May 26, 2016 - Galvanize
+
+Image segmentation with deep encoder-decoder
+
+https://arxiv.org/pdf/1511.00561.pdf
+
+## May 23, 2016 - Hacker Dojo
 
 Compressed networks, reducing flops by pruning
 
