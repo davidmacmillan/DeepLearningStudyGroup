@@ -1,5 +1,11 @@
 # hdDeepLearningStudy
-Code etc for Hacker Dojo Deep Learning Study Group
+Code etc for Deep Learning Study Group
+
+## June 9 2016 - Galvanize
+
+Learning Context with CNN + Heirarchical RNN:
+
+https://arxiv.org/pdf/1509.03877v2.pdf
 
 ## June 6, 2016 - Hacker Dojo
 
@@ -7,7 +13,7 @@ Google inception paper - origin of 1x1 convolution layers
 
 http://arxiv.org/pdf/1409.4842v1.pdf
 
-## May 26, 2016 - Galvanize
+## June 2, May 26, 2016 - Galvanize
 
 Image segmentation with deep encoder-decoder
 
