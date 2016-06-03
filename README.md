@@ -3,9 +3,9 @@ Code etc for Deep Learning Study Group
 
 ## June 9 2016 - Galvanize
 
-Learning Context with CNN + Heirarchical RNN:
+Visualizing and Understanding RNN:
 
-https://arxiv.org/pdf/1509.03877v2.pdf
+https://arxiv.org/pdf/1506.02078v2.pdf
 
 ## June 6, 2016 - Hacker Dojo
 
