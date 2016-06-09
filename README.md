@@ -128,5 +128,6 @@ https://github.com/skylarbpayne/hdDeepLearningStudy/tree/master/tensorflow
 https://docs.google.com/presentation/d/1d2keyJxRlDcD1LTl_zjS3i45xDIh2-QvPWU3Te29TuM/edit?usp=sharing  
 https://github.com/eadsjr/GFRNNs-nest/tree/master/diagrams/diagrams_formula  
 
-## Review papers  
+## Reviews  
 http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html  
+https://indico.io/blog/iclr-2016-takeaways/  
