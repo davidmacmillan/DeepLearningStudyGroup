@@ -23,11 +23,6 @@ https://arxiv.org/pdf/1510.00149.pdf
 
 http://arxiv.org/pdf/1602.07360v3.pdf
 
-## Review papers
-http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html  
-
-
-
 ## May 16, 2016
 
 Word2Vec meets LDA:
@@ -76,11 +71,10 @@ https://github.com/ry/tensorflow-resnet/blob/master/resnet.py - tensorflow code
 
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py
 _________________________________________________________________________________________________________________
-## April 18, 2016 - Batch Normalization
-The Paper
-https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
-
-http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - Batch Normalization for RNN
+## April 18, 2016 - Batch Normalization  
+The Paper  
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf  
+http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - Batch Normalization for RNN  
 
 
 ___________________________________________________________________________________________________________
@@ -118,18 +112,17 @@ The Paper
 
 -Background Material
 
-http://arxiv.org/pdf/1506.00019v4.pdf - Lipton's excellent review of RNN
-
-http://www.nehalemlabs.net/prototype/blog/2013/10/10/implementing-a-recurrent-neural-network-in-python/ - Discussion of RNN and 
-theano code for Elman network - Tiago Ramalho
-
-http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf - Hochreiter's original paper on LSTM
-
+http://arxiv.org/pdf/1506.00019v4.pdf - Lipton's excellent review of RNN  
+http://www.nehalemlabs.net/prototype/blog/2013/10/10/implementing-a-recurrent-neural-network-in-python/ - Discussion of RNN and theano code for Elman network - Tiago Ramalho  
+http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf - Hochreiter's original paper on LSTM  
 https://www.youtube.com/watch?v=izGl1YSH_JA - Hinton video on LSTM 
 
--Skylar Payne's GF RNN code
-https://github.com/skylarbpayne/hdDeepLearningStudy/tree/master/tensorflow
+-Skylar Payne's GF RNN code  
+https://github.com/skylarbpayne/hdDeepLearningStudy/tree/master/tensorflow  
 
 -Slides
-https://docs.google.com/presentation/d/1d2keyJxRlDcD1LTl_zjS3i45xDIh2-QvPWU3Te29TuM/edit?usp=sharing
-https://github.com/eadsjr/GFRNNs-nest/tree/master/diagrams/diagrams_formula
+https://docs.google.com/presentation/d/1d2keyJxRlDcD1LTl_zjS3i45xDIh2-QvPWU3Te29TuM/edit?usp=sharing  
+https://github.com/eadsjr/GFRNNs-nest/tree/master/diagrams/diagrams_formula  
+
+## Review papers  
+http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html  
