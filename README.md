@@ -1,7 +1,11 @@
 # hdDeepLearningStudy
 Code etc for Deep Learning Study Group
 
-## June 9 2016 - Galvanize
+## June 13, 2016 - TBD
+Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning:  
+http://arxiv.org/pdf/1602.07261v1.pdf  
+
+## June 9, 2016 - Galvanize
 Visualizing and Understanding RNN:  
 https://arxiv.org/pdf/1506.02078v2.pdf  
 
