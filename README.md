@@ -2,16 +2,12 @@
 Code etc for Deep Learning Study Group
 
 ## June 9 2016 - Galvanize
-
-Visualizing and Understanding RNN:
-
-https://arxiv.org/pdf/1506.02078v2.pdf
+Visualizing and Understanding RNN:  
+https://arxiv.org/pdf/1506.02078v2.pdf  
 
 ## June 6, 2016 - Hacker Dojo
-
-Google inception paper - origin of 1x1 convolution layers
-
-http://arxiv.org/pdf/1409.4842v1.pdf
+Google inception paper - origin of 1x1 convolution layers  
+http://arxiv.org/pdf/1409.4842v1.pdf  
 
 ## June 2, May 26, 2016 - Galvanize
 
@@ -26,6 +22,9 @@ Compressed networks, reducing flops by pruning
 https://arxiv.org/pdf/1510.00149.pdf
 
 http://arxiv.org/pdf/1602.07360v3.pdf
+
+## Review papers
+http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html  
 
 
 
