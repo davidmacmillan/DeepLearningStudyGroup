@@ -1,7 +1,12 @@
 # hdDeepLearningStudy
 Code etc for Deep Learning Study Group
 
-## June 13, 2016 - TBD
+## June 16, 2016 - SF
+http://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines - Graves et. al.
+https://arxiv.org/pdf/1605.06065v1.pdf - One Shot Learning - DeepMind
+https://github.com/shawntan/neural-turing-machines - Code
+
+## June 13, 2016 - TBD, Penninsula
 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning:  
 http://arxiv.org/pdf/1602.07261v1.pdf  
 
