@@ -5,6 +5,7 @@ Code etc for Deep Learning Study Group
 http://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines - Graves et. al.  
 https://arxiv.org/pdf/1605.06065v1.pdf - One Shot Learning - DeepMind  
 https://github.com/shawntan/neural-turing-machines - Code  
+https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp4ecce - schmidhuber's comments
 
 ## June 13, 2016 - TBD, Penninsula
 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning:  
