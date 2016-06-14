@@ -1,6 +1,10 @@
 # hdDeepLearningStudy
 Code etc for Deep Learning Study Group
 
+## June 20, 2016 - Penninsula   
+Recurrent models of visual attention - Deep Mind   
+https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf   
+
 ## June 16, 2016 - SF
 http://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines - Graves et. al.  
 https://arxiv.org/pdf/1605.06065v1.pdf - One Shot Learning - DeepMind  
