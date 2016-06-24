@@ -1,6 +1,10 @@
 # hdDeepLearningStudy
 Code etc for Deep Learning Study Group
 
+## June 27, 2016 - Penninsula   
+Recurrent network for image generation - Deep Mind   
+https://arxiv.org/pdf/1502.04623.pdf
+
 ## June 20, 2016 - Penninsula   
 Recurrent models of visual attention - Deep Mind   
 https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf   
