@@ -4,6 +4,7 @@ Code etc for Deep Learning Study Group
 ## June 27, 2016 - Hacker Dojo   
 Recurrent network for image generation - Deep Mind   
 https://arxiv.org/pdf/1502.04623v2.pdf
+https://www.youtube.com/watch?v=P78QYjWh5sM
 
 ## June 20, 2016 - Penninsula   
 Recurrent models of visual attention - Deep Mind   
