@@ -1,7 +1,7 @@
 # hdDeepLearningStudy
 Code etc for Deep Learning Study Group
 
-## June 27, 2016 - Penninsula   
+## June 27, 2016 - Hacker Dojo   
 Recurrent network for image generation - Deep Mind   
 https://arxiv.org/pdf/1502.04623v2.pdf
 
