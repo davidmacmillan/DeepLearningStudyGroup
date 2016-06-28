@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=P78QYjWh5sM
 http://arxiv.org/pdf/1310.8499v2.pdf - deep autoregressive networks - deep mind  
 https://arxiv.org/pdf/1401.4082.pdf  - stochastic backpropagation and approx inference - deep mind  
 http://www.cs.toronto.edu/~fritz/absps/colt93.html - keep neural simple by minimizing descr length - hinton  
-https://github.com/vivanov879/draw  
+https://github.com/vivanov879/draw - code  
 
 ## June 20, 2016 - Penninsula   
 Recurrent models of visual attention - Deep Mind   
