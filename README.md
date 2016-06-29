@@ -15,7 +15,7 @@ https://github.com/vivanov879/draw - code
 Recurrent models of visual attention - Deep Mind   
 https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf   
 
-## June 16, 23 2016 - SF
+## June 23, 29 2016 - SF
 http://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines - Graves et. al.  
 https://arxiv.org/pdf/1605.06065v1.pdf - One Shot Learning - DeepMind  
 https://github.com/shawntan/neural-turing-machines - Code  
