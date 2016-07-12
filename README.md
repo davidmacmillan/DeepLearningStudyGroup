@@ -5,6 +5,7 @@ Code etc for Deep Learning Study Group
 Recurrent network for image generation - Deep Mind   
 https://arxiv.org/pdf/1502.04623v2.pdf  
 Background and some references cited  
+http://blog.evjang.com/2016/06/understanding-and-implementing.html - blog w. code for VAE  
 http://arxiv.org/pdf/1312.6114v10.pdf - Variational Auto Encoder  
 https://jmetzen.github.io/2015-11-27/vae.html - tf code for variational auto-encoder  
 https://www.youtube.com/watch?v=P78QYjWh5sM  
