@@ -14,6 +14,7 @@ https://arxiv.org/pdf/1401.4082.pdf  - stochastic backpropagation and approx inf
 http://www.cs.toronto.edu/~fritz/absps/colt93.html - keep neural simple by minimizing descr length - hinton  
 https://github.com/vivanov879/draw - code  
 
+
 ## June 20, 2016 - Penninsula   
 Recurrent models of visual attention - Deep Mind   
 https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf   
@@ -21,8 +22,17 @@ https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf
 ## June 23, 29 2016 - SF
 http://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines - Graves et. al.  
 https://arxiv.org/pdf/1605.06065v1.pdf - One Shot Learning - DeepMind  
+http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065 - Larochell comments on One-Shot paper
 https://github.com/shawntan/neural-turing-machines - Code  
 https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp4ecce - schmidhuber's comments
+http://www.thespermwhale.com/jaseweston/ram/papers/paper_16.pdf
+http://snowedin.net/tmp/Hochreiter2001.pdf - 
+Reviews:
+http://icml.cc/2016/reviews/839.txt
+Code
+https://github.com/brendenlake/omniglot
+https://github.com/tristandeleu/ntm-one-shot
+https://github.com/MLWave/extremely-simple-one-shot-learning
 
 ## June 13, 2016 - TBD, Penninsula
 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning:  
