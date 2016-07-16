@@ -6,12 +6,12 @@ Papers to read:
 http://www.thespermwhale.com/jaseweston/ram/papers/paper_16.pdf  
 http://snowedin.net/tmp/Hochreiter2001.pdf - 
 
-Comments / Code
+Comments / Code  
 http://icml.cc/2016/reviews/839.txt  
-https://github.com/brendenlake/omniglot
-https://github.com/tristandeleu/ntm-one-shot
-https://github.com/MLWave/extremely-simple-one-shot-learning
-https://www.periscope.tv/hugo_larochelle/1ypJdnPRYEoKW
+https://github.com/brendenlake/omniglot  
+https://github.com/tristandeleu/ntm-one-shot  
+https://github.com/MLWave/extremely-simple-one-shot-learning  
+https://www.periscope.tv/hugo_larochelle/1ypJdnPRYEoKW  
   
   
   
