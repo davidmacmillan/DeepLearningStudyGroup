@@ -1,5 +1,30 @@
-# hdDeepLearningStudy
-Code etc for Deep Learning Study Group
+# hdDeepLearningStudy  
+Code etc for Deep Learning Study Group  
+  
+## July 21, 2016 - SF
+Papers to read:  
+http://www.thespermwhale.com/jaseweston/ram/papers/paper_16.pdf  
+http://snowedin.net/tmp/Hochreiter2001.pdf - 
+
+Comments / Code
+http://icml.cc/2016/reviews/839.txt  
+https://github.com/brendenlake/omniglot
+https://github.com/tristandeleu/ntm-one-shot
+https://github.com/MLWave/extremely-simple-one-shot-learning
+https://www.periscope.tv/hugo_larochelle/1ypJdnPRYEoKW
+  
+  
+  
+## July 18, 2016 - Hacker Dojo  
+Papers to read:  
+http://arxiv.org/pdf/1312.6114v10.pdf - variational autoencoders - U of Amsterdam - Kingma and Welling  
+http://arxiv.org/pdf/1310.8499v2.pdf - deep autoregressive networks - deep mind   
+  
+Commentaries/Code  
+https://jmetzen.github.io/2015-11-27/vae.html - metzen - code and discussion  
+http://blog.keras.io/building-autoencoders-in-keras.html - chollet - discusses different autoencoders, gives keras code.  
+
+
 
 ## June 27, July 11 2016 - Hacker Dojo   
 Recurrent network for image generation - Deep Mind   
@@ -9,7 +34,7 @@ http://blog.evjang.com/2016/06/understanding-and-implementing.html - blog w. cod
 http://arxiv.org/pdf/1312.6114v10.pdf - Variational Auto Encoder  
 https://jmetzen.github.io/2015-11-27/vae.html - tf code for variational auto-encoder  
 https://www.youtube.com/watch?v=P78QYjWh5sM  
-http://arxiv.org/pdf/1310.8499v2.pdf - deep autoregressive networks - deep mind  
+
 https://arxiv.org/pdf/1401.4082.pdf  - stochastic backpropagation and approx inference - deep mind  
 http://www.cs.toronto.edu/~fritz/absps/colt93.html - keep neural simple by minimizing descr length - hinton  
 https://github.com/vivanov879/draw - code  
@@ -22,13 +47,13 @@ https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf
 ## June 23, 29 2016 - SF
 http://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines - Graves et. al.  
 https://arxiv.org/pdf/1605.06065v1.pdf - One Shot Learning - DeepMind  
-http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065 - Larochell comments on One-Shot paper
+http://www.shortscience.org/paper?bibtexKey=journals/corr/1605.06065 - Larochell comments on One-Shot paper  
 https://github.com/shawntan/neural-turing-machines - Code  
-https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp4ecce - schmidhuber's comments
-http://www.thespermwhale.com/jaseweston/ram/papers/paper_16.pdf
+https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp4ecce - schmidhuber's comments  
+http://www.thespermwhale.com/jaseweston/ram/papers/paper_16.pdf  
 http://snowedin.net/tmp/Hochreiter2001.pdf - 
-Reviews:
-http://icml.cc/2016/reviews/839.txt
+Reviews:  
+http://icml.cc/2016/reviews/839.txt  
 Code
 https://github.com/brendenlake/omniglot
 https://github.com/tristandeleu/ntm-one-shot
