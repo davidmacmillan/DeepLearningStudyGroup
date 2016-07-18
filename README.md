@@ -19,6 +19,7 @@ https://www.periscope.tv/hugo_larochelle/1ypJdnPRYEoKW
 Papers to read:  
 http://arxiv.org/pdf/1312.6114v10.pdf - variational autoencoders - U of Amsterdam - Kingma and Welling  
 http://arxiv.org/pdf/1310.8499v2.pdf - deep autoregressive networks - deep mind   
+ https://arxiv.org/abs/1606.05908 - tutorial on vae
   
 Commentaries/Code  
 https://jmetzen.github.io/2015-11-27/vae.html - metzen - code and discussion  
