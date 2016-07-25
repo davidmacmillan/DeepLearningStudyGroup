@@ -2,9 +2,9 @@
 Papers,code etc for deep learning study group  
 
 ## July 25, 2016 - Hacker Dojo
-Papers - Using VAE for anomaly detection
-https://arxiv.org/pdf/1411.7610.pdf - Stochastic Recurrent Networks
-https://drive.google.com/file/d/0B8Dg3PBX90KNWG5KQXNQOFlBLU1JWWVONkN1UFpnbUR6Y0cw/view?pref=2&pli=1 - Using Stochastic RNN for temporal anomaly detection
+Papers - Using VAE for anomaly detection  
+https://arxiv.org/pdf/1411.7610.pdf - Stochastic Recurrent Networks  
+https://drive.google.com/file/d/0B8Dg3PBX90KNWG5KQXNQOFlBLU1JWWVONkN1UFpnbUR6Y0cw/view?pref=2&pli=1 - Using Stochastic RNN for temporal anomaly detection  
 
   
 ## July 21, 2016 - SF
