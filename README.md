@@ -1,6 +1,15 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 
+## August 1, 2016 - Hacker Dojo
+Papers - 
+https://drive.google.com/file/d/0B8Dg3PBX90KNWG5KQXNQOFlBLU1JWWVONkN1UFpnbUR6Y0cw/view?pref=2&pli=1 - Using Stochastic RNN for temporal anomaly detection 
+https://arxiv.org/pdf/1401.4082v3.pdf - Rezende - Other Original VAE paper  
+
+Code Review -   
+https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/vae/vae_demo.ipynb  
+https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/vae/vae_demo-2D.ipynb  
+
 ## July 25, 2016 - Hacker Dojo
 Papers - Using VAE for anomaly detection  
 https://arxiv.org/pdf/1411.7610.pdf - Stochastic Recurrent Networks  
