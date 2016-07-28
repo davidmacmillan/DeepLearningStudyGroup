@@ -11,6 +11,17 @@ Code Review -
 https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/vae/vae_demo.ipynb  
 https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/vae/vae_demo-2D.ipynb  
 
+## July 28, 2016 - SF
+Papers:  
+http://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines - Graves et. al.  
+https://arxiv.org/pdf/1605.06065v1.pdf - One Shot Learning - DeepMind  
+
+Code:  
+http://icml.cc/2016/reviews/839.txt  
+https://github.com/brendenlake/omniglot  
+https://github.com/tristandeleu/ntm-one-shot  
+https://github.com/MLWave/extremely-simple-one-shot-learning  
+
 ## July 25, 2016 - Hacker Dojo
 Papers - Using VAE for anomaly detection  
 https://arxiv.org/pdf/1411.7610.pdf - Stochastic Recurrent Networks  
