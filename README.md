@@ -1,6 +1,13 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 
+## August 8, 2016 - Hacker Dojo  
+https://arxiv.org/pdf/1406.2661.pdf - originating paper on generative adversarial net (gan) - goodfellow, bengio  
+http://arxiv.org/pdf/1511.06434v2.pdf - deep cnn gan - radford  
+https://github.com/Newmu/dcgan_code - theano code for cnn gan - radford  
+
+
+
 ## August 1, 2016 - Hacker Dojo
 Papers -   
 https://drive.google.com/file/d/0B8Dg3PBX90KNWG5KQXNQOFlBLU1JWWVONkN1UFpnbUR6Y0cw/view?pref=2&pli=1 - Using Stochastic RNN for temporal anomaly detection  
