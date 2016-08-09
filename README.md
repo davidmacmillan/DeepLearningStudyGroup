@@ -1,6 +1,9 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 
+## August 15, 2016 - Hacker Dojo  
+https://arxiv.org/pdf/1607.02533v1.pdf - Hardening deep networks to adversarial examples.  
+
 ## August 8, 2016 - Hacker Dojo  
 https://arxiv.org/pdf/1406.2661.pdf - originating paper on generative adversarial net (gan) - goodfellow, bengio  
 http://arxiv.org/pdf/1511.06434v2.pdf - deep cnn gan - radford  
