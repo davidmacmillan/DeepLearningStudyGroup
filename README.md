@@ -5,7 +5,7 @@ Papers,code etc for deep learning study group
 https://arxiv.org/pdf/1607.02533v1.pdf - Hardening deep networks to adversarial examples.  
 
 ## August 11, 2016 - Galvanize (SF)
-http://www.gitxiv.com/posts/HQJ3F9YzsQZ3eJjpZ/model-free-episodic-control - deep mind archiv paper and code on github
+http://www.gitxiv.com/posts/HQJ3F9YzsQZ3eJjpZ/model-free-episodic-control - deep mind gitxiv paper and code on github
 
 ## August 8, 2016 - Hacker Dojo  
 https://arxiv.org/pdf/1406.2661.pdf - originating paper on generative adversarial net (gan) - goodfellow, bengio  
@@ -13,7 +13,7 @@ http://arxiv.org/pdf/1511.06434v2.pdf - deep cnn gan - radford
 https://github.com/Newmu/dcgan_code - theano code for cnn gan - radford  
 
 ## August 4, 2016 - Galvanize (SF)
-http://www.gitxiv.com/posts/HQJ3F9YzsQZ3eJjpZ/model-free-episodic-control - deep mind archiv paper and code on github
+http://www.gitxiv.com/posts/HQJ3F9YzsQZ3eJjpZ/model-free-episodic-control - deep mind gitxiv paper and code on github
 
 ## August 1, 2016 - Hacker Dojo
 Papers -   
