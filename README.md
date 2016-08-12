@@ -1,6 +1,10 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 
+## August 18, 2016 - Galvanize (SF)  
+https://arxiv.org/pdf/1602.01783v2.pdf - new RL architecture - deep mind  
+
+
 ## August 15, 2016 - Hacker Dojo  
 https://arxiv.org/pdf/1607.02533v1.pdf - Hardening deep networks to adversarial examples.  
 
