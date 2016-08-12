@@ -10,6 +10,8 @@ https://arxiv.org/pdf/1607.02533v1.pdf - Hardening deep networks to adversarial 
 
 ## August 11, 2016 - Galvanize (SF)
 http://www.gitxiv.com/posts/HQJ3F9YzsQZ3eJjpZ/model-free-episodic-control - deep mind gitxiv paper and code on github
+https://github.com/sudeepraja/Model-Free-Episodic-Control - other code
+https://github.com/ShibiHe/Model-Free-Episodic-Control
 
 ## August 8, 2016 - Hacker Dojo  
 https://arxiv.org/pdf/1406.2661.pdf - originating paper on generative adversarial net (gan) - goodfellow, bengio  
