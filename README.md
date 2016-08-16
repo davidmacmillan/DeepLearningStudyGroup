@@ -1,6 +1,13 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 
+## August 25 - Galvanize (SF)
+https://arxiv.org/pdf/1606.03126v1.pdf - key/value memory augmented nn
+http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf#page=87 - tutorial on memory networks in language understanding
+
+## August 22 - Hacker Dojo
+https://arxiv.org/pdf/1605.07648v1.pdf - fractal net - alternative to resnet for ultra-deep convolution
+
 ## August 18, 2016 - Galvanize (SF)  
 https://arxiv.org/pdf/1602.01783v2.pdf - new RL architecture - deep mind  
 
