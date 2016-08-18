@@ -11,6 +11,11 @@ https://arxiv.org/pdf/1605.07648v1.pdf - fractal net - alternative to resnet for
 ## August 18, 2016 - Galvanize (SF)  
 https://arxiv.org/pdf/1602.01783v2.pdf - new RL architecture - deep mind  
 
+Code:
+https://github.com/Zeta36/Asynchronous-Methods-for-Deep-Reinforcement-Learning - tf  
+https://github.com/miyosuda/async_deep_reinforce - tf  
+https://github.com/coreylynch/async-rl - keras (tf)  
+https://github.com/muupan/async-rl - chainer (good discussion)  
 
 ## August 15, 2016 - Hacker Dojo  
 https://arxiv.org/pdf/1607.02533v1.pdf - Hardening deep networks to adversarial examples.  
