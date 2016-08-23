@@ -7,6 +7,7 @@ https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles
 ## August 29 - Hacker Dojo
 https://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines  
 https://github.com/carpedm20/NTM-tensorflow  
+https://www.youtube.com/watch?v=_H0i0IhEO2g - Alex Graves presentation at microsoft research  
 
 ## August 25 - Galvanize (SF)
 https://arxiv.org/pdf/1606.03126v1.pdf - key/value memory augmented nn
