@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=_H0i0IhEO2g - Alex Graves presentation at micros
 http://www.robots.ox.ac.uk/~tvg/publications/talks/NeuralTuringMachines.pdf - slides for ntm  
 
 ## August 25 - Galvanize (SF)
+http://arxiv.org/pdf/1410.3916v11.pdf - original memory networks    
 https://arxiv.org/pdf/1606.03126v1.pdf - key/value memory augmented nn
 http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf#page=87 - tutorial on memory networks in language understanding
 
