@@ -1,8 +1,12 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 
-## Sept 12 - Hacker Dojo  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
+
+## Sept 12 - Hacker Dojo  
+http://arxiv.org/pdf/1410.3916v11.pdf - original memory networks    
+https://arxiv.org/pdf/1606.03126v1.pdf - key/value memory augmented nn
+http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf#page=87 - tutorial on memory networks in language understanding
 
 ## August 29 - Hacker Dojo
 https://arxiv.org/pdf/1410.5401v2.pdf - Neural Turing Machines  
