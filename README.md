@@ -1,7 +1,11 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
-
+#Suggestions for future readings
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
+
+## Sept 15 - Galvanize SF
+http://www.gitxiv.com/posts/fepYG4STYaej3KSPZ/densely-connected-convolutional-netowork-densenet
+
 
 ## Sept 12 - Hacker Dojo  
 http://arxiv.org/pdf/1410.3916v11.pdf - original memory networks    
