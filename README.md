@@ -6,8 +6,8 @@ https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles
 
 ## Sept 19 - Hacker Dojo  
 https://arxiv.org/pdf/1606.05328v2.pdf - Conditional Image Generation with PixelCNN decoders  
-https://arxiv.org/pdf/1601.06759v3.pdf - Pixel RNN
-https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view - wavenet Generative Audio
+https://arxiv.org/pdf/1601.06759v3.pdf - Pixel RNN  
+https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view - wavenet Generative Audio  
 https://deepmind.com/blog/wavenet-generative-model-raw-audio/ - wavenet blog  
 
 ## Sept 15 - Galvanize SF
