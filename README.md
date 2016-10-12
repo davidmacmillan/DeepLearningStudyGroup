@@ -1,11 +1,19 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
-#Suggestions for future readings
+#Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
 ## Oct 17 - Hacker Dojo
 https://arxiv.org/pdf/1608.06993v1.pdf - DenseNet.  New reigning champion image classifier  
 https://github.com/liuzhuang13/DenseNet - lua code  
+The DenseNet paper is straight-forward, so we're also going to start on image captioning  
+
+http://www.cs.toronto.edu/~zemel/documents/captionAttn.pdf  
+http://kelvinxu.github.io/projects/capgen.html  
+
+collections of captioning papers. 
+https://github.com/kjw0612/awesome-deep-vision#image-captioning - images  
+https://github.com/kjw0612/awesome-deep-vision#video-captioning - video  
 
 ## Oct 13 - SF
 http://www.mit.edu/~dimitrib/NDP_Encycl.pdf - (early) Bersekas paper on RL, policy and value iteration  
