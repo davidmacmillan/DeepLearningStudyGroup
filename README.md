@@ -3,6 +3,10 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
+## Oct 14 - SF
+http://www.mit.edu/~dimitrib/NDP_Encycl.pdf - (early) Bersekas paper on RL, policy and value iteration  
+http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&cmp=em-data-na-na-newsltr_20160420 - blog post on RL. Nice coverage of value iteration  
+
 
 ## Sept 19 - Hacker Dojo  
 https://arxiv.org/pdf/1606.05328v2.pdf - Conditional Image Generation with PixelCNN decoders  
