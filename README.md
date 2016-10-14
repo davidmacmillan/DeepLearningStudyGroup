@@ -3,6 +3,9 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
+## October 20 - Galvanize  
+https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html - Deep dive into reinforcement learning - Sutton and Barto - Chapters 1 and 2.  
+
 ## Oct 17 - Hacker Dojo
 https://arxiv.org/pdf/1608.06993v1.pdf - DenseNet.  New reigning champion image classifier  
 https://github.com/liuzhuang13/DenseNet - lua code  
