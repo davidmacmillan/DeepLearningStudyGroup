@@ -3,6 +3,12 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
+## October 31 - Hacker Dojo
+https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow - tf code for attention-captioning
+http://cs.stanford.edu/people/karpathy/densecap/ - karpathy captioning
+https://arxiv.org/pdf/1412.2306v2.pdf - earlier karpathy captioning paper
+
+
 ## October 20 - Galvanize  
 https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html - Deep dive into reinforcement learning - Sutton and Barto - Chapters 1 and 2.  
 
@@ -13,6 +19,7 @@ The DenseNet paper is straight-forward, so we're also going to start on image ca
 
 http://www.cs.toronto.edu/~zemel/documents/captionAttn.pdf  
 http://kelvinxu.github.io/projects/capgen.html  
+http://people.ee.duke.edu/~lcarin/Yunchen9.25.2015.pdf - slides for caption attention
 
 collections of captioning papers. 
 https://github.com/kjw0612/awesome-deep-vision#image-captioning - images  
