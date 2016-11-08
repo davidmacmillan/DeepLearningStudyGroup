@@ -3,6 +3,9 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
+## November 14 - Hacker Dojo
+https://arxiv.org/pdf/1506.02025v3.pdf - Spatial transformer networks
+
 ## October 31 - Hacker Dojo
 https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow - tf code for attention-captioning
 http://cs.stanford.edu/people/karpathy/densecap/ - karpathy captioning
