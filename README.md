@@ -3,9 +3,13 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
+## November 21 - Hacker Dojo
+https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf - RCNN   
+https://arxiv.org/pdf/1506.01497v3.pdf -  Faster R-CNN   
+
 ## November 14 - Hacker Dojo
-https://arxiv.org/pdf/1506.02025v3.pdf - Spatial transformer networks
-https://github.com/daviddao/spatial-transformer-tensorflow - tf code for above
+https://arxiv.org/pdf/1506.02025v3.pdf - Spatial transformer networks   
+https://github.com/daviddao/spatial-transformer-tensorflow - tf code for above   
 
 ## October 31 - Hacker Dojo
 https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow - tf code for attention-captioning
