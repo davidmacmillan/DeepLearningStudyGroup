@@ -5,7 +5,10 @@ https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles
 
 ## November 21 - Hacker Dojo
 https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf - RCNN   
+https://arxiv.org/pdf/1504.08083v2.pdf - RCNN - first in series  
 https://arxiv.org/pdf/1506.01497v3.pdf -  Faster R-CNN   
+http://techtalks.tv/talks/rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation/60254/ - video of Girshick talk  
+
 
 ## November 14 - Hacker Dojo
 https://arxiv.org/pdf/1506.02025v3.pdf - Spatial transformer networks   
