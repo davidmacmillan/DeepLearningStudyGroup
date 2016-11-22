@@ -3,6 +3,12 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
+## November 28 - Hacker Dojo
+https://arxiv.org/pdf/1506.01497v3.pdf
+people.eecs.berkeley.edu/~rbg/slides/rbg-defense-slides.pdf - Girshick thesis slides  
+Check edge boxes and selective search
+
+
 ## November 21 - Hacker Dojo
 https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf - RCNN   
 https://arxiv.org/pdf/1504.08083v2.pdf - RCNN - first in series  
