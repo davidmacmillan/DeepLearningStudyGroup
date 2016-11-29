@@ -3,6 +3,21 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
+## December 12 - Hacker Dojo  
+https://arxiv.org/pdf/1602.08124v3.pdf - soa for parallelization
+https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues  
+http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture  
+https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk
+
+
+
+## December 5 - Hacker Dojo
+https://arxiv.org/pdf/1506.06204.pdf - Object segmentation
+https://arxiv.org/pdf/1603.08695v2.pdf - refinement of above segmentation paper  
+https://code.facebook.com/posts/561187904071636/segmenting-and-refining-images-with-sharpmask/ - blog post  
+https://github.com/facebookresearch/deepmask - torch code for deepmask  
+
+
 ## November 28 - Hacker Dojo
 https://arxiv.org/pdf/1506.01497v3.pdf  
 people.eecs.berkeley.edu/~rbg/slides/rbg-defense-slides.pdf - Girshick thesis slides  
