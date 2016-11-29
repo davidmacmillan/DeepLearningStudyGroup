@@ -4,7 +4,7 @@ Papers,code etc for deep learning study group
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
 ## November 28 - Hacker Dojo
-https://arxiv.org/pdf/1506.01497v3.pdf
+https://arxiv.org/pdf/1506.01497v3.pdf  
 people.eecs.berkeley.edu/~rbg/slides/rbg-defense-slides.pdf - Girshick thesis slides  
 Check edge boxes and selective search
 
