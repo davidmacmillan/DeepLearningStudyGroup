@@ -6,7 +6,8 @@ https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles
 ## November 28 - Hacker Dojo
 https://arxiv.org/pdf/1506.01497v3.pdf  
 people.eecs.berkeley.edu/~rbg/slides/rbg-defense-slides.pdf - Girshick thesis slides  
-Check edge boxes and selective search
+Check edge boxes and selective search  
+https://arxiv.org/pdf/1406.4729v4.pdf - key part of architecture  
 
 
 ## November 21 - Hacker Dojo
