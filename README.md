@@ -3,13 +3,15 @@ Papers,code etc for deep learning study group
 #Suggestions for future readings  
 https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
 
-## December 12 - Hacker Dojo  
+## December 19 - Hacker Dojo  
 https://arxiv.org/pdf/1602.08124v3.pdf - soa for parallelization
 https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues  
 http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture  
 https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk
 
-
+## December 12 - Hacker Dojo 
+https://arxiv.org/pdf/1604.02135v2.pdf - latest segmentation fair  
+https://github.com/MarvinTeichmann/tensorflow-fcn - code for segmenter   
 
 ## December 5 - Hacker Dojo
 https://arxiv.org/pdf/1506.06204.pdf - Object segmentation
