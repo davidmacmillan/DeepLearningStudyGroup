@@ -1,13 +1,18 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 #Suggestions for future readings  
-https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles  
+https://arxiv.org/pdf/1605.06431v1.pdf - Deep nets are ensembles   
+https://arxiv.org/pdf/1602.08124v3.pdf - soa for parallelization  
+https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues  
+http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture   
+https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk  
+
+
+
+
 
 ## December 19 - Hacker Dojo  
-https://arxiv.org/pdf/1602.08124v3.pdf - soa for parallelization
-https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues  
-http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture  
-https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk
+https://arxiv.org/pdf/1611.01576.pdf - Socher qRnn paper
 
 ## December 12 - Hacker Dojo 
 https://arxiv.org/pdf/1604.02135v2.pdf - latest segmentation fair  
