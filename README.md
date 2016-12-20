@@ -8,8 +8,8 @@ http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed 
 https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk  
 
 
-
-
+## January 2 - Hacker Dojo
+https://arxiv.org/pdf/1602.02218v2.pdf
 
 ## December 19 - Hacker Dojo  
 https://arxiv.org/pdf/1611.01576.pdf - Socher qRnn paper
