@@ -7,6 +7,9 @@ https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues
 http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture   
 https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk  
 
+## January 9 - Hacker Dojo
+Cheuksan Edward Wang Talk
+https://arxiv.org/pdf/1612.04642v1.pdf - rotation invariant cnn
 
 ## January 2 - Hacker Dojo
 https://arxiv.org/pdf/1602.02218v2.pdf
