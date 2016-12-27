@@ -12,9 +12,10 @@ Cheuksan Edward Wang Talk
 https://arxiv.org/pdf/1612.04642v1.pdf - rotation invariant cnn
 
 ## January 2 - Hacker Dojo
-https://arxiv.org/pdf/1602.02218v2.pdf
+https://arxiv.org/pdf/1602.02218v2.pdf - using typing to improve RNN behavior
+http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf - exploration of alternative LSTM architectures
 
-## December 19 - Hacker Dojo  
+## December 19 - Hacker Dojo 
 https://arxiv.org/pdf/1611.01576.pdf - Socher qRnn paper
 
 ## December 12 - Hacker Dojo 
