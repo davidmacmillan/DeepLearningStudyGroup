@@ -6,6 +6,11 @@ https://arxiv.org/pdf/1602.08124v3.pdf - soa for parallelization
 https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues  
 http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture   
 https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk  
+https://arxiv.org/pdf/1611.01578v1.pdf - RL for finding neural architectures
+http://mlg.eng.cam.ac.uk/yarin/blog_2248.html - uncertainty in neural nets
+
+## January 16 - Hacker Dojo
+https://arxiv.org/pdf/1511.06464v4.pdf - Unitary Evolution RNN
 
 ## January 9 - Hacker Dojo
 Cheuksan Edward Wang Talk  
