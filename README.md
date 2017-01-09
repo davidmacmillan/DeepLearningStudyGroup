@@ -6,12 +6,25 @@ https://arxiv.org/pdf/1602.08124v3.pdf - soa for parallelization
 https://arxiv.org/pdf/1404.5997v2.pdf - parallel computation issues  
 http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed architecture   
 https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk  
+https://arxiv.org/pdf/1611.01578v1.pdf - RL for finding neural architectures
+http://mlg.eng.cam.ac.uk/yarin/blog_2248.html - uncertainty in neural nets
 
+## January 23 - HackerDojo
+https://arxiv.org/abs/1612.03242 - Stack Gan Paper  
+https://github.com/hanzhanggit/StackGAN - Code  
+
+## January 16 - Hacker Dojo
+https://arxiv.org/pdf/1511.06464v4.pdf - Unitary Evolution RNN
+
+## January 9 - Hacker Dojo
+Cheuksan Edward Wang Talk  
+https://arxiv.org/pdf/1612.04642v1.pdf - rotation invariant cnn  
 
 ## January 2 - Hacker Dojo
-https://arxiv.org/pdf/1602.02218v2.pdf
+https://arxiv.org/pdf/1602.02218v2.pdf - using typing to improve RNN behavior  
+http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf - exploration of alternative LSTM architectures  
 
-## December 19 - Hacker Dojo  
+## December 19 - Hacker Dojo 
 https://arxiv.org/pdf/1611.01576.pdf - Socher qRnn paper
 
 ## December 12 - Hacker Dojo 
