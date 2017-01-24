@@ -4,7 +4,7 @@ This document describes how to use spot instances on AWS.
 Spot instances deliver a savings of almost 80% of the on-demand rate.
 However they get interrupted, potentially loosing data. 
 
-![AWS Spot Instances] (http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/how-spot-instances-work.html)
+<http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/how-spot-instances-work.html>
 
 The key to utilizing spot instances is automation, especially around interruption.
 A simple workaround, is to use an EBS drive that automounts + a user data script that fires off will allows you to 
@@ -53,7 +53,7 @@ Docker Hub
 * A suggested Docker container from Waleed that has tensorflow + opencv is here. Note
 start it with nvidia-docker, instead of docker if u want GPU support
 
-![Deep Learning](https://hub.docker.com/r/waleedka/modern-deep-learning/)
+<https://hub.docker.com/r/waleedka/modern-deep-learning/>
 
 
 4) Setup an S3 bucket. (optional)
