@@ -9,6 +9,16 @@ https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk
 https://arxiv.org/pdf/1611.01578v1.pdf - RL for finding neural architectures
 http://mlg.eng.cam.ac.uk/yarin/blog_2248.html - uncertainty in neural nets
 
+
+## February 13 - Hacker Dojo 
+https://arxiv.org/pdf/1701.06538v1.pdf - Outrageously large neural networks  
+
+## February 6 - Hacker Dojo  
+
+https://arxiv.org/pdf/1505.00387v2.pdf - Highway networks  
+https://arxiv.org/pdf/1607.03474v3.pdf - Recurrent Highway Networks  
+
+
 ## January 30 - Hacker Dojo
 https://arxiv.org/pdf/1603.03116v2.pdf - Low-rank pass-through RNN's follow-on to unitary rnn
 https://github.com/Avmb/lowrank-gru - theano code
