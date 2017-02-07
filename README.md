@@ -16,6 +16,7 @@ https://arxiv.org/pdf/1701.06538v1.pdf - Outrageously large neural networks
 ## February 6 - Hacker Dojo  
 
 https://arxiv.org/pdf/1505.00387v2.pdf - Highway networks  
+https://arxiv.org/pdf/1507.06228.pdf - Also highway networks - different examples   
 https://arxiv.org/pdf/1607.03474v3.pdf - Recurrent Highway Networks  
 
 
