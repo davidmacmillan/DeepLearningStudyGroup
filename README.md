@@ -8,12 +8,16 @@ http://www.wsdm-conference.org/2016/slides/WSDM2016-Jeff-Dean.pdf - distributed 
 https://www.youtube.com/watch?v=sUzQpd-Ku4o - video of jeff dean talk  
 https://arxiv.org/pdf/1611.01578v1.pdf - RL for finding neural architectures
 http://mlg.eng.cam.ac.uk/yarin/blog_2248.html - uncertainty in neural nets
+https://arxiv.org/pdf/1611.01587.pdf -  Joint Many-task model: Neural Net for multiple NLP Tasks - Socher
 
-## February 27 - Hacker Dojo  
+## Mar 6 - Hacker Dojo  
 https://arxiv.org/pdf/1612.05424.pdf - Unsupervised Pixel-level domain adaptation with generative adversarial networks   
 
-## February 20 - Hacker Dojo   
+## February 27 - Hacker Dojo   
 https://arxiv.org/pdf/1701.06547.pdf - adversarial learning for neural dialog generation
+
+## February 20 - Hacker Dojo
+https://arxiv.org/pdf/1506.07285.pdf  - Ask me anything - Socher  
 
 
 ## February 13 - Hacker Dojo 
