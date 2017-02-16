@@ -14,7 +14,8 @@ https://arxiv.org/pdf/1611.01587.pdf -  Joint Many-task model: Neural Net for mu
 https://arxiv.org/pdf/1612.05424.pdf - Unsupervised Pixel-level domain adaptation with generative adversarial networks   
 
 ## February 27 - Hacker Dojo   
-https://arxiv.org/pdf/1701.06547.pdf - adversarial learning for neural dialog generation
+https://arxiv.org/pdf/1612.02699.pdf - Deep Supervision with Shape Concepts for Occlusion-Aware 3D Object Parsing  
+https://arxiv.org/pdf/1701.06547.pdf - adversarial learning for neural dialog generation  
 
 ## February 20 - Hacker Dojo
 https://arxiv.org/pdf/1506.07285.pdf  - Ask me anything - Socher  
