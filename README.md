@@ -19,6 +19,8 @@ https://arxiv.org/pdf/1701.06547.pdf - adversarial learning for neural dialog ge
 
 ## February 20 - Hacker Dojo
 https://arxiv.org/pdf/1506.07285.pdf  - Ask me anything - Socher  
+https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano - Code and implementation notes.  
+https://www.youtube.com/watch?v=FCtpHt6JEI8&t=27s - Socher presentation of material  
 
 
 ## February 13 - Hacker Dojo 
