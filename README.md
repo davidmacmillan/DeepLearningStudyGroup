@@ -10,12 +10,16 @@ https://arxiv.org/pdf/1611.01578v1.pdf - RL for finding neural architectures
 http://mlg.eng.cam.ac.uk/yarin/blog_2248.html - uncertainty in neural nets
 https://arxiv.org/pdf/1611.01587.pdf -  Joint Many-task model: Neural Net for multiple NLP Tasks - Socher
 
-## Mar 6 - Hacker Dojo  
+## Mar 20 - Hacker Dojo  
 https://arxiv.org/pdf/1612.05424.pdf - Unsupervised Pixel-level domain adaptation with generative adversarial networks   
+
+## Mar 13 - Hacker Dojo  
+https://arxiv.org/pdf/1701.06547.pdf - adversarial learning for neural dialog generation  
 
 ## February 27 - Hacker Dojo   
 https://arxiv.org/pdf/1612.02699.pdf - Deep Supervision with Shape Concepts for Occlusion-Aware 3D Object Parsing  
-https://arxiv.org/pdf/1701.06547.pdf - adversarial learning for neural dialog generation  
+Zeeshan's slides are in the folder with his name on it.  Along with his descriptions of his own ground-breaking work, he gives an excellent history of efforts to identify 3d objects from 2d images.  
+
 
 ## February 20 - Hacker Dojo
 https://arxiv.org/pdf/1506.07285.pdf  - Ask me anything - Socher  
