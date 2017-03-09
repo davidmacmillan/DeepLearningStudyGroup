@@ -11,6 +11,7 @@ http://mlg.eng.cam.ac.uk/yarin/blog_2248.html - uncertainty in neural nets
 https://arxiv.org/pdf/1611.01587.pdf -  Joint Many-task model: Neural Net for multiple NLP Tasks - Socher  
 http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf -GAN paper (recc by LeCun)  
 https://arxiv.org/pdf/1511.05440.pdf - GAN for video prediction  
+https://arxiv.org/abs/1703.02528 - Generative unadversarial networks  
 
 ## Mar 20 - Hacker Dojo  
 https://arxiv.org/pdf/1612.05424.pdf - Unsupervised Pixel-level domain adaptation with generative adversarial networks   
