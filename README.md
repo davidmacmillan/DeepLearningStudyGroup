@@ -13,6 +13,17 @@ http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-
 https://arxiv.org/pdf/1511.05440.pdf - GAN for video prediction  
 https://arxiv.org/abs/1703.02528 - Generative unadversarial networks  
 
+## Apr 3 - Hacker Dojo  
+
+https://arxiv.org/pdf/1603.08678.pdf - Instance-sensitive Fully Convolutional Networks  
+
+https://arxiv.org/pdf/1611.07709.pdf - Fully Convolutional Instance-aware Semantic Segmentation  
+
+
+## Mar 27 - Hacker Dojo
+Aurobindo Tripathy will reprise a talk he's going to give at Embedded Summit this year.  His talk will survey recent progress in object detection from RCNN to Single Shot MultiBox Detector and Yolo 9000.
+
+
 ## Mar 20 - Hacker Dojo  
 https://arxiv.org/pdf/1612.05424.pdf - Unsupervised Pixel-level domain adaptation with generative adversarial networks   
 
