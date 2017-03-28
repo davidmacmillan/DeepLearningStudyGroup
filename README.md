@@ -12,6 +12,9 @@ https://arxiv.org/pdf/1611.01587.pdf -  Joint Many-task model: Neural Net for mu
 http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf -GAN paper (recc by LeCun)  
 https://arxiv.org/pdf/1511.05440.pdf - GAN for video prediction  
 https://arxiv.org/abs/1703.02528 - Generative unadversarial networks  
+https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
+https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
+
 
 ## Apr 10 - Hacker Dojo  
 
