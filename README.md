@@ -13,11 +13,15 @@ http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-
 https://arxiv.org/pdf/1511.05440.pdf - GAN for video prediction  
 https://arxiv.org/abs/1703.02528 - Generative unadversarial networks  
 
-## Apr 3 - Hacker Dojo  
+## Apr 10 - Hacker Dojo  
 
 https://arxiv.org/pdf/1603.08678.pdf - Instance-sensitive Fully Convolutional Networks  
 
 https://arxiv.org/pdf/1611.07709.pdf - Fully Convolutional Instance-aware Semantic Segmentation  
+
+## Apr 3 - Hacker Dojo
+https://arxiv.org/pdf/1703.03864.pdf - Sutskever paper on using evolutionary systems for optimizing RL prob  
+http://jmlr.csail.mit.edu/papers/volume15/wierstra14a/wierstra14a.pdf - ES paper with algo used in Sutskever paper  
 
 
 ## Mar 27 - Hacker Dojo
