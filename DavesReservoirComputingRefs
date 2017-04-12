@@ -1,0 +1,85 @@
+Here is the material for Reservoir Computing for next week - one paper
+(with accompanying slides), plus a second paper if we have time.
+
+===
+Overview:
+
+Next week's paper is Reservoir Computing by Felix Grezes. But if you are
+new to randomized projections, you may want to start with the blog post
+from by Terence Tao and/or the Nuite Blanche blog post to learn about
+the underlying concepts - links to both blogs are below, after Grezes'
+paper and slides.
+
+If we have time we may also discuss "Information Processing Using a
+Single Dynamical Node as Complex System."
+
+--
+Links:
+
+Next weeks' paper (and related slides):
+Reservoir Computing by Felix Grezes.
+http://www.gc.cuny.edu/CUNY_GC/media/Computer-Science/Student%20Presentations/Felix%20Grezes/Second_Exam_Survey_Felix_Grezes_9_04_2014.pdf
+
+Slides by Felix Grezes: Reservoir Computing for Neural Networks
+http://www.gc.cuny.edu/CUNY_GC/media/Computer-Science/Student%20Presentations/Felix%20Grezes/Second_Exam_Slides_Felix_Grezes_9-14-2014.pdf
+(more at: http://speech.cs.qc.cuny.edu/~felix/ )
+
+--
+
+This is a short, very useful backgrounder on randomized projections,
+here used for compressed sensing, in a blog post by Terence Tao
+https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras/
+
+and the same story told with illustrations on the Nuit Blanche blog:
+http://nuit-blanche.blogspot.com/2007/07/how-does-rice-one-pixel-camera-work.html
+
+(BTW http://nuit-blanche.blogspot.com is a tremendous website.)
+
+---
+
+If we have time, we may discuss this paper:
+
+Information Processing Using a Single Dynamical Node as Complex System.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195233/pdf/ncomms1476.pdf
+
+Supplementary Information to the paper:
+http://www.nature.com/article-assets/npg/ncomms/journal/v2/n9/extref/ncomms1476-s1.pdf
+
+===
+
+Additional background info on, and software for, randomized projections
+and Reservoir Computing:
+
+Web Site on Reservoir Computing
+http://organic.elis.ugent.be/flavors
+--
+Reservoir Computing Python Toolkit (OGERr) (see above Reservoir
+Computing web site for list of other software packages)
+http://organic.elis.ugent.be/software/organic-environment-reservoir-computing-oger-toolbox
+--
+A good video by Ted Dunning on randomized projections:
+https://vimeo.com/33417977
+
+A key paper on randomized projections, which is discussed in the above
+video:
+Finding structure with randomness: Probabilistic algorithms for
+constructing approximate matrix decompositions -
+https://arxiv.org/abs/0909.4061
+--
+Some papers on Reservoir Computing that go into more detail:
+Constructing optimized binary masks for reservoir computing with delay
+systems
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3887384/pdf/srep03629.pdf
+--
+A Comparative Study of Reservoir Computing for Temporal Signal
+Processing https://arxiv.org/abs/1401.2224
+--
+Product Reservoir Computing: Time-Series Computation with Multiplicative
+Neurons
+https://arxiv.org/pdf/1502.00718.pdf
+--
+Reservoir computing approaches to recurrent neural network training
+http://minds.jacobs-university.de/sites/default/files/uploads/papers/2261_LukoseviciusJaeger09.pdf
+--
+Reservoir Computing and Self-Organized Neural Hierarchies
+http://minds.jacobs-university.de/sites/default/files/uploads/papers/Mantas_Lukosevicius_PhD_thesis.pdf
