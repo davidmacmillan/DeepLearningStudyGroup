@@ -16,6 +16,31 @@ https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - goog
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
 
+## Apr 17 - Hacker Dojo
+Reservoir Computing by Felix Grezes.
+http://www.gc.cuny.edu/CUNY_GC/media/Computer-Science/Student%20Presentations/Felix%20Grezes/Second_Exam_Survey_Felix_Grezes_9_04_2014.pdf  
+
+Slides by Felix Grezes: Reservoir Computing for Neural Networks  
+http://www.gc.cuny.edu/CUNY_GC/media/Computer-Science/Student%20Presentations/Felix%20Grezes/Second_Exam_Slides_Felix_Grezes_9-14-2014.pdf
+(more at: http://speech.cs.qc.cuny.edu/~felix/ )  
+
+This is a short, very useful backgrounder on randomized projections,  
+here used for compressed sensing, in a blog post by Terence Tao  
+https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras/  
+
+and the same story told with illustrations on the Nuit Blanche blog:  
+http://nuit-blanche.blogspot.com/2007/07/how-does-rice-one-pixel-camera-work.html  
+
+(BTW http://nuit-blanche.blogspot.com is a tremendous website.)  
+
+---
+
+If we have time, we may discuss this paper:  
+ 
+Information Processing Using a Single Dynamical Node as Complex System.  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195233/pdf/ncomms1476.pdf  
+
+
 ## Apr 10 - Hacker Dojo  
 
 https://arxiv.org/pdf/1603.08678.pdf - Instance-sensitive Fully Convolutional Networks  
