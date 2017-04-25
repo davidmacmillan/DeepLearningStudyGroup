@@ -15,9 +15,13 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
+
+## May 1 - Hacker Dojo
+"The Space of Transferable Adversarial Examples" https://arxiv.org/abs/1704.03453  
+
+
 ## Apr 24 - Hacker Dojo
 https://discourse-production.oss-cn-shanghai.aliyuncs.com/original/3X/1/5/15ba4cef726cab390faa180eb30fd82b693469f9.pdf - Using TPU for data center  
-
 
 
 ## Apr 17 - Hacker Dojo
