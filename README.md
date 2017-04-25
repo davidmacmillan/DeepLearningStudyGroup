@@ -17,7 +17,7 @@ https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifier
 
 
 ## May 1 - Hacker Dojo
-"The Space of Transferable Adversarial Examples" https://arxiv.org/abs/1704.03453  
+https://arxiv.org/abs/1704.03453  - The Space of Transferable Adversarial Examples
 
 
 ## Apr 24 - Hacker Dojo
