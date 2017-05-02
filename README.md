@@ -15,6 +15,9 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
+## May 15 - Hacker Dojo
+https://arxiv.org/pdf/1412.6572.pdf -  Explaining and Harnessing Adversarial Examples
+
 
 ## May 1 - Hacker Dojo
 https://arxiv.org/abs/1704.03453  - The Space of Transferable Adversarial Examples
