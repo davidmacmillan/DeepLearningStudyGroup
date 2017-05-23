@@ -15,6 +15,10 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
+## June 19 - Hacker Dojo
+https://arxiv.org/pdf/1701.02720.pdf - RNN for end to end voice recognition
+
+
 ## June 12 - Hacker Dojo  
 New reinforcement learning results -- Too cool for school.  Watch the video and you'll be hooked.  
 https://www.youtube.com/watch?v=2vnLBb18MuQ&feature=em-subs_digest  
