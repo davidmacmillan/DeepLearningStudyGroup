@@ -15,8 +15,14 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
+## July 10 - Hacker Dojo  
+https://arxiv.org/pdf/1706.01433.pdf - visual interaction networks - deep mind  
+https://arxiv.org/pdf/1706.01427.pdf - neural model for relational reasoning - deep mind
+
 ## June 26 - Hacker Dojo
-https://arxiv.org/pdf/1705.03122.pdf - convolutional sequence to sequence learning
+https://arxiv.org/pdf/1705.03122.pdf - convolutional sequence to sequence learning  
+https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
+http://www.machinelearning.org/proceedings/icml2006/047_Connectionist_Tempor.pdf - A. Graves, S. Fernandez, F. Gomez, and J. Schmidhuber  
 
 ## June 19 - Hacker Dojo
 https://arxiv.org/pdf/1701.02720.pdf - RNN for end to end voice recognition
