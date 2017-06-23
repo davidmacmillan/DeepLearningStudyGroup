@@ -18,6 +18,7 @@ https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifier
 ## July 24 - Hacker Dojo
 https://arxiv.org/pdf/1606.01541.pdf - Reinforcement Learning for Dialog Generation - Jurafsky  
 https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow - tensorflow code for same  
+https://github.com/jiweil/ - some related code  
 
 ## July 17 - Hacker Dojo  
 https://arxiv.org/pdf/1705.04304.pdf - A Deep Reinforced Model for Abstractive Summarization - socher  
