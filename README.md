@@ -15,22 +15,32 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
-## July 24 - Hacker Dojo
+## July 31 - Hacker Dojo
 https://arxiv.org/pdf/1606.01541.pdf - Reinforcement Learning for Dialog Generation - Jurafsky  
 https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow - tensorflow code for same  
 https://github.com/jiweil/ - some related code  
 
-## July 17 - Hacker Dojo  
+## July 24 - Hacker Dojo
 https://arxiv.org/pdf/1705.04304.pdf - A Deep Reinforced Model for Abstractive Summarization - socher  
 
-## July 10 - Hacker Dojo  
+## July 17 - Hacker Dojo  
 https://arxiv.org/pdf/1706.01433.pdf - visual interaction networks - deep mind  
-https://arxiv.org/pdf/1706.01427.pdf - neural model for relational reasoning - deep mind
+https://arxiv.org/pdf/1706.01427.pdf - neural model for relational reasoning - deep mind  
+
+## July 10 - Hacker Dojo  
+https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
+https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models  
+
+#### Some added references regarding positional encodings
+http://www.machinelearning.org/proceedings/icml2006/047_Connectionist_Tempor.pdf - A. Graves, S. Fernandez, F. Gomez, and J. Schmidhuber  
+https://www.reddit.com/r/MachineLearning/comments/6jdi87/r_question_about_positional_encodings_used_in/  
+
 
 ## June 26 - Hacker Dojo
 https://arxiv.org/pdf/1705.03122.pdf - convolutional sequence to sequence learning  
 https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
 http://www.machinelearning.org/proceedings/icml2006/047_Connectionist_Tempor.pdf - A. Graves, S. Fernandez, F. Gomez, and J. Schmidhuber  
+
 
 ## June 19 - Hacker Dojo
 https://arxiv.org/pdf/1701.02720.pdf - RNN for end to end voice recognition
