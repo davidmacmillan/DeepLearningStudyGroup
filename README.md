@@ -15,21 +15,30 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
-## July 31 - Hacker Dojo
+## August 7 - Hacker Dojo  
 https://arxiv.org/pdf/1606.01541.pdf - Reinforcement Learning for Dialog Generation - Jurafsky  
 https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow - tensorflow code for same  
 https://github.com/jiweil/ - some related code  
 
+
+## July 31 - Hacker Dojo
+https://arxiv.org/pdf/1705.04304.pdf - A Deep Reinforced Model for Abstractive Summarization - socher 
+
 ## July 24 - Hacker Dojo
-https://arxiv.org/pdf/1705.04304.pdf - A Deep Reinforced Model for Abstractive Summarization - socher  
+https://arxiv.org/pdf/1706.01433.pdf - visual interaction networks - deep mind  
+https://arxiv.org/pdf/1706.01427.pdf - neural model for relational reasoning - deep mind   
 
 ## July 17 - Hacker Dojo  
-https://arxiv.org/pdf/1706.01433.pdf - visual interaction networks - deep mind  
-https://arxiv.org/pdf/1706.01427.pdf - neural model for relational reasoning - deep mind  
+https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
+https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models  
+https://github.com/jadore801120/attention-is-all-you-need-pytorch - easier to read code  
+https://arxiv.org/pdf/1607.06450.pdf - layer normalization paper - hinton  
 
 ## July 10 - Hacker Dojo  
 https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
 https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models  
+https://github.com/jadore801120/attention-is-all-you-need-pytorch - easier to read code  
+https://arxiv.org/pdf/1607.06450.pdf - layer normalization paper - hinton  
 
 #### Some added references regarding positional encodings
 http://www.machinelearning.org/proceedings/icml2006/047_Connectionist_Tempor.pdf - A. Graves, S. Fernandez, F. Gomez, and J. Schmidhuber  
