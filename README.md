@@ -30,24 +30,25 @@ https://arxiv.org/pdf/1705.04304.pdf - A Deep Reinforced Model for Abstractive S
 https://arxiv.org/pdf/1706.01433.pdf - visual interaction networks - deep mind  
 https://arxiv.org/pdf/1706.01427.pdf - neural model for relational reasoning - deep mind   
 
-## July 24 - Hacker Dojo  
-https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
-https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models  
-https://github.com/jadore801120/attention-is-all-you-need-pytorch - easier to read code  
-https://arxiv.org/pdf/1607.06450.pdf - layer normalization paper - hinton  
 
-
-## July 17  
-Guest Speaker.  
+## July 24  
+Guest Speaker - Using FPGA to speed CNN.  
 https://arxiv.org/pdf/1703.03130.pdf - A structured self-attentive sentence embedding - Lin and Bengio  
 
-## July 10 - Hacker Dojo  
+## July 17 - Hacker Dojo  
 https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
 https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models  
 https://github.com/jadore801120/attention-is-all-you-need-pytorch - easier to read code  
 https://arxiv.org/pdf/1607.06450.pdf - layer normalization paper - hinton  
 https://www.youtube.com/watch?v=nR74lBO5M3s - google translate paper - youtube video  
 https://arxiv.org/pdf/1609.08144.pdf  - google translate paper - 
+
+## July 10 - Hacker Dojo  
+https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
+https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models  
+https://github.com/jadore801120/attention-is-all-you-need-pytorch - easier to read code  
+https://arxiv.org/pdf/1607.06450.pdf - layer normalization paper - hinton  
+
 
 #### Some added references regarding positional encodings
 http://www.machinelearning.org/proceedings/icml2006/047_Connectionist_Tempor.pdf - A. Graves, S. Fernandez, F. Gomez, and J. Schmidhuber  
