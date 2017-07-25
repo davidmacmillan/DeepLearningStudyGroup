@@ -34,6 +34,9 @@ https://arxiv.org/pdf/1706.01427.pdf - neural model for relational reasoning - d
 ## July 24  
 Guest Speaker - Using FPGA to speed CNN.  
 https://arxiv.org/pdf/1703.03130.pdf - A structured self-attentive sentence embedding - Lin and Bengio  
+https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/self_attention_embedding.md (review)  
+https://github.com/yufengm/SelfAttentive  code  
+https://github.com/Diego999/SelfSent  code  
 
 ## July 17 - Hacker Dojo  
 https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani  
