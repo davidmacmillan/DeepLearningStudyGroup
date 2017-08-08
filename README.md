@@ -21,6 +21,7 @@ https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifier
 https://arxiv.org/pdf/1606.01541.pdf - Reinforcement Learning for Dialog Generation - Jurafsky  
 https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow - tensorflow code for same  
 https://github.com/jiweil/ - some related code  
+https://arxiv.org/pdf/1612.00563.pdf - self critical training for image captioning - RL for text prob.  
 
 
 ## Aug 7 - Hacker Dojo
