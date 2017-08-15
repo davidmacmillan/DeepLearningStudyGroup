@@ -15,13 +15,18 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
-
+## August 21 - Hacker Dojo
+https://arxiv.org/pdf/1706.02515.pdf - Self Normalizing Neural Networks - Hochreiter  
 
 ## August 14 - Hacker Dojo  
 https://arxiv.org/pdf/1606.01541.pdf - Reinforcement Learning for Dialog Generation - Jurafsky  
 https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow - tensorflow code for same  
 https://github.com/jiweil/ - some related code  
 https://arxiv.org/pdf/1612.00563.pdf - self critical training for image captioning - RL for text prob.  
+  
+Some papers referenced by Jurafsky paper 
+[1506.05869] A Neural Conversational Model - Vinyals and Le  
+https://arxiv.org/abs/1604.04562 - Dialogue generation system - Wen  
 
 
 ## Aug 7 - Hacker Dojo
