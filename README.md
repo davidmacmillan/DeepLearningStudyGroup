@@ -16,7 +16,7 @@ https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - goog
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
 ## August 28 - Hacker Dojo
-https://arxiv.org/pdf/1602.08194.pdf - Scalable and Sustainable Deep Learning via Randomized Hashing  
+https://arxiv.org/pdf/1708.05344.pdf - SMASH: One-Shot Model Architecture Search through HyperNetworks
 
 
 ## August 21 - Hacker Dojo
