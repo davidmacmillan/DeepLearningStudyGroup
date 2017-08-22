@@ -15,6 +15,10 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
+## August 28 - Hacker Dojo
+https://arxiv.org/pdf/1602.08194.pdf - Scalable and Sustainable Deep Learning via Randomized Hashing  
+
+
 ## August 21 - Hacker Dojo
 https://arxiv.org/pdf/1706.02515.pdf - Self Normalizing Neural Networks - Hochreiter  
 
