@@ -17,6 +17,13 @@ https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifier
 
 ## August 28 - Hacker Dojo
 https://arxiv.org/pdf/1708.05344.pdf - SMASH: One-Shot Model Architecture Search through HyperNetworks
+https://www.youtube.com/watch?v=79tmPL9AL48 - youtube vid on SMASH  
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.5060&rep=rep1&type=pdf - hyperneat ref  
+https://arxiv.org/pdf/1609.09106.pdf - Hypernet ref  
+http://blog.otoro.net/2016/09/28/hyper-networks/ - blog on hypernet  
+https://www.youtube.com/watch?v=-8oyTYViuJ4 - vid on hyperNeat  
+http://eplex.cs.ucf.edu/hyperNEATpage/HyperNEAT.html - blog on hyperNeat
+
 
 
 ## August 21 - Hacker Dojo
