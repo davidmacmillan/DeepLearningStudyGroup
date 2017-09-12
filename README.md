@@ -15,6 +15,10 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
+## Sept 18 - Hacker Dojo
+https://arxiv.org/pdf/1705.02550.pdf - nvidia drone nav  
+https://github.com/NVIDIA-Jetson/redtail/wiki - code  
+
 ## Sept 11 - Hacker Dojo
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.5060&rep=rep1&type=pdf - hyperneat ref  
 https://arxiv.org/pdf/1609.09106.pdf - Hypernet ref  
