@@ -15,8 +15,11 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 
-## Sept 25 - Hacker Dojo
+## Oct 2 - Hacker Dojo
 https://arxiv.org/pdf/1707.03491.pdf - Deep Learning photographer  
+
+## Sept 25 - Hacker Dojo
+https://arxiv.org/pdf/1706.08947.pdf - Exploring generalization in deep networks.  
 
 ## Sept 18 - Hacker Dojo
 https://arxiv.org/pdf/1705.02550.pdf - nvidia drone nav  
