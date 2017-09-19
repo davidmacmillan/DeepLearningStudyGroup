@@ -14,6 +14,7 @@ https://arxiv.org/pdf/1511.05440.pdf - GAN for video prediction
 https://arxiv.org/abs/1703.02528 - Generative unadversarial networks  
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
+https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning 
 
 ## Oct 2 - Hacker Dojo
 https://arxiv.org/pdf/1707.03491.pdf - Deep Learning photographer  
