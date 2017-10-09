@@ -16,8 +16,11 @@ https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - goog
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning 
 
-## Oct 16 - Hacker Dojo
+## Oct 23 - Hacker Dojo
 https://arxiv.org/pdf/1707.03491.pdf - Deep Learning photographer  
+
+## Oct 16 - Hacker Dojo 
+https://arxiv.org/pdf/1703.00810.pdf - Opening the Black Box of Neural Nets via Information  
 
 ## Oct 9 - Hacker Dojo 
 https://arxiv.org/pdf/1501.00092.pdf - super resolution first paper  
