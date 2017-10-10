@@ -21,6 +21,8 @@ https://arxiv.org/pdf/1707.03491.pdf - Deep Learning photographer
 
 ## Oct 16 - Hacker Dojo 
 https://arxiv.org/pdf/1703.00810.pdf - Opening the Black Box of Neural Nets via Information  
+https://www.youtube.com/watch?v=ekUWO_pI2M8  
+https://www.youtube.com/watch?v=bLqJHjXihK8  
 
 ## Oct 9 - Hacker Dojo 
 https://arxiv.org/pdf/1501.00092.pdf - super resolution first paper  
