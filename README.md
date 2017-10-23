@@ -16,15 +16,34 @@ https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - goog
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning 
 
-## Oct 30 - Hacker Dojo
+## Nov 6 - Hacker Dojo  
 https://arxiv.org/pdf/1707.03491.pdf - Deep Learning photographer  
 
-## Oct 23 - Hacker Dojo  
+## Oct 30 - Hacker Dojo  
 https://arxiv.org/pdf/1503.02406.pdf  Naftali Tishby and Noga Zaslavsky. information bottleneck principle.  
 
 https://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf - Naftali Tishby, Fernando C. Pereira, and William Bialek. The information bottleneck method. 
 
 https://www.reddit.com/r/MachineLearning/comments/75uua6/r_2_hr_talk_information_theory_of_deep_learning/  
+
+## Oct 23 - Hacker Dojo  
+
+Mask R-CNN  
+https://arxiv.org/abs/1703.06870  
+
+
+And these are prerequisites (read at least Fast R-CNN and Faster R-CNN)  
+
+R-CNN  
+https://arxiv.org/abs/1311.2524  
+
+Fast R-CNN  
+https://arxiv.org/pdf/1504.08083.pdf  
+
+Faster R-CNN  
+https://arxiv.org/abs/1506.01497 Feature Pyramid Networks  
+https://arxiv.org/abs/1612.03144  
+
 
 ## Oct 16 - Hacker Dojo 
 https://arxiv.org/pdf/1703.00810.pdf - Opening the Black Box of Neural Nets via Information  
