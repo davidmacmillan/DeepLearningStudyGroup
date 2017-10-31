@@ -15,9 +15,12 @@ https://arxiv.org/abs/1703.02528 - Generative unadversarial networks
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
 https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning 
+https://arxiv.org/pdf/1710.10196.pdf - training improvements for GAN
+https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory
+
 
 ## Nov 6 - Hacker Dojo  
-https://arxiv.org/pdf/1707.03491.pdf - Deep Learning photographer  
+https://arxiv.org/pdf/1703.10593.pdf - cycle consistent GANs  
 
 ## Oct 30 - Hacker Dojo  
 https://arxiv.org/pdf/1503.02406.pdf  Naftali Tishby and Noga Zaslavsky. information bottleneck principle.  
