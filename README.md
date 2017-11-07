@@ -18,6 +18,7 @@ https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning
 https://arxiv.org/pdf/1710.10196.pdf - training improvements for GAN  
 https://arxiv.org/pdf/1704.00028v2.pdf - improved training for WGANs  
 https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory  
+http://www.mit.edu/~adedieu/pdf/2048.pdf  - deep reinforcement learning  
 
 ## Nov 13 - Hacker Dojo
 https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf - alpha zero paper  
