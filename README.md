@@ -20,7 +20,8 @@ https://arxiv.org/pdf/1704.00028v2.pdf - improved training for WGANs
 https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory  
 
 ## Nov 13 - Hacker Dojo
-https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf - alpha zero paper
+https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf - alpha zero paper  
+https://webdocs.cs.ualberta.ca/~mmueller/talks/2016-LeeSedol-AlphaGo.pdf  - some slides  
 
 
 ## Nov 6 - Hacker Dojo  
