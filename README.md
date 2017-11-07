@@ -14,7 +14,7 @@ https://arxiv.org/pdf/1511.05440.pdf - GAN for video prediction
 https://arxiv.org/abs/1703.02528 - Generative unadversarial networks  
 https://arxiv.org/pdf/1611.01578.pdf - Neural architecture search with RL - google brain  
 https://arxiv.org/pdf/1703.01041.pdf - Large-Scale Evolution of Image Classifiers - google brain  
-https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning 
+https://arxiv.org/pdf/1708.05866.pdf - Survey of reinforcement learning  
 https://arxiv.org/pdf/1710.10196.pdf - training improvements for GAN  
 https://arxiv.org/pdf/1704.00028v2.pdf - improved training for WGANs  
 https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory  
