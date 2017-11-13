@@ -21,7 +21,7 @@ https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theo
 http://www.mit.edu/~adedieu/pdf/2048.pdf  - deep reinforcement learning  
 
 ## Nov 13 - Hacker Dojo
-https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf - alpha zero paper  
+https://deepmind.com/documents/119/agz_unformatted_nature.pdf - alpha zero paper  
 https://webdocs.cs.ualberta.ca/~mmueller/talks/2016-LeeSedol-AlphaGo.pdf  - some slides  
 
 
