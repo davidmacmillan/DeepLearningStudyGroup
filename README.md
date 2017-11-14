@@ -20,7 +20,7 @@ https://arxiv.org/pdf/1704.00028v2.pdf - improved training for WGANs
 https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory  
 http://www.mit.edu/~adedieu/pdf/2048.pdf  - deep reinforcement learning  
 
-## Nov 20 - Hacker Dojo
+## Nov 27 - Hacker Dojo
 https://arxiv.org/pdf/1701.01724.pdf - DeepStack: Expert-Level Artificial Intelligence in
 Heads-Up No-Limit Poker  
 
