@@ -19,6 +19,14 @@ https://arxiv.org/pdf/1710.10196.pdf - training improvements for GAN
 https://arxiv.org/pdf/1704.00028v2.pdf - improved training for WGANs  
 https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory  
 http://www.mit.edu/~adedieu/pdf/2048.pdf  - deep reinforcement learning  
+https://arxiv.org/pdf/1710.10784.pdf - geometry of deep learning  
+https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective  
+https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
+https://arxiv.org/abs/1710.09829 - dynamic routing between capsules 
+
+## Dec 11 - Hacker Dojo  
+https://arxiv.org/pdf/1710.09829.pdf - Dynamic routing between capsules - Hinton  
 
 ## Nov 27 - Hacker Dojo
 https://arxiv.org/pdf/1701.01724.pdf - DeepStack: Expert-Level Artificial Intelligence in
