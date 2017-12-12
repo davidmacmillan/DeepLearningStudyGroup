@@ -23,7 +23,15 @@ https://arxiv.org/pdf/1710.10784.pdf - geometry of deep learning
 https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective  
 https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
-https://arxiv.org/abs/1710.09829 - dynamic routing between capsules 
+
+
+## Jan 8 - Hacker Dojo
+https://openreview.net/pdf?id=HJWLfGWRb - follow-on to capsule network paper  
+https://www.youtube.com/watch?v=pPN8d0E3900  
+https://www.youtube.com/watch?v=2Kawrd5szHE  
+https://github.com/ageron/handson-ml/blob/master/extra_capsnets.ipynb  
+https://github.com/naturomics/CapsNet-Tensorflow  
+https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66  
 
 ## Dec 11 - Hacker Dojo  
 https://arxiv.org/pdf/1710.09829.pdf - Dynamic routing between capsules - Hinton  
