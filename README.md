@@ -24,8 +24,11 @@ https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective
 https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
 
+## Jan 22 - Hacker Dojo  
+https://arxiv.org/pdf/1710.02298.pdf - Combining improvements in deep reinforcement learning
+
 ## Jan 15 - Hacker Dojo
-https://arxiv.org/pdf/1704.00028.pdf - Combining improvements in Reinforcement learning   
+https://arxiv.org/pdf/1704.00028.pdf - Improvements in Wasserstein GAN training  
 
 ## Jan 8 - Hacker Dojo
 https://openreview.net/pdf?id=HJWLfGWRb - follow-on to capsule network paper  
