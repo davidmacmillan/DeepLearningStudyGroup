@@ -23,6 +23,12 @@ https://arxiv.org/pdf/1710.10784.pdf - geometry of deep learning
 https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective  
 https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
+https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia
+https://github.com/NVIDIA/pix2pixHD
+
+## Jan 29 - Hacker Dojo
+https://arxiv.org/pdf/1709.04511.pdf - Empirical study of multi-agent RL  
+https://github.com/geek-ai/1m-agents - code 
 
 ## Jan 22 - Hacker Dojo  
 https://arxiv.org/pdf/1704.00028.pdf - Improvements in Wasserstein GAN training  
