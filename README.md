@@ -24,7 +24,11 @@ https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective
 https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
 https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia
-https://github.com/NVIDIA/pix2pixHD
+https://github.com/NVIDIA/pix2pixHD  
+
+## Feb 5 - Hacker Dojo
+https://arxiv.org/pdf/1511.06939.pdf - using rnn for recommendation system  
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46488.pdf - latest paper on rnn for recommendation  
 
 ## Jan 29 - Hacker Dojo
 https://arxiv.org/pdf/1709.04511.pdf - Empirical study of multi-agent RL  
