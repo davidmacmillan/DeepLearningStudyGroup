@@ -26,6 +26,12 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVP
 https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia
 https://github.com/NVIDIA/pix2pixHD  
 
+## Feb 19 - Hacker Dojo  
+https://arxiv.org/pdf/1801.10308.pdf - Nested LSTM's  
+
+## Feb 12 - Hacker Dojo  
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - Weakly Supervised Instance and Semantic Segmentation  
+
 ## Feb 5 - Hacker Dojo
 https://arxiv.org/pdf/1511.06939.pdf - using rnn for recommendation system  
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46488.pdf - latest paper on rnn for recommendation  
