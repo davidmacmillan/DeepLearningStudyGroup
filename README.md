@@ -25,9 +25,18 @@ https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
 https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia
 https://github.com/NVIDIA/pix2pixHD  
+https://arxiv.org/abs/1703.10135 - tachotron
+
+## Mar 5 - Hacker Dojo 
+https://arxiv.org/abs/1703.10135 - tachotron - end-to-end speech synthesis 
+
+## Feb 26 - Hacker Dojo  
+https://arxiv.org/pdf/1705.09792.pdf - Deep Complex Networks  
+
 
 ## Feb 19 - Hacker Dojo  
 https://arxiv.org/pdf/1801.10308.pdf - Nested LSTM's  
+https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
 
 ## Feb 12 - Hacker Dojo  
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - Weakly Supervised Instance and Semantic Segmentation  
