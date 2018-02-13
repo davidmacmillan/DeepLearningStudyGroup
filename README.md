@@ -31,6 +31,8 @@ https://arxiv.org/pdf/1801.10308.pdf - Nested LSTM's
 
 ## Feb 12 - Hacker Dojo  
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - Weakly Supervised Instance and Semantic Segmentation  
+https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/  
+https://github.com/philferriere/tfwss - Phil Ferriere's code  
 
 ## Feb 5 - Hacker Dojo
 https://arxiv.org/pdf/1511.06939.pdf - using rnn for recommendation system  
