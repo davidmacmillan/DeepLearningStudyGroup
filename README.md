@@ -20,16 +20,15 @@ https://arxiv.org/pdf/1704.00028v2.pdf - improved training for WGANs
 https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A - rebuttal for IB theory  
 http://www.mit.edu/~adedieu/pdf/2048.pdf  - deep reinforcement learning  
 https://arxiv.org/pdf/1710.10784.pdf - geometry of deep learning  
-https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective  
-https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
+https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective   
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
 https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia
-https://github.com/NVIDIA/pix2pixHD  
-https://arxiv.org/abs/1703.10135 - tachotron
+https://github.com/NVIDIA/pix2pixHD   
+
 
 ## Mar 5 - Hacker Dojo 
 https://arxiv.org/abs/1703.10135 - tacotron - end-to-end speech synthesis 
-https://arxiv.org/pdf/1712.05884.pdf - tacotron 2
+https://arxiv.org/pdf/1712.05884.pdf - tacotron 2  
 https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html - 
 
 ## Feb 26 - Hacker Dojo  
