@@ -22,8 +22,10 @@ http://www.mit.edu/~adedieu/pdf/2048.pdf  - deep reinforcement learning
 https://arxiv.org/pdf/1710.10784.pdf - geometry of deep learning  
 https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective   
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
-https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia
-https://github.com/NVIDIA/pix2pixHD   
+https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia 
+https://github.com/NVIDIA/pix2pixHD  - Synthesizing and manipulating 2048x1024 images with conditional GAN 
+https://arxiv.org/pdf/1505.05424.pdf - weight uncertainties 
+https://arxiv.org/pdf/1711.01297.pdf - weight uncertainties 
 
 
 ## Mar 5 - Hacker Dojo 
