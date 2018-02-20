@@ -38,6 +38,7 @@ https://arxiv.org/pdf/1705.09792.pdf - Deep Complex Networks
 ## Feb 19 - Hacker Dojo  
 https://arxiv.org/pdf/1801.10308.pdf - Nested LSTM's  
 https://arxiv.org/pdf/1705.10142.pdf - KRU from Fair  
+https://github.com/hannw/nlstm  - tf code for Nested LSTM
 
 ## Feb 12 - Hacker Dojo  
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - Weakly Supervised Instance and Semantic Segmentation  
