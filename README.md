@@ -27,6 +27,9 @@ https://github.com/NVIDIA/pix2pixHD  - Synthesizing and manipulating 2048x1024 i
 https://arxiv.org/pdf/1505.05424.pdf - weight uncertainties 
 https://arxiv.org/pdf/1711.01297.pdf - weight uncertainties 
 
+## Mar 12 - Hacker Dojo 
+https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
+
 
 ## Mar 5 - Hacker Dojo 
 https://arxiv.org/abs/1703.10135 - tacotron - end-to-end speech synthesis 
