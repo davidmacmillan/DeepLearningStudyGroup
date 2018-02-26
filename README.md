@@ -49,6 +49,7 @@ https://github.com/hannw/nlstm  - tf code for Nested LSTM
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - Weakly Supervised Instance and Semantic Segmentation  
 https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/  
 https://github.com/philferriere/tfwss - Phil Ferriere's code  
+ https://drive.google.com/file/d/1wPHMA4PqygawvIxRiy-2ZMKcpUO447cz/view?usp=sharing - mehul's notebook on segmentation  
 
 ## Feb 5 - Hacker Dojo
 https://arxiv.org/pdf/1511.06939.pdf - using rnn for recommendation system  
