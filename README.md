@@ -26,12 +26,13 @@ https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and seman
 https://github.com/NVIDIA/pix2pixHD  - Synthesizing and manipulating 2048x1024 images with conditional GAN 
 https://arxiv.org/pdf/1505.05424.pdf - weight uncertainties 
 https://arxiv.org/pdf/1711.01297.pdf - weight uncertainties 
+https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural architecture search  
 
-## Mar 12 - Hacker Dojo 
+## Mar 19 - Hacker Dojo 
 https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
 
 
-## Mar 5 - Hacker Dojo 
+## Mar 12 - Hacker Dojo 
 https://arxiv.org/abs/1703.10135 - tacotron - end-to-end speech synthesis  
 https://arxiv.org/pdf/1712.05884.pdf - tacotron 2  
 https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html - 
