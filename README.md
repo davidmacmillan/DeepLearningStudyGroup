@@ -32,7 +32,7 @@ https://arxiv.org/abs/1802.05365 - Deep contextualized word representations
 
 
 ## Mar 5 - Hacker Dojo 
-https://arxiv.org/abs/1703.10135 - tacotron - end-to-end speech synthesis 
+https://arxiv.org/abs/1703.10135 - tacotron - end-to-end speech synthesis  
 https://arxiv.org/pdf/1712.05884.pdf - tacotron 2  
 https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html - 
 
