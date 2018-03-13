@@ -27,6 +27,8 @@ https://github.com/NVIDIA/pix2pixHD  - Synthesizing and manipulating 2048x1024 i
 https://arxiv.org/pdf/1505.05424.pdf - weight uncertainties 
 https://arxiv.org/pdf/1711.01297.pdf - weight uncertainties 
 https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural architecture search  
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems - SOTA algorithms  
+
 
 ## Mar 26 - Hacker Dojo 
 https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
