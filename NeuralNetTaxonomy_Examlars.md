@@ -6,17 +6,24 @@ Please feel free to make suggestions in the form of pull requests.  This will go
 
 Here are some category proposals:
 
-## Image Processing
-#### Classification
-#### Object Detection
-#### Semantic Segmentation
-#### Bounding boxes
+## Image Processing 
+#### Classification 
+#### Object Detection 
+#### Semantic Segmentation 
+#### Bounding boxes 
+#### Question answering 
+#### Tagging 
 
-## Speech Processing
-#### Speech to text
-#### Text to speech
+## Speech Processing 
+#### Speech to text 
+#### Text to speech 
 
-## Text Processing
+## Text Processing 
+#### Translation 
+#### Question answering 
+#### Summarization
+#### 
+
 
 ## Reinforcement Learning
 
