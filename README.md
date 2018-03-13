@@ -42,6 +42,7 @@ https://arxiv.org/abs/1703.10135 - tacotron - end-to-end speech synthesis
 https://arxiv.org/pdf/1712.05884.pdf - tacotron 2  
 https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html - 
 https://github.com/A-Jacobson/tacotron2 - pytorch code 
+http://research.baidu.com/deep-speech-3%EF%BC%9Aexploring-neural-transducers-end-end-speech-recognition/  
 
 ## Feb 26 - Hacker Dojo  
 https://arxiv.org/pdf/1705.09792.pdf - Deep Complex Networks  
