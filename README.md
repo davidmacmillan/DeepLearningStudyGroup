@@ -43,6 +43,13 @@ https://arxiv.org/pdf/1708.04552.pdf - regularizing convnet with cutout (desert 
 https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural Architecture Search via Parameter Sharing  
 https://github.com/carpedm20/ENAS-pytorch 
 
+some related papers and reviews. 
+https://arxiv.org/pdf/1708.05344.pdf - One shot architecture search  
+https://openreview.net/forum?id=ByQZjx-0-  
+and  
+https://openreview.net/forum?id=rydeCEhs-  
+
+
 ## Mar 12 - Hacker Dojo 
 https://arxiv.org/abs/1703.10135 - tacotron - end-to-end speech synthesis  
 https://arxiv.org/pdf/1712.05884.pdf - tacotron 2  
