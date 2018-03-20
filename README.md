@@ -38,6 +38,7 @@ https://arxiv.org/abs/1802.05365 - Deep contextualized word representations
 ## Mar 26 -  Hacker Dojo
 https://arxiv.org/pdf/1711.10433.pdf - parallel wavenet  
 https://arxiv.org/pdf/1708.04552.pdf - regularizing convnet with cutout (desert paper) 
+http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf - will get short presentation on this one.  
 
 ## Mar 19 - Hacker Dojo 
 https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural Architecture Search via Parameter Sharing  
