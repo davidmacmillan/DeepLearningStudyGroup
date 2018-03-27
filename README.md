@@ -24,15 +24,23 @@ https://arxiv.org/pdf/1706.00473.pdf - bayesian perspective
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf - weakly supervised segmentation  
 https://arxiv.org/pdf/1711.11585.pdf - High resolution image synthesis and semantic manipulation - Nvidia 
 https://github.com/NVIDIA/pix2pixHD  - Synthesizing and manipulating 2048x1024 images with conditional GAN 
-https://arxiv.org/pdf/1505.05424.pdf - weight uncertainties 
-https://arxiv.org/pdf/1711.01297.pdf - weight uncertainties 
-https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural architecture search  
-https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems - SOTA algorithms  
+https://arxiv.org/pdf/1505.05424.pdf - weight uncertainties  
+https://arxiv.org/pdf/1711.01297.pdf - weight uncertainties  
+https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural architecture search   
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems - SOTA algorithms   
 https://arxiv.org/pdf/1711.10925.pdf - deep image prior   
 https://arxiv.org/pdf/1711.03953.pdf - breaking softmax bottleneck  
 mixed scale deep convolution - PNAS Dec 26, 2017  
 http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI 
 https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
+
+Papers on Learning Rate Scheduling --  
+https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
+https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
+https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles  
+https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
+
+
 
 ## Apr 2 - Hacker Dojo 
 https://arxiv.org/pdf/1803.04831.pdf - IndRNN longer deeper RNN's  
