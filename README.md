@@ -30,13 +30,12 @@ https://arxiv.org/pdf/1802.03268.pdf - Efficient Neural architecture search
 https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems - SOTA algorithms  
 https://arxiv.org/pdf/1711.10925.pdf - deep image prior   
 https://arxiv.org/pdf/1711.03953.pdf - breaking softmax bottleneck  
-https://arxiv.org/pdf/1803.04831.pdf - IndRNN longer deeper RNN's  
 mixed scale deep convolution - PNAS Dec 26, 2017  
 http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI 
-
+https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
 
 ## Apr 2 - Hacker Dojo 
-https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
+https://arxiv.org/pdf/1803.04831.pdf - IndRNN longer deeper RNN's  
 
 ## Mar 26 -  Hacker Dojo
 https://arxiv.org/pdf/1711.10433.pdf - parallel wavenet  
