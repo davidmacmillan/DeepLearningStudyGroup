@@ -32,6 +32,7 @@ https://arxiv.org/pdf/1711.10925.pdf - deep image prior
 https://arxiv.org/pdf/1711.03953.pdf - breaking softmax bottleneck 
 https://arxiv.org/pdf/1803.04831.pdf - IndRNN longer deeper RNN's  
 mixed scale deep convolution - PNAS Dec 26, 2017  
+http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI 
 
 
 ## Apr 2 - Hacker Dojo 
