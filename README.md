@@ -31,7 +31,7 @@ https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-probl
 https://arxiv.org/pdf/1711.10925.pdf - deep image prior   
 https://arxiv.org/pdf/1711.03953.pdf - breaking softmax bottleneck  
 mixed scale deep convolution - PNAS Dec 26, 2017  
-http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI 
+http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI    
 https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
 
 Papers on Learning Rate Scheduling --  
@@ -40,7 +40,8 @@ https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates
 https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles  
 https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
 
-
+## Apr 9 - Hacker Dojo
+http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI 
 
 ## Apr 2 - Hacker Dojo 
 https://arxiv.org/pdf/1803.04831.pdf - IndRNN longer deeper RNN's  
