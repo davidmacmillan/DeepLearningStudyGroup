@@ -39,6 +39,7 @@ https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts
 https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
 https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles  
 https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
+https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
 
 ## Apr 9 - Hacker Dojo
 http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI 
