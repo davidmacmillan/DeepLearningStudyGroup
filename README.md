@@ -41,6 +41,11 @@ https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles
 https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
 https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
 
+## Apr 16 - Hacker Dojo 
+Finish Fractal AI  
+https://arxiv.org/pdf/1711.07971.pdf - non-local filtering  
+
+
 ## Apr 9 - Hacker Dojo
 http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI 
 
