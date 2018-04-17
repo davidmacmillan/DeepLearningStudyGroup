@@ -33,6 +33,7 @@ https://arxiv.org/pdf/1711.03953.pdf - breaking softmax bottleneck
 mixed scale deep convolution - PNAS Dec 26, 2017  
 http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI    
 https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
+https://arxiv.org/pdf/1804.04241.pdf - capsule net for segmentation (improvement 95%)  
 
 Papers on Learning Rate Scheduling --  
 https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
@@ -40,6 +41,9 @@ https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates
 https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles  
 https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
 https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
+
+## Apr 23 - Hacker Dojo  
+https://arxiv.org/pdf/1711.10925.pdf - Deep Image Prior  
 
 ## Apr 16 - Hacker Dojo 
 Finish Fractal AI  
