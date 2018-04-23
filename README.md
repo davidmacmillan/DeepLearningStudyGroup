@@ -42,6 +42,12 @@ https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles
 https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
 https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
 
+## Apr 30 - Hacker Dojo
+https://arxiv.org/pdf/1710.07313.pdf - Using machine learning to replicate chaotic attractors  
+http://www.bmp.ds.mpg.de/tl_files/bmp/preprints/Zimmermann_Parlitz_preprint.pdf - paper to be published in "chaos"  
+https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/ - blog post  
+
+
 ## Apr 23 - Hacker Dojo  
 https://arxiv.org/pdf/1711.10925.pdf - Deep Image Prior  
 
