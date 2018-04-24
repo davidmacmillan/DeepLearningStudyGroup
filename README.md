@@ -34,14 +34,16 @@ mixed scale deep convolution - PNAS Dec 26, 2017
 http://lanl.arxiv.org/pdf/1803.05049v1 - Fractal AI    
 https://arxiv.org/abs/1802.05365 - Deep contextualized word representations  
 https://arxiv.org/pdf/1804.04241.pdf - capsule net for segmentation (improvement 95%)  
-
-Papers on Learning Rate Scheduling --  
-https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
-https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
 https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles  
 https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
 https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
 https://arxiv.org/pdf/1801.10130.pdf - spherical CNN  
+https://arxiv.org/pdf/1804.02958.pdf - GAN for extreme compression  
+
+Papers on Learning Rate Scheduling --  
+https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
+https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
+
 
 ## Apr 30 - Hacker Dojo
 https://arxiv.org/pdf/1710.07313.pdf - Using machine learning to replicate chaotic attractors  
