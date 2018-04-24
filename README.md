@@ -50,6 +50,7 @@ https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chao
 
 ## Apr 23 - Hacker Dojo  
 https://arxiv.org/pdf/1711.10925.pdf - Deep Image Prior  
+https://dmitryulyanov.github.io/deep_image_prior - git hub from authors  
 
 ## Apr 16 - Hacker Dojo 
 Finish Fractal AI  
