@@ -41,6 +41,7 @@ https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates
 https://arxiv.org/pdf/1704.00109.pdf - Snapshot ensembles  
 https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning  
 https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
+https://arxiv.org/pdf/1801.10130.pdf - spherical CNN  
 
 ## Apr 30 - Hacker Dojo
 https://arxiv.org/pdf/1710.07313.pdf - Using machine learning to replicate chaotic attractors  
@@ -51,6 +52,8 @@ https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chao
 ## Apr 23 - Hacker Dojo  
 https://arxiv.org/pdf/1711.10925.pdf - Deep Image Prior  
 https://dmitryulyanov.github.io/deep_image_prior - git hub from authors  
+https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM  
+http://mlexplained.com/2018/01/18/paper-dissected-deep-image-prior-explained/  
 
 ## Apr 16 - Hacker Dojo 
 Finish Fractal AI  
