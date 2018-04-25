@@ -56,6 +56,7 @@ https://arxiv.org/pdf/1711.10925.pdf - Deep Image Prior
 https://dmitryulyanov.github.io/deep_image_prior - git hub from authors  
 https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM  
 http://mlexplained.com/2018/01/18/paper-dissected-deep-image-prior-explained/  
+http://fortune.com/2018/04/24/nvidia-artificial-intelligence-images/ - Article w video showing photo editing use  
 
 ## Apr 16 - Hacker Dojo 
 Finish Fractal AI  
