@@ -39,11 +39,21 @@ https://arxiv.org/pdf/1711.00937.pdf - Neural discrete representation learning
 https://arxiv.org/find/cs/1/au:+Segler_M/0/1/0/all/0/1 - refs on chemical models  
 https://arxiv.org/pdf/1801.10130.pdf - spherical CNN  
 https://arxiv.org/pdf/1804.02958.pdf - GAN for extreme compression  
+https://arxiv.org/pdf/1703.05698.pdf - Neural Sketch Learning for Conditional Program Generation  
 
 Papers on Learning Rate Scheduling --  
 https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
 https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
 
+## May 14 - Hacker Dojo
+https://arxiv.org/pdf/1712.06567.pdf - Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
+Training Deep Neural Networks for Reinforcement Learning  
+https://arxiv.org/pdf/1712.06560.pdf - Improving Exploration in Evolution Strategies for Deep Reinforcement
+Learning via a Population of Novelty-Seeking Agents  
+https://eng.uber.com/deep-neuroevolution/  - Uber engineering blog post  
+
+## May 7 - Hacker Dojo
+https://arxiv.org/pdf/1801.10130.pdf - spherical CNN  
 
 ## Apr 30 - Hacker Dojo
 https://arxiv.org/pdf/1710.07313.pdf - Using machine learning to replicate chaotic attractors  
