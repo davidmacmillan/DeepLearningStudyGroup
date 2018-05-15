@@ -45,6 +45,14 @@ Papers on Learning Rate Scheduling --
 https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
 https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
 
+
+## May 21 - Hacker Dojo
+https://arstechnica.com/science/2018/05/ai-trained-to-navigate-develops-brain-like-location-tracking/  - Grid representations in rat brain  
+https://deepmind.com/documents/200/Banino_at_al_final.pdf  --  
+https://www.nature.com/articles/s41586-018-0102-6  --  
+
+
+
 ## May 14 - Hacker Dojo
 https://arxiv.org/pdf/1712.06567.pdf - Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
 Training Deep Neural Networks for Reinforcement Learning  
