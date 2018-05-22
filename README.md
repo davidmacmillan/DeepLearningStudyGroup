@@ -45,6 +45,9 @@ Papers on Learning Rate Scheduling --
 https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
 https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
 
+## June 4 - Hacker Dojo
+https://openreview.net/pdf?id=Hy7fDog0b - Ambient GAN - Generative Models from Lossy Measurements - ICLR top paper  
+
 
 ## May 21 - Hacker Dojo
 https://arstechnica.com/science/2018/05/ai-trained-to-navigate-develops-brain-like-location-tracking/  - Grid representations in rat brain  
