@@ -45,6 +45,13 @@ Papers on Learning Rate Scheduling --
 https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
 https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
 
+ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral  
+
+
+
+## June 11 - Hacker Dojo
+https://openreview.net/forum?id=HkL7n1-0b - Wasserstein Auto Encoders - one of ICLR top papers.  
+
 ## June 4 - Hacker Dojo
 https://openreview.net/pdf?id=Hy7fDog0b - Ambient GAN - Generative Models from Lossy Measurements - ICLR top paper  
 
