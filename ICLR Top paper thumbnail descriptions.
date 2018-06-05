@@ -1,0 +1,22 @@
+https://iclr.cc/Conferences/2018/Schedule?type=Oral   
+
+Zero shot visual imitation - Two step robot learing.  First cause robot to explore without goals and then frame objective as sequence of views of intermediate steps, while re-labeling exploration sequence so objectives reached during exploration are treated as targets.  Leads to one-shot learning.  
+  
+Boosting dilated convolutional networks w mixed tensor decompositions - theoretical demonstration that layer inter connections improve expressive efficiency in dialation convolution networks.  Interesting and useful result of rare theoretical type.  going to take some work to get through. 
+
+Principled Adversarial Training - Use wasserstein measure to define distributional neighborhood for generating adversarial training examples.  
+
+Breaking the softmax Bottleneck - Demonstrate the softmax is too restrictive of a model and propose to overcome restriction by using mixture of softmaxes MoS.  Achieve consistently better performance in a variety of benchmarks. 
+
+Characterizing adversarial subspaces using local intrinsic dimensionality - Characterize adversarial subspaces as space filling in neighborhoods of legitimate examples and charactize by local dimensionality.  This characterization yields test for adversarial example and they show vastly improved detection rates that other methods.    
+
+Neural Sketch Learning - System for code generation that operates by breaking the problem into two parts 1. generating sketches that describe core operation and 2. filling in the sketches with code that satisfies the details of typing etc.  
+
+Learning to represent programs as graphs - Builds on Gated Graph Neural Networks (GGNN) and uses it to attack sub problems of programming, naming variables and using them correctly.  
+
+Insufficiency of Existing momentum schemes for stochastic optimization - Demonstrates cases where Nesterov etc don't perform well when using SGD versus GD.  Develop an alternative based on Nesterov. 
+
+Convergence of ADAM and Beyond - Analyze convergence issue of Adam on large parameter spaces.  Determine that moving average is not well suited and develop alternative.  Show performance improvements in synthetic cases constructed on the basis of authors' analysis of weaknesses and on benchmarks known to cause Adam problems.  
+
+Wasserstein Auto Encoders - Authors use Wasserstein distance as comparator function for AE and adversarial nets.  Demonstrate better convergence properties than GAN while matching GAN's better quality.  
+https://wolfweb.unr.edu/homepage/jabuka/Classes/2006_spring/topology/Notes/04%20-%20Congergent%20sequences.pdf  
