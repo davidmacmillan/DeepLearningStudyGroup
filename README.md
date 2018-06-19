@@ -47,7 +47,10 @@ https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates
 
 ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral  
 
-## June 18 - Hacker Dojo - 
+## June 25 - Hacker Dojo  
+https://openreview.net/pdf?id=BJOFETxR- - Learning to represent programs with graphs  
+
+## June 18 - Hacker Dojo  
 https://openreview.net/pdf?id=BkisuzWRW - Zero Shot Visual Imitation - Reinforcement Learning  
 
 
