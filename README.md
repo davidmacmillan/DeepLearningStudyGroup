@@ -47,6 +47,9 @@ https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates
 
 ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral  
 
+## July 2 - Hacker Dojo - 
+https://arxiv.org/pdf/1707.06347.pdf - Proximal Optimization Policies  
+
 ## June 25 - Hacker Dojo  
 https://openreview.net/pdf?id=BJOFETxR- - Learning to represent programs with graphs  
 
