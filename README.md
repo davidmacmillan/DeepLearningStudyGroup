@@ -44,8 +44,12 @@ https://arxiv.org/pdf/1703.05698.pdf - Neural Sketch Learning for Conditional Pr
 Papers on Learning Rate Scheduling --  
 https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
 https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
+https://arxiv.org/pdf/1803.10122.pdf - World models - teaching simple world model prepartory to RL - schmidhuber
 
 ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral  
+
+## July 9 - Hacker Dojo
+https://deepmind.com/research/publications/neural-scene-representation-and-rendering/  - Rendering 3d scene
 
 ## July 2 - Hacker Dojo - 
 https://arxiv.org/pdf/1707.06347.pdf - Proximal Optimization Policies  
