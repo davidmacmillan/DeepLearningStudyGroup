@@ -48,8 +48,15 @@ https://arxiv.org/pdf/1803.10122.pdf - World models - teaching simple world mode
 
 ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral  
 
+https://arxiv.org/abs/1703.06114 Deep Sets  
+
+https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D.  
+
+## Jule 16 - Hacker Dojo 
+https://arxiv.org/pdf/1803.10122.pdf - schmidhuber paper on RL  
+
 ## July 9 - Hacker Dojo
-https://deepmind.com/research/publications/neural-scene-representation-and-rendering/  - Rendering 3d scene
+https://deepmind.com/research/publications/neural-scene-representation-and-rendering/  - Rendering 3d scene  
 
 ## July 2 - Hacker Dojo - 
 https://arxiv.org/pdf/1707.06347.pdf - Proximal Optimization Policies  
