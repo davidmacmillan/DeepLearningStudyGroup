@@ -52,7 +52,11 @@ https://arxiv.org/abs/1703.06114 Deep Sets
 
 https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D.  
 
-## Jule 16 - Hacker Dojo 
+## July 23 - Hacker Dojo - 
+https://arxiv.org/pdf/1807.01281.pdf - Human level performance in first person multiplayer games with population reinforcement learning.  
+https://deepmind.com/blog/capture-the-flag/ 
+
+## July 16 - Hacker Dojo 
 https://arxiv.org/pdf/1803.10122.pdf - schmidhuber paper on RL  
 
 ## July 9 - Hacker Dojo
