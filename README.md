@@ -60,6 +60,7 @@ https://arxiv.org/pdf/1807.01281.pdf - Human level performance in first person m
 https://deepmind.com/blog/capture-the-flag/ 
 https://www.youtube.com/watch?v=steioHoiEms  
 https://arxiv.org/abs/1711.09846v2  
+https://arxiv.org/pdf/1611.05397.pdf  
 
 ## July 16 - Hacker Dojo 
 https://arxiv.org/pdf/1803.10122.pdf - schmidhuber paper on RL  
