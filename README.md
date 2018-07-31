@@ -51,9 +51,16 @@ ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral
 https://arxiv.org/abs/1703.06114 Deep Sets  
 
 https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D.  
+https://arxiv.org/pdf/1807.03247.pdf - Intriguing failure (and improvement) to CNN for determining rotations.  
+
+## August 13 - Hacker Dojo
+https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/learning-dexterity/learning-dexterity-paper.pdf  -Robot doing single hand manipulations.  
+https://www.theverge.com/2018/7/30/17621112/openai-robot-dexterity-dactyl-artificial-intelligence  
 
 ## July 30 - Hacker Dojo - 
 https://arxiv.org/pdf/1711.03953.pdf - Breaking the softmax bottleneck  
+https://arxiv.org/pdf/1805.10829.pdf - SigSoftMax: Reanalyzing the softmax bottleneck  
+https://severelytheoretical.wordpress.com/2018/06/08/the-softmax-bottleneck-is-a-special-case-of-a-more-general-phenomenon/  
 
 ## July 23 - Hacker Dojo - 
 https://arxiv.org/pdf/1807.01281.pdf - Human level performance in first person multiplayer games with population reinforcement learning.  
