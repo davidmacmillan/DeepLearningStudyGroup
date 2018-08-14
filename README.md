@@ -53,6 +53,11 @@ https://arxiv.org/abs/1703.06114 Deep Sets
 https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D.  
 https://arxiv.org/pdf/1807.03247.pdf - Intriguing failure (and improvement) to CNN for determining rotations.  
 
+## August 27 - Hacker Dojo
+https://arxiv.org/abs/1709.10082 - Optimally decentralized multi-robot collision avoidance w reinforcement learning.  
+
+https://github.com/TensorSwarm/TensorSwarm  - Andreas Pasternak code for above  
+
 ## August 13 - Hacker Dojo
 https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/learning-dexterity/learning-dexterity-paper.pdf  -Robot doing single hand manipulations.  
 https://www.theverge.com/2018/7/30/17621112/openai-robot-dexterity-dactyl-artificial-intelligence  
