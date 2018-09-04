@@ -51,8 +51,11 @@ ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral
 https://arxiv.org/abs/1703.06114 Deep Sets  
 
 https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D.  
-https://arxiv.org/pdf/1807.03247.pdf - Intriguing failure (and improvement) to CNN for determining rotations.  
+
 https://arxiv.org/pdf/1806.01261.pdf - deep mind graph paper
+
+## September 10 - Hacker Dojo
+https://arxiv.org/pdf/1807.03247.pdf - Intriguing failure (and improvement) to CNN for determining rotations.  
 
 ## September 3 - Hacker Dojo  
 https://arxiv.org/pdf/1803.03324.pdf - Learning Deep Generative Models of Graphs  
