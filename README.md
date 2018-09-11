@@ -52,7 +52,11 @@ https://arxiv.org/abs/1703.06114 Deep Sets
 
 https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D.  
 
-https://arxiv.org/pdf/1806.01261.pdf - deep mind graph paper
+https://arxiv.org/pdf/1806.01261.pdf - deep mind graph paper  
+https://arxiv.org/pdf/1805.11604.pdf - How does Batch normalization work - it's not about covariate shift  
+https://arxiv.org/pdf/1802.05983.pdf - Disentangling by factorizing 
+https://arxiv.org/pdf/1808.00508.pdf - Neural arithmetic logic units  
+https://arxiv.org/pdf/1803.08660.pdf - A new activation function  
 
 ## September 17 - Hacker Dojo 
 https://arxiv.org/abs/1709.02371 - PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume," by Deqing Sun et al. (CVPR 2018) 
