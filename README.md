@@ -54,6 +54,11 @@ https://arxiv.org/abs/1807.02443 Tangent Convolutions for Dense Prediction in 3D
 
 https://arxiv.org/pdf/1806.01261.pdf - deep mind graph paper
 
+## September 17 - Hacker Dojo 
+https://arxiv.org/abs/1709.02371 - PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume," by Deqing Sun et al. (CVPR 2018) 
+Phil Ferrier will present the paper and run though his code for us. Phil's code is on his github reop:  
+https://github.com/philferriere/tfoptflow  
+
 ## September 10 - Hacker Dojo
 https://arxiv.org/pdf/1807.03247.pdf - Intriguing failure (and improvement) to CNN for determining rotations.  
 
