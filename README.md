@@ -44,7 +44,7 @@ https://arxiv.org/pdf/1703.05698.pdf - Neural Sketch Learning for Conditional Pr
 Papers on Learning Rate Scheduling --  
 https://arxiv.org/pdf/1608.03983.pdf - SGD with warm restarts    
 https://arxiv.org/pdf/1506.01186.pdf - Cyclical learning rates   
-https://arxiv.org/pdf/1803.10122.pdf - World models - teaching simple world model prepartory to RL - schmidhuber
+https://arxiv.org/pdf/1803.10122.pdf - World models - teaching simple world model prepartory to RL - schmidhuber  
 
 ICLR top papers - https://iclr.cc/Conferences/2018/Schedule?type=Oral  
 
@@ -57,6 +57,11 @@ https://arxiv.org/pdf/1805.11604.pdf - How does Batch normalization work - it's 
 https://arxiv.org/pdf/1802.05983.pdf - Disentangling by factorizing 
 https://arxiv.org/pdf/1808.00508.pdf - Neural arithmetic logic units  
 https://arxiv.org/pdf/1803.08660.pdf - A new activation function  
+https://arxiv.org/pdf/1803.05268.pdf - Interpretability in CNN  
+https://arxiv.org/pdf/1808.06601.pdf - Video to video synthesis  
+
+## September 24 - Hacker Dojo 
+https://arxiv.org/pdf/1807.03146.pdf - Discovery of 3d keypoints from 2d image  
 
 ## September 17 - Hacker Dojo 
 https://arxiv.org/abs/1709.02371 - PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume," by Deqing Sun et al. (CVPR 2018) 
