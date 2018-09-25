@@ -58,7 +58,11 @@ https://arxiv.org/pdf/1802.05983.pdf - Disentangling by factorizing
 https://arxiv.org/pdf/1808.00508.pdf - Neural arithmetic logic units  
 https://arxiv.org/pdf/1803.08660.pdf - A new activation function  
 https://arxiv.org/pdf/1803.05268.pdf - Interpretability in CNN  
-https://arxiv.org/pdf/1808.06601.pdf - Video to video synthesis  
+
+
+## October 1 - Hacker Dojo
+https://arxiv.org/pdf/1808.06601.pdf - Video to video synthesis 
+https://github.com/NVIDIA/vid2vid - code  
 
 ## September 24 - Hacker Dojo 
 https://arxiv.org/pdf/1807.03146.pdf - Discovery of 3d keypoints from 2d image  
