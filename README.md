@@ -58,6 +58,10 @@ https://arxiv.org/pdf/1802.05983.pdf - Disentangling by factorizing
 https://arxiv.org/pdf/1808.00508.pdf - Neural arithmetic logic units  
 https://arxiv.org/pdf/1803.08660.pdf - A new activation function  
 https://arxiv.org/pdf/1803.05268.pdf - Interpretability in CNN  
+Here's what the cool kids in SF are looking at this week --  
+https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher
+https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks - blog for above paper   
+https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
 
 ## October 1 - Hacker Dojo
