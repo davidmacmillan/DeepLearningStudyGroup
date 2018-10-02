@@ -59,10 +59,14 @@ https://arxiv.org/pdf/1808.00508.pdf - Neural arithmetic logic units
 https://arxiv.org/pdf/1803.08660.pdf - A new activation function  
 https://arxiv.org/pdf/1803.05268.pdf - Interpretability in CNN  
 Here's what the cool kids in SF are looking at this week --  
-https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher
+https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher 
 https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks - blog for above paper   
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
+https://arxiv.org/pdf/1801.02613.pdf - Characterizing Adversarial Examples using Local Intrinsic Dimensionality  
 
+## October 8 - Hacker Dojo  
+https://arxiv.org/pdf/1802.04364.pdf - Junction Tree Variational Auto-Encoder for Molecular Graph Generation  
+http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf  
 
 ## October 1 - Hacker Dojo
 https://arxiv.org/pdf/1808.06601.pdf - Video to video synthesis 
