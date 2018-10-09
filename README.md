@@ -64,6 +64,10 @@ https://einstein.ai/research/blog/identifying-generalization-properties-in-neura
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 https://arxiv.org/pdf/1801.02613.pdf - Characterizing Adversarial Examples using Local Intrinsic Dimensionality  
 
+
+## October 15 - Hacker Dojo  
+https://arxiv.org/pdf/1808.06670.pdf - Learning Deep Representations by Mutual Estimation Estimation and Maximization - Hjelm, Bengio  
+
 ## October 8 - Hacker Dojo  
 https://arxiv.org/pdf/1802.04364.pdf - Junction Tree Variational Auto-Encoder for Molecular Graph Generation  
 http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf  
