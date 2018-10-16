@@ -62,6 +62,9 @@ Here's what the cool kids in SF are looking at this week --
 https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher 
 https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks - blog for above paper   
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
+
+
+## October 22 - Hacker Dojo  
 https://arxiv.org/pdf/1801.02613.pdf - Characterizing Adversarial Examples using Local Intrinsic Dimensionality  
 
 
