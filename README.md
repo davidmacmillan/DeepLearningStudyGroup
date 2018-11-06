@@ -63,6 +63,9 @@ https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher
 https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks - blog for above paper   
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
+## November 12 - Hacker Dojo
+https://arxiv.org/pdf/1810.12894.pdf - Exploration by Random Network Distillation - OpenAI  
+
 ## November 5 - Hacker Dojo 
 https://arxiv.org/pdf/1810.04805.pdf - Pre-trainged bi directional transformers for language translation  
 
