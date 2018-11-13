@@ -63,6 +63,11 @@ https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher
 https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks - blog for above paper   
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
+## November 19 - Hacker Dojo  
+https://arxiv.org/pdf/1802.05983.pdf - Disentangling by Factorising  
+https://arxiv.org/pdf/1804.00104.pdf - Learning Disentangled Joint, Discrete and Continuous Representations  
+https://arxiv.org/pdf/1807.05520.pdf - Deep Clustering for Unsupervised Learning of Visual Features  
+
 ## November 12 - Hacker Dojo
 https://arxiv.org/pdf/1810.12894.pdf - Exploration by Random Network Distillation - OpenAI  
 
