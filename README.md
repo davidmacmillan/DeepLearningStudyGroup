@@ -59,14 +59,20 @@ https://arxiv.org/pdf/1808.00508.pdf - Neural arithmetic logic units
 https://arxiv.org/pdf/1803.08660.pdf - A new activation function  
 https://arxiv.org/pdf/1803.05268.pdf - Interpretability in CNN  
 Here's what the cool kids in SF are looking at this week --  
+ 
+https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
+
+## November 26 - Hacker Dojo 
 https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher 
 https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks - blog for above paper   
-https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
 ## November 19 - Hacker Dojo  
 https://arxiv.org/pdf/1802.05983.pdf - Disentangling by Factorising  
 https://arxiv.org/pdf/1804.00104.pdf - Learning Disentangled Joint, Discrete and Continuous Representations  
 https://arxiv.org/pdf/1807.05520.pdf - Deep Clustering for Unsupervised Learning of Visual Features  
+https://github.com/1Konny/FactorVAE  
+https://github.com/paruby/FactorVAE    
+https://github.com/nicolasigor/FactorVAE  
 
 ## November 12 - Hacker Dojo
 https://arxiv.org/pdf/1810.12894.pdf - Exploration by Random Network Distillation - OpenAI  
