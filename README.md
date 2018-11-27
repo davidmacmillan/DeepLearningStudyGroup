@@ -62,6 +62,12 @@ Here's what the cool kids in SF are looking at this week --
  
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
+## December 10 - Hacker Dojo  
+https://openreview.net/pdf?id=S1JHhv6TW - Boosting Dilated Convolution with Mixed Tensor Decompositions  
+
+## December 3 - Hacker Dojo 
+https://arxiv.org/pdf/1712.01208.pdf - The case for learned index structures  
+
 ## November 26 - Hacker Dojo 
 https://arxiv.org/abs/1809.07402 - Generalization properties of nn - Socher  
 https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks - blog for above paper   
