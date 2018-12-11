@@ -63,7 +63,7 @@ Here's what the cool kids in SF are looking at this week --
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
 ## December 17 - Hacker Dojo
-https://arxiv.org/pdf/1806.03107.pdf - Temporal Difference Variational Autoencoder
+https://openreview.net/pdf?id=S1x4ghC9tQ - Temporal Difference Variational Autoencoder
 
 
 ## December 10 - Hacker Dojo  
