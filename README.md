@@ -62,6 +62,9 @@ Here's what the cool kids in SF are looking at this week --
  
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
+## January 7 - Hacker Dojo
+https://arxiv.org/pdf/1810.12715.pdf - On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models  
+
 ## December 17 - Hacker Dojo
 https://openreview.net/pdf?id=S1x4ghC9tQ - Temporal Difference Variational Autoencoder
 
