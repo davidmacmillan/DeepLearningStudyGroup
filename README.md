@@ -62,6 +62,15 @@ Here's what the cool kids in SF are looking at this week --
  
 https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"  
 
+https://arxiv.org/pdf/1812.11314.pdf - Meta Reinforcement Learning with Distribution of Exploration Parameters
+Learned by Evolution Strategies  
+
+https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
+
+https://arxiv.org/pdf/1812.11675.pdf - Soft Autoencoder and Its Wavelet Shrinkage Interpretation
+
+
+
 ## January 7 - Hacker Dojo
 https://arxiv.org/pdf/1810.12715.pdf - On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models  
 
