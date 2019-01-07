@@ -65,10 +65,14 @@ https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"
 https://arxiv.org/pdf/1812.11314.pdf - Meta Reinforcement Learning with Distribution of Exploration Parameters
 Learned by Evolution Strategies  
 
+
 https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
-
 https://arxiv.org/pdf/1812.11675.pdf - Soft Autoencoder and Its Wavelet Shrinkage Interpretation
-
+https://arxiv.org/pdf/1901.01122.pdf - Machine Translation: A Literature Review  
+https://arxiv.org/pdf/1901.01010.pdf - A Joint Model for Multimodal Document Quality Assessment  
+https://arxiv.org/pdf/1901.00949.pdf - Machine Teaching in Hierarchical Genetic Reinforcement Learning: Curriculum Design of Reward Functions for Swarm Shepherding  
+https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligence Algorithms  
+https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 
 
 ## January 7 - Hacker Dojo
