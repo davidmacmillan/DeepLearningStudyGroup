@@ -75,6 +75,9 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 
 
+## January 13 - Hacker Dojo
+https://arxiv.org/pdf/1812.07626.pdf - Universal Successor Features Approximators  
+
 ## January 7 - Hacker Dojo
 https://arxiv.org/pdf/1810.12715.pdf - On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models  
 
