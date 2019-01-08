@@ -67,7 +67,7 @@ Learned by Evolution Strategies
 
 
 https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
-https://arxiv.org/pdf/1812.11675.pdf - Soft Autoencoder and Its Wavelet Shrinkage Interpretation
+https://arxiv.org/pdf/1812.11675.pdf - Soft Autoencoder and Its Wavelet Shrinkage Interpretation  
 https://arxiv.org/pdf/1901.01122.pdf - Machine Translation: A Literature Review  
 https://arxiv.org/pdf/1901.01010.pdf - A Joint Model for Multimodal Document Quality Assessment  
 https://arxiv.org/pdf/1901.00949.pdf - Machine Teaching in Hierarchical Genetic Reinforcement Learning: Curriculum Design of Reward Functions for Swarm Shepherding  
