@@ -73,6 +73,7 @@ https://arxiv.org/pdf/1901.01010.pdf - A Joint Model for Multimodal Document Qua
 https://arxiv.org/pdf/1901.00949.pdf - Machine Teaching in Hierarchical Genetic Reinforcement Learning: Curriculum Design of Reward Functions for Swarm Shepherding  
 https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligence Algorithms  
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
+https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
 
 ## January 14 - Hacker Dojo
