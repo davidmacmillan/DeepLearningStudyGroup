@@ -75,6 +75,12 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## January 21 - Hacker Dojo 
+https://arxiv.org/pdf/1606.05312.pdf - Successor Features for Transfer in Reinforcement Learning  
+http://proceedings.mlr.press/v37/schaul15.pdf - Universal Value Function Approximators  
+http://proceedings.mlr.press/v80/barreto18a/barreto18a.pdf - Transfer in deep reinforcement learning using successor features and generalised policy improvement.  
+
+
 
 ## January 14 - Hacker Dojo
 https://arxiv.org/pdf/1812.07626.pdf - Universal Successor Features Approximators  
