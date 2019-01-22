@@ -75,10 +75,16 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## January 28 - Hacker Dojo  
+https://arxiv.org/pdf/1806.07366.pdf - Neural Ordinary Differential Equations - Top paper NIPS2019 
+
 ## January 21 - Hacker Dojo 
 https://arxiv.org/pdf/1606.05312.pdf - Successor Features for Transfer in Reinforcement Learning  
 http://proceedings.mlr.press/v37/schaul15.pdf - Universal Value Function Approximators  
 http://proceedings.mlr.press/v80/barreto18a/barreto18a.pdf - Transfer in deep reinforcement learning using successor features and generalised policy improvement.  
+
+https://www.youtube.com/watch?v=YDCPHekLUI4&t=1053s - Tom Schaul  
+https://www.youtube.com/watch?v=OCHwXxSW70o - Tejas Kulkarni  
 
 
 
