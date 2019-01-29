@@ -86,7 +86,8 @@ http://proceedings.mlr.press/v80/barreto18a/barreto18a.pdf - Transfer in deep re
 https://www.youtube.com/watch?v=YDCPHekLUI4&t=1053s - Tom Schaul  
 https://www.youtube.com/watch?v=OCHwXxSW70o - Tejas Kulkarni  
 
-
+## Feb 4 - Hacker Dojo  
+https://arxiv.org/pdf/1809.06646.pdf - Model Free Adaptive Optimal Control of Sequential Manufacturing Process Using Reinforcement Learning  
 
 ## January 14 - Hacker Dojo
 https://arxiv.org/pdf/1812.07626.pdf - Universal Successor Features Approximators  
