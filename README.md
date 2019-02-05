@@ -75,6 +75,12 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## Feb 11 - Hacker Dojo - 
+https://arxiv.org/pdf/1901.02860.pdf - Transformer XL - Attentive Language Models, Beyond a fixed length context
+
+## Feb 4 - Hacker Dojo  
+https://arxiv.org/pdf/1809.06646.pdf - Model Free Adaptive Optimal Control of Sequential Manufacturing Process Using Reinforcement Learning  
+
 ## January 28 - Hacker Dojo  
 https://arxiv.org/pdf/1806.07366.pdf - Neural Ordinary Differential Equations - Top paper NIPS2019 
 
@@ -86,8 +92,6 @@ http://proceedings.mlr.press/v80/barreto18a/barreto18a.pdf - Transfer in deep re
 https://www.youtube.com/watch?v=YDCPHekLUI4&t=1053s - Tom Schaul  
 https://www.youtube.com/watch?v=OCHwXxSW70o - Tejas Kulkarni  
 
-## Feb 4 - Hacker Dojo  
-https://arxiv.org/pdf/1809.06646.pdf - Model Free Adaptive Optimal Control of Sequential Manufacturing Process Using Reinforcement Learning  
 
 ## January 14 - Hacker Dojo
 https://arxiv.org/pdf/1812.07626.pdf - Universal Successor Features Approximators  
