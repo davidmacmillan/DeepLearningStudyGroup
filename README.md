@@ -75,6 +75,9 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## Feb 25 - Hacker Dojo
+https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
+
 ## Feb 11 - Hacker Dojo - 
 https://arxiv.org/pdf/1901.02860.pdf - Transformer XL - Attentive Language Models, Beyond a fixed length context
 
