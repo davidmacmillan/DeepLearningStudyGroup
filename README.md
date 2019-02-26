@@ -75,6 +75,9 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## Mar 4 - Hacker Dojo 
+https://arxiv.org/pdf/1806.02643.pdf - Re-evalating Evaluaation
+
 ## Feb 25 - Hacker Dojo
 https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
 
