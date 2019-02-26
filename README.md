@@ -76,7 +76,7 @@ https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinfo
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
 ## Mar 4 - Hacker Dojo 
-https://arxiv.org/pdf/1806.02643.pdf - Re-evalating Evaluaation
+https://arxiv.org/pdf/1806.02643.pdf - Re-evalating Evaluation
 
 ## Feb 25 - Hacker Dojo
 https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
