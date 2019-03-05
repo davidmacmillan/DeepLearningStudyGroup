@@ -75,6 +75,11 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## Mar 11 - Hacker Dojo
+https://arxiv.org/pdf/1706.03762.pdf - attention is all you need - Vaswani
+https://github.com/jadore801120/attention-is-all-you-need-pytorch - easier to read code
+
+
 ## Mar 4 - Hacker Dojo 
 https://arxiv.org/pdf/1806.02643.pdf - Re-evalating Evaluation
 
