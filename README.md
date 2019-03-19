@@ -75,6 +75,9 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## Mar 25 - Hacker Dojo  
+https://papers.nips.cc/paper/7539-optimal-algorithms-for-non-smooth-distributed-optimization-in-networks.pdf  - nips award winner
+
 ## Mar 18 - Hacker Dojo 
 https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf - Non-delusional Q-learning and Value Iteration  
 
