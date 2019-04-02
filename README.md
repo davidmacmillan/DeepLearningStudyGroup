@@ -75,6 +75,10 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
 
+## Apr 8 - Hacker Dojo  
+https://arxiv.org/pdf/1901.00596.pdf - Comprehensive Survey of Graph Neural Nets  
+https://github.com/rusty1s/pytorch_geometric  
+
 ## Apr 1 - Hacker Dojo  
 https://arxiv.org/pdf/1901.00596.pdf - Comprehensive Survey of Graph Neural Nets  
 
