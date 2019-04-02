@@ -74,6 +74,7 @@ https://arxiv.org/pdf/1901.00949.pdf - Machine Teaching in Hierarchical Genetic 
 https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligence Algorithms  
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinforcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices 
+https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind
 
 ## Apr 8 - Hacker Dojo  
 https://arxiv.org/pdf/1901.00596.pdf - Comprehensive Survey of Graph Neural Nets  
