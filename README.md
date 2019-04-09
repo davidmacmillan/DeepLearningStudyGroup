@@ -76,6 +76,9 @@ https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinfo
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices  
 https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind 
 
+## Apr 29 - Hacker Dojo  
+https://arxiv.org/pdf/1904.01681.pdf - Augmented Neural ODE's  
+
 ## Apr 8 - Hacker Dojo  
 https://arxiv.org/pdf/1901.00596.pdf - Comprehensive Survey of Graph Neural Nets  
 https://github.com/rusty1s/pytorch_geometric  
