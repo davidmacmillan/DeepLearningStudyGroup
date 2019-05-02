@@ -76,6 +76,15 @@ https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinfo
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices  
 https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind 
 
+## May 29 - Hacker Dojo  
+https://arxiv.org/pdf/1812.00417.pdf - Snorkel Drybell - A case study in weak supervision at industrial scale  
+
+## May 22 - Hacker Dojo  
+https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf - Language Models are Unsupervised Multitask Learners.  
+
+## May 15 - Hacker Dojo 
+https://arxiv.org/pdf/1811.00995.pdf - Invertible Residual Networks  
+
 ## Apr 29 - Hacker Dojo  
 https://arxiv.org/pdf/1904.01681.pdf - Augmented Neural ODE's  
 
