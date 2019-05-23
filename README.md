@@ -81,7 +81,7 @@ https://arxiv.org/pdf/1812.00417.pdf - Snorkel Drybell - A case study in weak su
 https://arxiv.org/pdf/1905.04981.pdf - Modelling instance level annotator reliability for natural language labelling 
 
 ## May 29 - Hacker Dojo  
-https://arxiv.org/pdf/1901.09321.pdf - Fixup Initialization: Residual Learning without Normalization 
+https://arxiv.org/pdf/1901.09321.pdf - Fixup Initialization: Residual Learning without Normalization  
 
 ## May 22 - Hacker Dojo  
 https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf - Language Models are Unsupervised Multitask Learners.  
