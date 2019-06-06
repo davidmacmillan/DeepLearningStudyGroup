@@ -76,6 +76,9 @@ https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinfo
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices  
 https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind 
 
+## June 12 - Hacker Dojo
+https://arxiv.org/pdf/1812.05159.pdf - An empirical study of example forgetting during neural network training.  
+
 ## June 5 - Hacker Dojo 
 https://arxiv.org/pdf/1812.00417.pdf - Snorkel Drybell - A case study in weak supervision at industrial scale  
 https://arxiv.org/pdf/1905.04981.pdf - Modelling instance level annotator reliability for natural language labelling 
