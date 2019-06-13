@@ -64,7 +64,7 @@ https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"
 
 https://arxiv.org/pdf/1812.11314.pdf - Meta Reinforcement Learning with Distribution of Exploration Parameters
 Learned by Evolution Strategies  
-
+  
 
 https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
 https://arxiv.org/pdf/1812.11675.pdf - Soft Autoencoder and Its Wavelet Shrinkage Interpretation  
@@ -75,6 +75,10 @@ https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligenc
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinfo rcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices  
 https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind 
+https://arxiv.org/pdf/1804.08838.pdf - Measuring intrinsic dimension of objective landscapes 
+
+## June 19 - Hacker Dojo  
+https://arxiv.org/abs/1810.09536 - Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks  
 
 ## June 12 - Hacker Dojo
 https://arxiv.org/pdf/1812.05159.pdf - An empirical study of example forgetting during neural network training.  
