@@ -74,7 +74,12 @@ https://arxiv.org/pdf/1901.00949.pdf - Machine Teaching in Hierarchical Genetic 
 https://arxiv.org/pdf/1901.00983.pdf - Brief Review of Computational Intelligence Algorithms  
 https://arxiv.org/pdf/1901.00898.pdf - Imminent Collision Mitigation with Reinfo rcement Learning and Vision  
 https://github.com/borisbanushev/stockpredictionai - predicting stock prices  
-https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind 
+https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind  
+http://proceedings.mlr.press/v97/mahoney19a/mahoney19a.pdf  - Traditional and heavy tailed self regularization in neural net models  
+https://openreview.net/pdf?id=HygQBn0cYm - Model predictive policy learning with uncertainty regularization for driving in dense traffic  
+
+
+## July 3 - Hacker Dojo 
 https://arxiv.org/pdf/1804.08838.pdf - Measuring intrinsic dimension of objective landscapes 
 
 ## June 19 - Hacker Dojo  
