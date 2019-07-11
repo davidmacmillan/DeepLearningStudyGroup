@@ -78,6 +78,8 @@ https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep min
 http://proceedings.mlr.press/v97/mahoney19a/mahoney19a.pdf  - Traditional and heavy tailed self regularization in neural net models  
 https://openreview.net/pdf?id=HygQBn0cYm - Model predictive policy learning with uncertainty regularization for driving in dense traffic  
 
+## July 17 - Hacker Dojo
+http://proceedings.mlr.press/v97/mahoney19a/mahoney19a.pdf  - Traditional and heavy tailed self regularization in neural net models 
 
 ## July 3 - Hacker Dojo 
 https://arxiv.org/pdf/1804.08838.pdf - Measuring intrinsic dimension of objective landscapes 
