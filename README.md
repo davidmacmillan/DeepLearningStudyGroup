@@ -77,6 +77,11 @@ https://github.com/borisbanushev/stockpredictionai - predicting stock prices
 https://arxiv.org/abs/1806.01261 - relational inductive bias in graph - deep mind  
 http://proceedings.mlr.press/v97/mahoney19a/mahoney19a.pdf  - Traditional and heavy tailed self regularization in neural net models  
 https://openreview.net/pdf?id=HygQBn0cYm - Model predictive policy learning with uncertainty regularization for driving in dense traffic  
+https://arxiv.org/pdf/1906.07774.pdf - information matrices and generalization - bengio  
+https://arxiv.org/pdf/1710.10903.pdf - graph attention networks bengio  
+https://arxiv.org/pdf/1812.09430.pdf - dynamic graph representation learning via self attention networks  
+https://arxiv.org/pdf/1906.04358.pdf - weight agnostic neural networks  
+
 
 ## July 17 - Hacker Dojo
 http://proceedings.mlr.press/v97/mahoney19a/mahoney19a.pdf  - Traditional and heavy tailed self regularization in neural net models 
