@@ -82,6 +82,12 @@ https://arxiv.org/pdf/1710.10903.pdf - graph attention networks bengio
 https://arxiv.org/pdf/1812.09430.pdf - dynamic graph representation learning via self attention networks  
 https://arxiv.org/pdf/1906.04358.pdf - weight agnostic neural networks  
 
+## July 31 - Hacker Dojo
+https://arxiv.org/pdf/1906.08253.pdf - When to trust your model: model-based policy optimization  
+
+## July 24 - Hacker Dojo 
+https://arxiv.org/pdf/1901.09321.pdf - Fixup initialization - residual learning without normalization  
+
 
 ## July 17 - Hacker Dojo
 http://proceedings.mlr.press/v97/mahoney19a/mahoney19a.pdf  - Traditional and heavy tailed self regularization in neural net models 
