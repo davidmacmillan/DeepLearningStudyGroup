@@ -82,6 +82,18 @@ https://arxiv.org/pdf/1710.10903.pdf - graph attention networks bengio
 https://arxiv.org/pdf/1812.09430.pdf - dynamic graph representation learning via self attention networks  
 https://arxiv.org/pdf/1906.04358.pdf - weight agnostic neural networks  
 
+## Sept 4 - Hacker Dojo  
+https://arxiv.org/pdf/1906.08237.pdf - XLNet Generalized autoregressive pretraining for language understanding 
+
+## August 28 - Hacker Dojo  
+https://arxiv.org/pdf/1905.09272.pdf - Data efficient image recognition with contrastive predictive coding.  
+
+## August 21 - Hacker Dojo  
+https://arxiv.org/pdf/1904.10509.pdf - Generating long sequences with sparse transformers 
+
+## August 14 - Hacker Dojo
+https://arxiv.org/pdf/1807.03748.pdf - Representation learning with contrastive predictive coding.  
+
 ## July 31 - Hacker Dojo
 https://arxiv.org/pdf/1906.08253.pdf - When to trust your model: model-based policy optimization  
 
