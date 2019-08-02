@@ -82,6 +82,9 @@ https://arxiv.org/pdf/1710.10903.pdf - graph attention networks bengio
 https://arxiv.org/pdf/1812.09430.pdf - dynamic graph representation learning via self attention networks  
 https://arxiv.org/pdf/1906.04358.pdf - weight agnostic neural networks  
 
+## Sept 11 - Hacker Dojo
+https://arxiv.org/pdf/1907.10599.pdf - Fine Grained Spectral Perspective on Neural Networks  
+
 ## Sept 4 - Hacker Dojo  
 https://arxiv.org/pdf/1906.08237.pdf - XLNet Generalized autoregressive pretraining for language understanding 
 
