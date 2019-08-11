@@ -81,6 +81,7 @@ https://arxiv.org/pdf/1906.07774.pdf - information matrices and generalization -
 https://arxiv.org/pdf/1710.10903.pdf - graph attention networks bengio  
 https://arxiv.org/pdf/1812.09430.pdf - dynamic graph representation learning via self attention networks  
 https://arxiv.org/pdf/1906.04358.pdf - weight agnostic neural networks  
+https://arxiv.org/pdf/1804.00222.pdf - Meta-Data update rules for unsupervised representation learning
 
 ## Sept 11 - Hacker Dojo
 https://arxiv.org/pdf/1907.10599.pdf - Fine Grained Spectral Perspective on Neural Networks  
