@@ -88,13 +88,13 @@ https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?
 https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks
 
 
-## Sept 11 - Hacker Dojo
+## Sept 18 - Hacker Dojo
 https://arxiv.org/pdf/1907.10599.pdf - Fine Grained Spectral Perspective on Neural Networks  
 
-## Sept 4 - Hacker Dojo  
+## Sept 11 - Hacker Dojo  
 https://arxiv.org/pdf/1906.08237.pdf - XLNet Generalized autoregressive pretraining for language understanding 
 
-## August 28 - Hacker Dojo  
+## Sept 4 - Hacker Dojo  
 https://arxiv.org/pdf/1905.09272.pdf - Data efficient image recognition with contrastive predictive coding.  
 
 ## August 21 - Hacker Dojo  
