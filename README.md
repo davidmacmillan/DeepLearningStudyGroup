@@ -87,6 +87,9 @@ https://arxiv.org/pdf/1806.03107.pdf - Temporal difference variational autoencod
 https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?  
 https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks
 
+## Sept 25 - Hacker Dojo  
+https://arxiv.org/pdf/1812.01729.pdf - Boltzman Generators - Sampling equilibrium states of many body systems with deep learning
+
 
 ## Sept 18 - Hacker Dojo
 https://arxiv.org/pdf/1907.10599.pdf - Fine Grained Spectral Perspective on Neural Networks  
