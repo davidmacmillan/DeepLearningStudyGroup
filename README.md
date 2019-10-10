@@ -85,7 +85,11 @@ https://arxiv.org/pdf/1804.00222.pdf - Meta-Data update rules for unsupervised r
 https://arxiv.org/abs/1901.10430 - Pay less attention with lightweight and dynamic convolutions  
 https://arxiv.org/pdf/1806.03107.pdf - Temporal difference variational autoencoder  
 https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?  
-https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks
+https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks  
+
+## Oct 16 - Hacker Dojo  
+https://arxiv.org/pdf/1909.07528.pdf - Emergent tool use from multi agent autocurricula  
+https://openai.com/blog/emergent-tool-use/  
 
 ## Oct 9 - Hacker Dojo  
 https://arxiv.org/pdf/1901.00949.pdf - Machine Teaching in Hierarchical Genetic Reinforcement Learning: Curriculum Design of Reward Functions for Swarm Shepherding  
