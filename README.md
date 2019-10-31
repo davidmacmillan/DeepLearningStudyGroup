@@ -87,6 +87,10 @@ https://arxiv.org/pdf/1806.03107.pdf - Temporal difference variational autoencod
 https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?  
 https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks  
 
+
+## Nov 6 - Hacker Dojo
+https://arxiv.org/pdf/1906.11883.pdf - Unsupervised learning of Object Keypoints for Perception and Control  
+
 ## Oct 30 - Hacker Dojo  
 https://arxiv.org/pdf/1710.03748.pdf - Emergent Complexity via Multi-Agent Competition  
 https://openai.com/blog/competitive-self-play/  
