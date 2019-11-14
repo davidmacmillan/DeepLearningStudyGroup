@@ -87,6 +87,13 @@ https://arxiv.org/pdf/1806.03107.pdf - Temporal difference variational autoencod
 https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?  
 https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks  
 
+## Dec 18 - Hacker Dojo
+https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D   
+https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning  
+
+## Nov 20 - Hacker Dojo 
+https://arxiv.org/pdf/1911.04252.pdf - Self-training with Noisy Student improves ImageNet classification  
+
 ## Nov 13 - Hacker Dojo  
 https://arxiv.org/pdf/1910.12713.pdf - Few-shot video-video synthesis  
 
