@@ -86,6 +86,26 @@ https://arxiv.org/abs/1901.10430 - Pay less attention with lightweight and dynam
 https://arxiv.org/pdf/1806.03107.pdf - Temporal difference variational autoencoder  
 https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?  
 https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks  
+https://arxiv.org/pdf/1908.03015.pdf - Augmenting VAE with sparse labels: A unified framework for supervised and semi-supervised learning.  
+https://arxiv.org/pdf/1911.06294.pdf - DEEP REINFORCEMENT LEARNING FOR ADAPTIVE TRAFFIC SIGNAL CONTROL  
+https://arxiv.org/pdf/1911.06615.pdf - Deep learning methods in speaker recognition: a review
+
+
+## Biology 
+https://arxiv.org/pdf/1911.06105.pdf - PharML.Bind: Pharmacologic Machine Learning for Protein-Ligand Interactions  
+https://arxiv.org/pdf/1911.06107.pdf - EARTHMOVER-BASED MANIFOLD LEARNING FOR ANALYZING MOLECULAR 
+CONFORMATION SPACES
+
+## Political news issues  
+https://arxiv.org/pdf/1911.06198.pdf - Election control in social networks via edge addition and removal  
+https://arxiv.org/pdf/1911.05885.pdf -  Deception through half-truths  
+
+## Finance Related Papers - 
+https://arxiv.org/pdf/1911.05892.pdf - Reinforcement Learning for Market Making in Multi-agent Dealer Market  
+https://arxiv.org/pdf/1911.06193.pdf - Predicting Indian stock market using psycho-linguistic features of financial news  
+https://arxiv.org/pdf/1911.05952.pdf - Change point analysis in financial networks  
+https://arxiv.org/pdf/1911.05620.pdf - Neural networks for option pricing and hedging - a literature review  
+https://arxiv.org/pdf/1911.06126.pdf - Unveil stock correlation via a new tensor-based decomposition method  
 
 ## Dec 18 - Hacker Dojo
 https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D   
