@@ -65,8 +65,6 @@ https://arxiv.org/abs/1809.05042 - "Hamiltonian Descent Methods"
 https://arxiv.org/pdf/1812.11314.pdf - Meta Reinforcement Learning with Distribution of Exploration Parameters
 Learned by Evolution Strategies  
   
-
-https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
 https://arxiv.org/pdf/1812.11675.pdf - Soft Autoencoder and Its Wavelet Shrinkage Interpretation  
 https://arxiv.org/pdf/1901.01122.pdf - Machine Translation: A Literature Review  
 https://arxiv.org/pdf/1901.01010.pdf - A Joint Model for Multimodal Document Quality Assessment  
@@ -88,13 +86,17 @@ https://arxiv.org/pdf/1810.00826.pdf - How powerful are graph neural networks?
 https://arxiv.org/abs/1906.07084 - Particle swarm optimization for great enhancement in semi-supervised retinal vessel segmentation with generative adversarial networks  
 https://arxiv.org/pdf/1908.03015.pdf - Augmenting VAE with sparse labels: A unified framework for supervised and semi-supervised learning.  
 https://arxiv.org/pdf/1911.06294.pdf - DEEP REINFORCEMENT LEARNING FOR ADAPTIVE TRAFFIC SIGNAL CONTROL  
-https://arxiv.org/pdf/1911.06615.pdf - Deep learning methods in speaker recognition: a review
-
+https://arxiv.org/pdf/1911.06615.pdf - Deep learning methods in speaker recognition: a review  
+https://arxiv.org/pdf/1911.06904.pdf - Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling  
+https://arxiv.org/pdf/1911.07470.pdf - Graph Transformer for Graph-to-Sequence Learning  
+https://arxiv.org/pdf/1911.07532.pdf - Graph Neural Ordinary Differential Equations - modeling time varying graphs  
 
 ## Biology 
+https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
 https://arxiv.org/pdf/1911.06105.pdf - PharML.Bind: Pharmacologic Machine Learning for Protein-Ligand Interactions  
 https://arxiv.org/pdf/1911.06107.pdf - EARTHMOVER-BASED MANIFOLD LEARNING FOR ANALYZING MOLECULAR 
 CONFORMATION SPACES
+https://arxiv.org/pdf/1911.07125.pdf - Opportunities for artificial intelligence in advancing precision medicine  
 
 ## Political news issues  
 https://arxiv.org/pdf/1911.06198.pdf - Election control in social networks via edge addition and removal  
