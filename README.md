@@ -95,7 +95,7 @@ https://arxiv.org/pdf/1911.07532.pdf - Graph Neural Ordinary Differential Equati
 https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
 https://arxiv.org/pdf/1911.06105.pdf - PharML.Bind: Pharmacologic Machine Learning for Protein-Ligand Interactions  
 https://arxiv.org/pdf/1911.06107.pdf - EARTHMOVER-BASED MANIFOLD LEARNING FOR ANALYZING MOLECULAR 
-CONFORMATION SPACES
+CONFORMATION SPACES  
 https://arxiv.org/pdf/1911.07125.pdf - Opportunities for artificial intelligence in advancing precision medicine  
 
 ## Political news issues  
@@ -111,6 +111,7 @@ https://arxiv.org/pdf/1911.06126.pdf - Unveil stock correlation via a new tensor
 
 ## Dec 18 - Hacker Dojo
 https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D   
+https://www.gwern.net/docs/rl/2019-vinyals.pdf  
 https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning  
 
 ## Nov 20 - Hacker Dojo 
