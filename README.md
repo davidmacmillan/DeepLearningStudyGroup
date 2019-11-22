@@ -90,6 +90,7 @@ https://arxiv.org/pdf/1911.06615.pdf - Deep learning methods in speaker recognit
 https://arxiv.org/pdf/1911.06904.pdf - Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling  
 https://arxiv.org/pdf/1911.07470.pdf - Graph Transformer for Graph-to-Sequence Learning  
 https://arxiv.org/pdf/1911.07532.pdf - Graph Neural Ordinary Differential Equations - modeling time varying graphs  
+https://arxiv.org/pdf/1911.08517.pdf - Generalizable Resource Allocation in Stream Processing via Deep Reinforcement Learning  
 
 ## Biology 
 https://arxiv.org/pdf/1812.11951.pdf - Learning to Design RNA  
@@ -108,6 +109,7 @@ https://arxiv.org/pdf/1911.06193.pdf - Predicting Indian stock market using psyc
 https://arxiv.org/pdf/1911.05952.pdf - Change point analysis in financial networks  
 https://arxiv.org/pdf/1911.05620.pdf - Neural networks for option pricing and hedging - a literature review  
 https://arxiv.org/pdf/1911.06126.pdf - Unveil stock correlation via a new tensor-based decomposition method  
+https://arxiv.org/pdf/1911.08647.pdf - Deep Reinforcement Learning in Cryptocurrency Market Making
 
 ## Dec 18 - Hacker Dojo
 https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D   
