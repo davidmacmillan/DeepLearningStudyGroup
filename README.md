@@ -111,6 +111,9 @@ https://arxiv.org/pdf/1911.05620.pdf - Neural networks for option pricing and he
 https://arxiv.org/pdf/1911.06126.pdf - Unveil stock correlation via a new tensor-based decomposition method  
 https://arxiv.org/pdf/1911.08647.pdf - Deep Reinforcement Learning in Cryptocurrency Market Making  
 https://arxiv.org/pdf/1912.09524.pdf - Evolving ab initio trading strategies in heterogeneous environments  
+https://arxiv.org/pdf/1912.10343.pdf - Design of High-Frequency Trading Algorithm Based on Machine Learning  
+https://arxiv.org/abs/1912.10806 - DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News  
+https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTING  
 
 ## Jan 8 - Hacker Dojo  
 https://arxiv.org/pdf/1911.05892.pdf - Reinforcement Learning for Market Making in Multi-agent Dealer Market  
