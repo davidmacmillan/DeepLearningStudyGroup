@@ -109,7 +109,12 @@ https://arxiv.org/pdf/1911.06193.pdf - Predicting Indian stock market using psyc
 https://arxiv.org/pdf/1911.05952.pdf - Change point analysis in financial networks  
 https://arxiv.org/pdf/1911.05620.pdf - Neural networks for option pricing and hedging - a literature review  
 https://arxiv.org/pdf/1911.06126.pdf - Unveil stock correlation via a new tensor-based decomposition method  
-https://arxiv.org/pdf/1911.08647.pdf - Deep Reinforcement Learning in Cryptocurrency Market Making
+https://arxiv.org/pdf/1911.08647.pdf - Deep Reinforcement Learning in Cryptocurrency Market Making  
+https://arxiv.org/pdf/1912.09524.pdf - Evolving ab initio trading strategies in heterogeneous environments  
+
+## Jan 8 - Hacker Dojo  
+https://arxiv.org/pdf/1911.05892.pdf - Reinforcement Learning for Market Making in Multi-agent Dealer Market  
+https://arxiv.org/pdf/1912.09524.pdf - Evolving ab initio trading strategies in heterogeneous environments  
 
 ## Dec 18 - Hacker Dojo
 https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D   
