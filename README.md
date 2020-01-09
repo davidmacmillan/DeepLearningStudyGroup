@@ -115,9 +115,18 @@ https://arxiv.org/pdf/1912.10343.pdf - Design of High-Frequency Trading Algorith
 https://arxiv.org/abs/1912.10806 - DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News  
 https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTING  
 
+https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Generalizable  Assembly  from  Disassembly  
+
+
+## Jan 22 - Hacker Dojo  
+https://arxiv.org/pdf/1906.05717.pdf - Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics  
+
+## Jan 15 - Hacker Dojo
+https://arxiv.org/pdf/1912.09524.pdf - Evolving ab initio trading strategies in heterogeneous environments  
+
 ## Jan 8 - Hacker Dojo  
 https://arxiv.org/pdf/1911.05892.pdf - Reinforcement Learning for Market Making in Multi-agent Dealer Market  
-https://arxiv.org/pdf/1912.09524.pdf - Evolving ab initio trading strategies in heterogeneous environments  
+
 
 ## Dec 18 - Hacker Dojo
 https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D   
