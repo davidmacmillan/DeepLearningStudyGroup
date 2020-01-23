@@ -116,6 +116,7 @@ https://arxiv.org/abs/1912.10806 - DP-LSTM: Differential Privacy-inspired LSTM f
 https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTING  
 
 https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Generalizable  Assembly  from  Disassembly  
+https://arxiv.org/pdf/1802.08232.pdf- The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks  
 
 
 ## Feb 5 - Hacker Dojo 
