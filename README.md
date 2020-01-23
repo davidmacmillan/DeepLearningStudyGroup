@@ -118,6 +118,10 @@ https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTI
 https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Generalizable  Assembly  from  Disassembly  
 
 
+## Feb 5 - Hacker Dojo 
+https://arxiv.org/abs/2001.04451 Reformer, the efficient transformer   
+https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html   
+
 ## Jan 22 - Hacker Dojo  
 https://arxiv.org/pdf/1906.05717.pdf - Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics  
 
