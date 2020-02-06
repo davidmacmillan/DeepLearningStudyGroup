@@ -119,6 +119,9 @@ https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Ge
 https://arxiv.org/pdf/1802.08232.pdf- The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks  
 
 
+## Feb 12 - Hacker Dojo  
+https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery - Protein folding paper.
+
 ## Feb 5 - Hacker Dojo 
 https://arxiv.org/abs/2001.04451 Reformer, the efficient transformer   
 https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html   
