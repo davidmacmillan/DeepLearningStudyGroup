@@ -118,6 +118,8 @@ https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTI
 https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Generalizable  Assembly  from  Disassembly  
 https://arxiv.org/pdf/1802.08232.pdf- The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks  
 
+
+## Feb 19 - Hacker Dojo  
 https://arxiv.org/pdf/1910.02789.pdf - Language is Power: Representing States Using Natural Language in Reinforcement Learning  
 
 
