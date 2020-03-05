@@ -118,6 +118,9 @@ https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTI
 https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Generalizable  Assembly  from  Disassembly  
 https://arxiv.org/pdf/1802.08232.pdf- The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks  
 
+## Mar 11 - Hacker Dojo  
+https://arxiv.org/pdf/2002.11089.pdf - Rewriting History with Inverse RL: Hindsight Inference for Policy Improvement  
+
 ## Mar 4 - Hacker Dojo  
 https://www.osapublishing.org/DirectPDFAccess/C6D6B2C3-953C-4461-695B6E5E2F993943_415059/prj-7-8-823.pdf?da=1&id=415059&seq=0&mobile=no --Nanophotonic media for artificial neural inference  
 
