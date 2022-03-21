@@ -118,6 +118,21 @@ https://arxiv.org/pdf/1912.10813.pdf - MODEL UNCERTAINTY  IN FINANCIAL FORECASTI
 https://arxiv.org/pdf/1910.13675.pdf- Form2Fit: Learning  Shape  Priors  for  Generalizable  Assembly  from  Disassembly  
 https://arxiv.org/pdf/1802.08232.pdf- The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks  
 
+##  Wednesday, March 23, 2022 
+https://openreview.net/forum?id=4orlVaC95Bo - Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data
+
+##  Wednesday, March 16, 2022
+https://arxiv.org/abs/2203.03466 - Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer
+https://www.youtube.com/watch?v=MNOJQINH-qw
+
+##  Wednesday, March 9, 2022 
+https://arxiv.org/abs/2201.12122 - Can Wikipedia Help Offline Reinforcement Learning?
+Yannic's talk on this,
+https://www.youtube.com/watch?v=XHGh19Hbx48
+and he also has a followon video interview with the authors
+https://www.youtube.com/watch?v=FNDVy_BR8aA
+
+
 ##  Wednesday, March 2, 2022 - 
 https://arxiv.org/pdf/2107.03342.pdf - A Survey of Uncertainty in Deep Neural Networks
 
