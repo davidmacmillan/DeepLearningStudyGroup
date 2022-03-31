@@ -3,7 +3,7 @@ Papers,code etc for deep learning study group
 
 ##  Wednesday, March 30, 2022
 https://arxiv.org/pdf/2105.04906.pdf - VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING
-
+https://www.youtube.com/watch?v=MzKDNmOJ67Q
 
 ##  Wednesday, March 23, 2022 
 https://openreview.net/forum?id=4orlVaC95Bo - Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data
