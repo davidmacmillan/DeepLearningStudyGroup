@@ -1,5 +1,11 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
+See also - https://discord.gg/nP3BfEMA 
+
+##  Wednesday, April 6, 2022
+https://arxiv.org/pdf/2202.00666.pdf - Typical Decoding for Natural Language Generation
+https://youtu.be/_EDr3ryrT_Y 
+https://www.youtube.com/watch?v=AvHLJqtmQkE 
 
 ##  Wednesday, March 30, 2022
 https://arxiv.org/pdf/2105.04906.pdf - VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING 
