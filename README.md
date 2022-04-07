@@ -2,6 +2,10 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
+##  Wednesday, April 13, 2022
+https://arxiv.org/pdf/2110.13985.pdf - Combining Recurrent, Convolutional, and Continuous-time
+Models with Linear State-Space Layers
+
 ##  Wednesday, April 6, 2022
 https://arxiv.org/pdf/2202.00666.pdf - Typical Decoding for Natural Language Generation
 
