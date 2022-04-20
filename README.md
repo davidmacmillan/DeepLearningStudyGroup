@@ -30,11 +30,11 @@ https://arxiv.org/abs/2203.03466 - Tensor Programs V: Tuning Large Neural Networ
 https://www.youtube.com/watch?v=MNOJQINH-qw  
 
 ##  Wednesday, March 9, 2022 
-https://arxiv.org/abs/2201.12122 - Can Wikipedia Help Offline Reinforcement Learning?
-Yannic's talk on this,
-https://www.youtube.com/watch?v=XHGh19Hbx48
-and he also has a followon video interview with the authors
-https://www.youtube.com/watch?v=FNDVy_BR8aA
+https://arxiv.org/abs/2201.12122 - Can Wikipedia Help Offline Reinforcement Learning?   
+Yannic's talk on this,  
+https://www.youtube.com/watch?v=XHGh19Hbx48   
+and he also has a followon video interview with the authors   
+https://www.youtube.com/watch?v=FNDVy_BR8aA   
 
 
 ##  Wednesday, March 2, 2022 - 
