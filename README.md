@@ -4,8 +4,8 @@ See also - https://discord.gg/nP3BfEMA
 
 ##  Wednesday, April 20, 2022 
 https://arxiv.org/pdf/2103.00020.pdf - Learning Transferable Visual Models From Natural Language Supervision  
-https://www.youtube.com/watch?v=1LUWWAnK_Ks
-https://www.youtube.com/watch?v=3X3EY2Fgp3g
+https://www.youtube.com/watch?v=1LUWWAnK_Ks  
+https://www.youtube.com/watch?v=3X3EY2Fgp3g  
 
 ##  Wednesday, April 13, 2022
 https://arxiv.org/pdf/2110.13985.pdf - Combining Recurrent, Convolutional, and Continuous-time
@@ -20,14 +20,14 @@ https://www.youtube.com/watch?v=AvHLJqtmQkE
 
 ##  Wednesday, March 30, 2022
 https://arxiv.org/pdf/2105.04906.pdf - VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING 
-https://www.youtube.com/watch?v=MzKDNmOJ67Q
+https://www.youtube.com/watch?v=MzKDNmOJ67Q  
 
 ##  Wednesday, March 23, 2022 
 https://openreview.net/forum?id=4orlVaC95Bo - Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data
 
 ##  Wednesday, March 16, 2022
-https://arxiv.org/abs/2203.03466 - Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer
-https://www.youtube.com/watch?v=MNOJQINH-qw
+https://arxiv.org/abs/2203.03466 - Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer  
+https://www.youtube.com/watch?v=MNOJQINH-qw  
 
 ##  Wednesday, March 9, 2022 
 https://arxiv.org/abs/2201.12122 - Can Wikipedia Help Offline Reinforcement Learning?
