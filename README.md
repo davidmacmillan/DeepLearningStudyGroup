@@ -19,7 +19,7 @@ https://youtu.be/_EDr3ryrT_Y
 https://www.youtube.com/watch?v=AvHLJqtmQkE 
 
 ##  Wednesday, March 30, 2022
-https://arxiv.org/pdf/2105.04906.pdf - VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING 
+https://arxiv.org/pdf/2105.04906.pdf - VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING   
 https://www.youtube.com/watch?v=MzKDNmOJ67Q  
 
 ##  Wednesday, March 23, 2022 
