@@ -4,6 +4,8 @@ See also - https://discord.gg/nP3BfEMA
 
 ##  Wednesday, April 20, 2022 
 https://arxiv.org/pdf/2103.00020.pdf - Learning Transferable Visual Models From Natural Language Supervision
+https://www.youtube.com/watch?v=1LUWWAnK_Ks
+https://www.youtube.com/watch?v=3X3EY2Fgp3g
 
 ##  Wednesday, April 13, 2022
 https://arxiv.org/pdf/2110.13985.pdf - Combining Recurrent, Convolutional, and Continuous-time
