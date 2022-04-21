@@ -2,6 +2,11 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
+##  Wednesday, April 27, 2022  
+https://arxiv.org/abs/2204.06125 - Hierarchical Text-Conditional Image Generation with CLIP Latents  
+https://openai.com/dall-e-2/ - OpenAI blog  
+https://www.youtube.com/watch?v=j4xgkjWlfL4 - yannic video  
+
 ##  Wednesday, April 20, 2022 
 https://arxiv.org/pdf/2103.00020.pdf - Learning Transferable Visual Models From Natural Language Supervision  
 https://www.youtube.com/watch?v=1LUWWAnK_Ks  
