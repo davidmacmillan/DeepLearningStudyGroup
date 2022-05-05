@@ -2,6 +2,9 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
+##  Wednesday, May 11, 2022  
+https://openreview.net/pdf?id=b-ny3x071E5 - BOOTSTRAPPED META-LEARNING   
+
 ##  Wednesday, May 4, 2022  
 https://arxiv.org/abs/2202.06991 - Transformer Memory as a Differentiable Search Index   
 https://www.youtube.com/watch?v=C7mUYocWdG0 - Yannic author interview   
