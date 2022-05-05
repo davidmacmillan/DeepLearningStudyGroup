@@ -2,10 +2,10 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
-##  Wednesday, May 4, 2022
+##  Wednesday, May 4, 2022  
 https://arxiv.org/abs/2202.06991 - Transformer Memory as a Differentiable Search Index   
-Yanic on Transformer paper https://www.youtube.com/watch?v=C7mUYocWdG0   
-
+https://www.youtube.com/watch?v=C7mUYocWdG0 - Yannic author interview   
+https://www.youtube.com/watch?v=qlB0TPBQ7YY - Yannic on Transformer paper   
 
 ##  Wednesday, April 27, 2022  
 https://arxiv.org/abs/2204.06125 - Hierarchical Text-Conditional Image Generation with CLIP Latents  
