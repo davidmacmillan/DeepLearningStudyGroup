@@ -2,6 +2,9 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
+##  Wednesday, May 18, 2022  
+https://openreview.net/pdf?id=M752z9FKJP - LEARNING STRIDES IN CONVOLUTIONAL NEURAL NETWORKS   
+
 ##  Wednesday, May 11, 2022  
 https://openreview.net/pdf?id=b-ny3x071E5 - BOOTSTRAPPED META-LEARNING   
 
