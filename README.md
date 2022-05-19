@@ -2,6 +2,9 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
+##  Wednesday, May 25, 2022   
+https://arxiv.org/pdf/2202.05780.pdf - A Modern Self-Referential Weight Matrix That Learns to Modify Itself  
+
 ##  Wednesday, May 18, 2022  
 https://openreview.net/pdf?id=M752z9FKJP - LEARNING STRIDES IN CONVOLUTIONAL NEURAL NETWORKS   
 
