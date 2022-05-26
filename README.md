@@ -2,6 +2,10 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
+##  Wednesday, June 1, 2022   
+Paper: https://arxiv.org/pdf/2205.06175.pdf - A Generalist Agent  
+Blog: https://www.deepmind.com/publications/a-generalist-agent  
+
 ##  Wednesday, May 25, 2022   
 https://arxiv.org/pdf/2202.05780.pdf - A Modern Self-Referential Weight Matrix That Learns to Modify Itself  
 
