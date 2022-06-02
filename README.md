@@ -2,6 +2,10 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA 
 
+
+##  Wednesday, June 8, 2022  
+Paper: https://arxiv.org/abs/2102.06810 - Understanding Self-Supervised Learning Dynamics without Contrastive Pairs   
+
 ##  Wednesday, June 1, 2022   
 Paper: https://arxiv.org/pdf/2205.06175.pdf - A Generalist Agent  
 Blog: https://www.deepmind.com/publications/a-generalist-agent  
