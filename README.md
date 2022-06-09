@@ -1,6 +1,7 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
-See also - https://discord.gg/nP3BfEMA 
+See also - https://discord.gg/nP3BfEMA   
+zoom link - https://zoom.us/j/3954802564?pwd=STisTC4zYek  
 
 
 ##  Wednesday, June 8, 2022  
