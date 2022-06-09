@@ -2,6 +2,10 @@
 Papers,code etc for deep learning study group  
 See also - https://discord.gg/nP3BfEMA   
 zoom link - https://zoom.us/j/3954802564?pwd=STisTC4zYek  
+meeting time - 6:30 pm California time   
+
+##  Wednesday, June 15, 2022   
+Paper: https://arxiv.org/pdf/2205.10824.pdf - ReLU Fields: The Little Non-linearity That Could   
 
 
 ##  Wednesday, June 8, 2022  
