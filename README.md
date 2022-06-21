@@ -1,6 +1,6 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
-See also - https://discord.gg/vTzHPwWf  
+See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - https://zoom.us/j/3954802564?pwd=STisTC4zYek  
 meeting time - 6:30 pm California time   
 
