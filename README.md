@@ -1,8 +1,11 @@
 # hdDeepLearningStudy  
 Papers,code etc for deep learning study group  
 See group discord - https://discord.gg/HuWVmMgmqS   
-zoom link - https://zoom.us/j/3954802564?pwd=STisTC4zYek  
+zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
+
+##  Wednesday, June 29, 2022  
+Paper:  https://arxiv.org/pdf/2110.00966.pdf - Translating Images into Maps  
 
 ##  Wednesday, June 22, 2022
 Paper: https://arxiv.org/abs/2205.09665 - Automated Crossword Solving
