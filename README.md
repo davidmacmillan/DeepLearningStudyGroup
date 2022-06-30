@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, July 6, 2022  
+Paper: https://arxiv.org/abs/2206.11795 - Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos  
+https://github.com/openai/Video-Pre-Training  
+Yannic Review:  https://www.youtube.com/watch?v=oz5yZc9ULAc  
+
 ##  Wednesday, June 29, 2022  
 Paper:  https://arxiv.org/pdf/2110.00966.pdf - Translating Images into Maps  
 
