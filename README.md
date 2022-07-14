@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, July 20, 2022  
+Paper: A Mathematical Framework for Transformer Circuits https://transformer-circuits.pub/2021/framework/index.html#model-simplifications  
+
 ##  Wednesday, July 13, 2022  
 Paper: https://arxiv.org/abs/2001.08361 - Scaling Laws for Neural Language Models   
 Blog: https://medium.com/nlplanet/two-minutes-nlp-scaling-laws-for-neural-language-models-add6061aece7   
