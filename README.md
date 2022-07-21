@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, July 27, 2022  
+Paper: A Mathematical Framework for Transformer Circuits https://transformer-circuits.pub/2021/framework/index.html#model-simplifications  
+
 ##  Wednesday, July 20, 2022  
 Paper: A Mathematical Framework for Transformer Circuits https://transformer-circuits.pub/2021/framework/index.html#model-simplifications  
 
