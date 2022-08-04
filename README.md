@@ -4,6 +4,13 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, August 10, 2022  
+Paper:  On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence https://arxiv.org/abs/2207.04630   
+Background: On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence https://arxiv.org/abs/2207.04630   
+Background:  https://www.youtube.com/watch?v=OIVcfZeR1CE  youtube by author   
+Background:   https://cmsa.fas.harvard.edu/wp-content/uploads/2021/04/Deep_Networks_from_First_Principles.pdf  -  slides by author  
+
+
 ##  Wednesday, August 3, 2022   
 Paper:  Data Distributional Properties Drive Emergent In-Context Learning in Transformers https://arxiv.org/pdf/2205.05055.pdf 
 
