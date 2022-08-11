@@ -5,6 +5,11 @@ zoom link - On the meetup page
 meeting time - 6:30 pm California time   
 
 ##  Wednesday, August 10, 2022  
+Paper:  Principle of Maximal Coding Rate Reduction https://arxiv.org/abs/2006.08558  
+ReduNet:  https://arxiv.org/pdf/2105.10446.pdf   
+Github:  https://github.com/ryanchankh/mcr2   
+
+##  Wednesday, August 10, 2022  
 Paper:  On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence https://arxiv.org/abs/2207.04630   
 Background: On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence https://arxiv.org/abs/2207.04630   
 Background:  https://www.youtube.com/watch?v=OIVcfZeR1CE  youtube by author   
