@@ -4,7 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
-##  Wednesday, August 10, 2022  
+##  Wednesday, August 24, 2022  
+Paper:  Masked Siamese Networks for Label-Efficient Learning - https://arxiv.org/abs/2204.07141  
+
+##  Wednesday, August 17, 2022  
 Paper:  Principle of Maximal Coding Rate Reduction https://arxiv.org/abs/2006.08558  
 ReduNet:  https://arxiv.org/pdf/2105.10446.pdf   
 Github:  https://github.com/ryanchankh/mcr2   
