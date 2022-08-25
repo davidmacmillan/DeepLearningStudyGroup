@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, August 31, 2022  
+Paper: HOW NEURAL NETWORKS EXTRAPOLATE: FROM FEEDFORWARD TO GRAPH NEURAL NETWORKS - https://arxiv.org/pdf/2009.11848.pdf  
+
 ##  Wednesday, August 24, 2022  
 Paper:  Masked Siamese Networks for Label-Efficient Learning - https://arxiv.org/abs/2204.07141  
 
