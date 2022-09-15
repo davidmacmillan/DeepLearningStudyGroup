@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Sept 21, 2022  
+paper:  https://arxiv.org/pdf/2205.14415.pdf - Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting  
+
 ##  Wednesday, Sept 14, 2022  
 paper: https://arxiv.org/abs/2110.02402 - Language Modeling using LMUs: 10x Better Data Efficiency or Improved Scaling Compared to Transformers   
 youtube vid: https://www.youtube.com/watch?v=8t64QaTdBcU  
