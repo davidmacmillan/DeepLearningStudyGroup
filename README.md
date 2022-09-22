@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Sept 28, 2022  
+paper: https://arxiv.org/pdf/2208.01618.pdf - An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion   
+githup.io: https://textual-inversion.github.io/    
+YouTube https://www.youtube.com/watch?v=f3oXa7_SYek   
+
 ##  Wednesday, Sept 21, 2022  
 paper:  https://arxiv.org/pdf/2205.14415.pdf - Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting  
 
