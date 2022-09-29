@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Oct 5, 2022  
+paper: https://papers.nips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf - Legendre Memory Units: Continuous-Time   
+
 ##  Wednesday, Sept 28, 2022  
 paper: https://arxiv.org/pdf/2208.01618.pdf - An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion   
 githup.io: https://textual-inversion.github.io/    
