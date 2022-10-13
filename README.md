@@ -4,8 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Oct 19, 2022   
+paper:  https://proceedings.mlr.press/v162/zhu22c/zhu22c.pdf - Neural-Symbolic Models for Logical Queries on Knowledge Graphs  
+
 ##  Wednesday, Oct 12, 2022  
-https://arxiv.org/pdf/2206.02768.pdf - The Neural Covariance SDE: Shaped Infinite Depth-and-Width Networks at Initialization  
+paper:  https://arxiv.org/pdf/2206.02768.pdf - The Neural Covariance SDE: Shaped Infinite Depth-and-Width Networks at Initialization  
 
 ##  Wednesday, Oct 5, 2022  
 paper: https://papers.nips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf - Legendre Memory Units: Continuous-Time   
