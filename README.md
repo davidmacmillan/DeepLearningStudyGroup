@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Oct 26, 2022  
+paper:  Cellular automata as convolutional neural networks https://arxiv.org/pdf/1809.02942.pdf  
+survey: Collective Intelligence for Deep Learning: A Survey of Recent Developments https://arxiv.org/abs/2111.14377  
+demo:  Self-classifying MNIST Digits https://distill.pub/2020/selforg/mnist/  
+
 ##  Wednesday, Oct 19, 2022   
 paper:  https://proceedings.mlr.press/v162/zhu22c/zhu22c.pdf - Neural-Symbolic Models for Logical Queries on Knowledge Graphs  
 
