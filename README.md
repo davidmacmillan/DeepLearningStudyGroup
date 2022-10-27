@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Nov 2, 2022  
+paper:  https://arxiv.org/pdf/2209.12892.pdf - LEARNING TO LEARN WITH GENERATIVE MODELS OF NEURAL NETWORK CHECKPOINTS  
+
 ##  Wednesday, Oct 26, 2022  
 paper:  Cellular automata as convolutional neural networks https://arxiv.org/pdf/1809.02942.pdf  
 survey: Collective Intelligence for Deep Learning: A Survey of Recent Developments https://arxiv.org/abs/2111.14377  
