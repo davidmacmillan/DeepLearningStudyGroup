@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Nov 9, 2022  
+paper: https://arxiv.org/pdf/2209.11178.pdf - Poisson Flow Generative Models   
+
 ##  Wednesday, Nov 2, 2022  
 paper:  https://arxiv.org/pdf/2209.12892.pdf - LEARNING TO LEARN WITH GENERATIVE MODELS OF NEURAL NETWORK CHECKPOINTS  
 blog: https://www.marktechpost.com/2022/10/21/latest-machine-learning-research-at-uc-berkeley-proposes-a-way-to-design-a-learned-optimizer-using-generative-models-of-neural-network-checkpoints/   
