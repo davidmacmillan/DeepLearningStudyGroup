@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Nov 16, 2022  
+paper: https://www.pnas.org/doi/full/10.1073/pnas.2016239118   
+video: https://slideslive.com/38942412/biological-structure-and-function-emerge-from-scaling-unsupervised-learning-to-250-million-protein-sequences  
+
 ##  Wednesday, Nov 9, 2022  
 paper: https://arxiv.org/pdf/2209.11178.pdf - Poisson Flow Generative Models   
 
