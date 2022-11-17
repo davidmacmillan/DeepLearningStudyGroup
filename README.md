@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Nov 30, 2022  
+##  paper: https://arxiv.org/pdf/2206.10991.pdf - Graph Neural Networks as Gradient Flows: understanding graph convolutions via energy  
+##  youtube (author):  https://www.youtube.com/watch?v=sgTTtmwOMgE  
+##  youtube:   https://www.youtube.com/watch?v=hmI4C6AodEQ   
+
 ##  Wednesday, Nov 16, 2022  
 paper: https://www.pnas.org/doi/full/10.1073/pnas.2016239118   
 video: https://slideslive.com/38942412/biological-structure-and-function-emerge-from-scaling-unsupervised-learning-to-250-million-protein-sequences  
