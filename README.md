@@ -4,7 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
-## Wednesday, Dec 6, 2022  
+## Wednesday, Dec 14, 2022  
+paper: https://arxiv.org/abs/2012.09855 - Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image  
+blog: https://infinite-nature.github.io/  
+
+## Wednesday, Dec 7, 2022  
 Paper: https://arxiv.org/abs/2206.00364 - Elucidating the Design Space of Diffusion-Based Generative Models  
 video: https://www.youtube.com/watch?v=OYiQctx7kDE   
 
