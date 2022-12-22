@@ -4,6 +4,12 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+## Wednesday, Jan 4, 2023   
+Paper: https://arxiv.org/abs/2212.04458 - GENERAL-PURPOSE IN-CONTEXT LEARNING BY META-LEARNING TRANSFORMERS  
+
+## Wednesday, Dec 21, 2022  
+paper:  https://arxiv.org/pdf/2209.04836.pdf - GIT RE-BASIN: MERGING MODELS MODULO PERMUTATION SYMMETRIES  
+
 ## Wednesday, Dec 14, 2022  
 paper: https://arxiv.org/abs/2012.09855 - Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image  
 blog: https://infinite-nature.github.io/  
