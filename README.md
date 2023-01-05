@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+## Wednesday, Jan 11, 2023  
+Paper:  https://arxiv.org/pdf/1707.06690.pdf - DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning  
+
 ## Wednesday, Jan 4, 2023   
 Paper: https://arxiv.org/abs/2212.04458 - GENERAL-PURPOSE IN-CONTEXT LEARNING BY META-LEARNING TRANSFORMERS  
 
