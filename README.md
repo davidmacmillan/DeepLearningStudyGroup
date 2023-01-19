@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Jan 25, 2023  
+Paper: https://arxiv.org/pdf/2301.04104v1.pdf - Mastering Diverse Domains through World Models  
+Blog:  https://danijar.com/project/dreamerv3/  
+YouTube:  https://www.youtube.com/watch?v=vfpZu0R1s1Y   
+
 ##  Wednesday, Jan 18, 2023  
 Paper:  https://arxiv.org/abs/2212.04089 - Composable NN: Editing Models With Task Arithmetic  
 
