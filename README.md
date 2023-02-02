@@ -4,6 +4,16 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Feb 8, 2023  
+Paper: https://arxiv.org/abs/2205.06175 - A generalist agent - Gato  
+YouTube: Eden Mayer https://www.youtube.com/watch?v=wSQJZHfAg18   
+YouTube - Jay Alamar https://www.youtube.com/watch?v=kT6DYKgWNHg  
+YouTube - Lex Fridman and Oriol Vinyals on How Gato Works https://www.youtube.com/watch?v=vwB9zO2h9j0  
+Overview - main site on Gato at Deepmind https://www.deepmind.com/publications/a-generalist-agent  
+
+## Wednesday, Feb 1, 2023  
+Paper:  https://openreview.net/pdf?id=M95oDwJXayG - ADDRESSING PARAMETER CHOICE ISSUES IN UNSUPERVISED DOMAIN ADAPTATION BY AGGREGATION  
+
 ##  Wednesday, Jan 25, 2023  
 Paper: https://arxiv.org/pdf/2301.04104v1.pdf - Mastering Diverse Domains through World Models  
 Blog:  https://danijar.com/project/dreamerv3/  
