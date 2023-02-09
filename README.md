@@ -10,6 +10,7 @@ YouTube: Eden Mayer https://www.youtube.com/watch?v=wSQJZHfAg18
 YouTube - Jay Alamar https://www.youtube.com/watch?v=kT6DYKgWNHg  
 YouTube - Lex Fridman and Oriol Vinyals on How Gato Works https://www.youtube.com/watch?v=vwB9zO2h9j0  
 Overview - main site on Gato at Deepmind https://www.deepmind.com/publications/a-generalist-agent  
+blog review - https://arshren.medium.com/deep-minds-generalist-agent-gato-209969e12782   
 
 ## Wednesday, Feb 1, 2023  
 Paper:  https://openreview.net/pdf?id=M95oDwJXayG - ADDRESSING PARAMETER CHOICE ISSUES IN UNSUPERVISED DOMAIN ADAPTATION BY AGGREGATION  
