@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesdat, Feb 15, 2023  
+Paper:  https://arxiv.org/pdf/2111.15664.pdf - OCR-free Document Understanding Transformer  
+
 ##  Wednesday, Feb 8, 2023  
 Paper: https://arxiv.org/abs/2205.06175 - A generalist agent - Gato  
 YouTube: Eden Mayer https://www.youtube.com/watch?v=wSQJZHfAg18   
