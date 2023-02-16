@@ -4,7 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
-##  Wednesdat, Feb 15, 2023  
+##  Wednesday, Feb 22, 2023  
+Paper: https://arxiv.org/pdf/2203.02155.pdf - Training language models to follow instructions with human feedback  
+
+##  Wednesday, Feb 15, 2023  
 Paper:  https://arxiv.org/pdf/2111.15664.pdf - OCR-free Document Understanding Transformer  
 
 ##  Wednesday, Feb 8, 2023  
