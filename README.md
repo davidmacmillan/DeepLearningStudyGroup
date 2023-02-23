@@ -5,7 +5,7 @@ zoom link - On the meetup page
 meeting time - 6:30 pm California time   
 
 ##  Wednesday, Mar 1, 2023  
-Paper: Symbolic Discovery of Optimization Algorithms: https://arxiv.org/abs/2302.06675  
+Paper: Toolformer: Language Models Can Teach Themselves to Use Tools: https://arxiv.org/abs/2302.04761   
 
 ##  Wednesday, Feb 22, 2023  
 Paper: https://arxiv.org/pdf/2203.02155.pdf - Training language models to follow instructions with human feedback  
