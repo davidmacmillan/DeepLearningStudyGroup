@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Mar 8, 2023  
+Paper: Human-Timescale Adaptation in an Open-Ended Task Space: https://arxiv.org/pdf/2301.07608.pdf  
+https://www.youtube.com/watch?v=A2hOWShiYoM   
+https://sites.google.com/view/adaptive-agent/  
+
 ##  Wednesday, Mar 1, 2023  
 Paper: Toolformer: Language Models Can Teach Themselves to Use Tools: https://arxiv.org/abs/2302.04761   
 
