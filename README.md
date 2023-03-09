@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Mar 15, 2023  
+Paper: https://arxiv.org/abs/2202.05262 - Locating and Editing Factual Associations in GPT  
+blog:  https://rome.baulab.info/  
+Yannic video: https://www.youtube.com/watch?v=_NMQyOu2HTo  
+
 ##  Wednesday, Mar 8, 2023  
 Paper: Human-Timescale Adaptation in an Open-Ended Task Space: https://arxiv.org/pdf/2301.07608.pdf  
 https://www.youtube.com/watch?v=A2hOWShiYoM   
