@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Mar 22, 2023
+Paper: https://arxiv.org/abs/2212.07359 - Post-hoc Uncertainty Learning using a Dirichlet Meta-Model  
+youtube: https://www.youtube.com/watch?v=nE8XJ1f0zO0  
+
 ##  Wednesday, Mar 15, 2023  
 Paper: https://arxiv.org/abs/2202.05262 - Locating and Editing Factual Associations in GPT  
 blog:  https://rome.baulab.info/  
