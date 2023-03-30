@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Apr 5, 2023  
+Paper:  https://openreview.net/pdf?id=lMMaNf6oxKM - Recipe for a General, Powerful, Scalable Graph Transformer  
+youtube: https://www.youtube.com/watch?v=DiLSCReBaTg  
+
 ##  Wednesday, Mar 29, 2023  
 Paper: https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html - Do Transformers Really Perform Badly for Graph Representation?   
 video: https://www.youtube.com/watch?v=FKuQpPIRjLk - review by authors  
