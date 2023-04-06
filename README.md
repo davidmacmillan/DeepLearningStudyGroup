@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Apr 12, 2023  
+Paper:  Eliciting Latent Predictions from Transformers with the Tuned Lens https://arxiv.org/abs/2303.08112 
+
 ##  Wednesday, Apr 5, 2023  
 Paper:  https://openreview.net/pdf?id=lMMaNf6oxKM - Recipe for a General, Powerful, Scalable Graph Transformer  
 youtube: https://www.youtube.com/watch?v=DiLSCReBaTg  
