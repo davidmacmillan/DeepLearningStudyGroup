@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, Apr 19, 2023 
+Blog:  https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/   
+Code:  https://github.com/hwchase17/langchain   
+
 ##  Wednesday, Apr 12, 2023  
 Paper:  Eliciting Latent Predictions from Transformers with the Tuned Lens https://arxiv.org/abs/2303.08112 
 
