@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, May 3, 2023   
+paper: https://arxiv.org/pdf/2201.11903.pdf - Chain of thought prompting elicits reasoning in large language models. 
+paper: https://arxiv.org/pdf/2210.03629.pdf - REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS   
+paper: https://www.pinecone.io/learn/locality-sensitive-hashing/   
+
 ##  Wednesday, Apr 26, 2023  
 https://python.langchain.com/en/latest/modules/agents.html  
 https://arxiv.org/pdf/2210.03629.pdf - REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS  
