@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, May 17, 2023
+paper: https://arxiv.org/pdf/2106.09685.pdf - LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS  
+
 ##  Wednesday, May 10, 2023   
 paper: https://arxiv.org/pdf/2210.03629.pdf - REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS   
 paper: https://www.pinecone.io/learn/locality-sensitive-hashing/   
