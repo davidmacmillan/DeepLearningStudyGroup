@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, May 28, 2023  
+paper:  https://arxiv.org/abs/2212.09720 - The case for 4-bit precision: k-bit Inference Scaling Laws  
+paper:  https://arxiv.org/pdf/2210.17323.pdf - GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS  
+
 ##  Wednesday, May 17, 2023
 paper: https://arxiv.org/pdf/2106.09685.pdf - LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS  
 
