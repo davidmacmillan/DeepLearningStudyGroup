@@ -4,7 +4,13 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
-##  Wednesday, May 28, 2023  
+##  Wednesday, May 31, 2023   
+paper:  https://arxiv.org/pdf/2203.15556.pdf - Training Compute-Optimal Large Language Models  
+blog:  https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications   
+blog:  https://www.harmdevries.com/post/model-size-vs-compute-overhead/   
+google blog:  https://www.cnbc.com/2023/05/16/googles-palm-2-uses-nearly-five-times-more-text-data-than-predecessor.html  
+
+##  Wednesday, May 24, 2023  
 paper:  https://arxiv.org/abs/2212.09720 - The case for 4-bit precision: k-bit Inference Scaling Laws  
 paper:  https://arxiv.org/pdf/2210.17323.pdf - GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS  
 
