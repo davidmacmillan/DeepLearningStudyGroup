@@ -4,6 +4,12 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, June 7, 2023  
+Paper:  https://arxiv.org/pdf/2305.16291.pdf   
+Twit:  Tweet with nice overview by author https://twitter.com/DrJimFan/status/1662117784023883777   
+Code:   https://github.com/MineDojo/Voyager   
+website:  https://voyager.minedojo.org/ 
+
 ##  Wednesday, May 31, 2023   
 paper:  https://arxiv.org/pdf/2203.15556.pdf - Training Compute-Optimal Large Language Models  
 blog:  https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications   
