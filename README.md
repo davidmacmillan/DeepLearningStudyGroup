@@ -4,6 +4,20 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, June 14, 2023  
+https://arxiv.org/abs/1804.08838   
+Blog: https://www.uber.com/blog/intrinsic-dimension/   
+more good stuff on intrinsic dimension:   
+Nature paper: https://www.nature.com/articles/s41598-017-11873-y   
+Wikipedia: https://en.wikipedia.org/wiki/Intrinsic_dimension   
+Application - Yann LeCun at 57:15 on does text fully represent world model?   
+https://www.youtube.com/watch?v=SGzMElJ11Cc   
+vs. differing view from Ilya Sutskever at 15:30   
+https://www.youtube.com/watch?v=SjhIlw3Iffs    
+Applying intrinsic dimension to scaling laws in training / loss:   
+https://jmlr.csail.mit.edu/papers/volume23/20-1111/20-1111.pdf   
+https://arxiv.org/abs/2102.06701   
+
 ##  Wednesday, June 7, 2023  
 Paper:  https://arxiv.org/pdf/2305.16291.pdf   
 Twit:  Tweet with nice overview by author https://twitter.com/DrJimFan/status/1662117784023883777   
