@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, June 21, 2023  
+Consciousness as a Memory System https://pubmed.ncbi.nlm.nih.gov/36178498/  
+
 ##  Wednesday, June 14, 2023  
 https://arxiv.org/abs/1804.08838   
 Blog: https://www.uber.com/blog/intrinsic-dimension/   
