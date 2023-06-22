@@ -4,6 +4,12 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, June 28, 2023  
+paper: https://arxiv.org/pdf/2305.17126.pdf - Large Language Models as Tool Makers  
+youtube:  https://www.youtube.com/watch?v=qWI1AJ2nSDY   
+youtube:  https://www.youtube.com/watch?v=KXlPzMRTfMk   
+youtube:  https://www.youtube.com/watch?v=srDVNbxPgZI   
+
 ##  Wednesday, June 21, 2023  
 Consciousness as a Memory System https://pubmed.ncbi.nlm.nih.gov/36178498/  
 
