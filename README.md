@@ -4,6 +4,15 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+## Wednesday, July 12, 2023  
+We're going to cover the 1st chapter of this book.   
+https://book-wright-ma.github.io/Book-WM-20210422.pdf - High dimensional Data Analysis with Low Dimensional Models  
+
+##  Wednesday, July 5, 2023  
+We're going to cover the 1st chapter of this book.  
+https://book-wright-ma.github.io/Book-WM-20210422.pdf - High dimensional Data Analysis with Low Dimensional Models  
+Blog:  https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras/#more-25  
+
 ##  Wednesday, June 28, 2023  
 paper: https://arxiv.org/pdf/2305.17126.pdf - Large Language Models as Tool Makers  
 youtube:  https://www.youtube.com/watch?v=qWI1AJ2nSDY   
