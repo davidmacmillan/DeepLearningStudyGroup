@@ -4,8 +4,13 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+## Wednesday, July 19, 2023  
+We're going to cover Chapter 16 Deep Networks for Classification  from the following book:  
+https://book-wright-ma.github.io/Book-WM-20210422.pdf - High dimensional Data Analysis with Low Dimensional Models
+blog:  https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras/#more-25  
+
 ## Wednesday, July 12, 2023  
-We're going to cover the 1st chapter of this book.   
+We're going to cover the 4th chapter of this book.   
 https://book-wright-ma.github.io/Book-WM-20210422.pdf - High dimensional Data Analysis with Low Dimensional Models  
 
 ##  Wednesday, July 5, 2023  
