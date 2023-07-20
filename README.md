@@ -4,6 +4,15 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, July 26m 2023  
+paper: Mixture of experts (similar to chatGPT4): https://arxiv.org/abs/2305.14705  
+
+blog: Mixture-of-Experts with Expert Choice Routing -   
+https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html  
+
+blot: Introducing Pathways: A next-generation AI architecture  
+https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/   
+
 ## Wednesday, July 19, 2023  
 We're going to cover Chapter 16 Deep Networks for Classification  from the following book:  
 https://book-wright-ma.github.io/Book-WM-20210422.pdf - High dimensional Data Analysis with Low Dimensional Models
