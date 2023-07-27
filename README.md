@@ -4,7 +4,13 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
-##  Wednesday, July 26m 2023  
+##  Wednesday, August 2, 2023   
+paper: https://arxiv.org/abs/2205.10343 Towards Understanding Grokking: An Effective Theory of Representation Learning   
+blog: https://ericjmichaud.com/grokking-squared/  
+blog: https://www.beren.io/2022-01-11-Grokking-Grokking/   
+blog: https://www.beren.io/2022-04-17-Understanding_Overparametrized_Generalization/   
+
+##  Wednesday, July 26, 2023  
 paper: Mixture of experts (similar to chatGPT4): https://arxiv.org/abs/2305.14705  
 
 blog: Mixture-of-Experts with Expert Choice Routing -   
