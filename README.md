@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, August 9, 2023  
+paper: Music Generations https://arxiv.org/pdf/2306.05284.pdf   
+blog: https://about.fb.com/news/2023/08/audiocraft-generative-ai-for-music-and-audio/   
+blog: https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/  
+
 ##  Wednesday, August 2, 2023   
 paper: https://arxiv.org/abs/2205.10343 Towards Understanding Grokking: An Effective Theory of Representation Learning   
 blog: https://ericjmichaud.com/grokking-squared/  
