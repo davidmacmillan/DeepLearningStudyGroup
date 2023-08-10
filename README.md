@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, August 16, 2023  
+paper: https://arxiv.org/abs/2308.03296 - Studying Large Language Model Generalization with Influence Functions   
+blog: https://www.anthropic.com/index/influence-functions   
+
 ##  Wednesday, August 9, 2023  
 paper: Music Generations https://arxiv.org/pdf/2306.05284.pdf   
 blog: https://about.fb.com/news/2023/08/audiocraft-generative-ai-for-music-and-audio/   
