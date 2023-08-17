@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, August 22, 2023  
+Paper: https://arxiv.org/pdf/2206.04843.pdf -- Neural Laplace: Learning diverse classes of differential equations in the Laplace domain  
+Slides and video from ICML 2022: https://icml.cc/virtual/2022/oral/16728  
+
 ##  Wednesday, August 16, 2023  
 paper: https://arxiv.org/abs/2308.03296 - Studying Large Language Model Generalization with Influence Functions   
 blog: https://www.anthropic.com/index/influence-functions   
