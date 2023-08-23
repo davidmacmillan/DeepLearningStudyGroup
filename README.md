@@ -4,6 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Wednesday, August 29, 2023  
+paper: https://arxiv.org/pdf/2307.15936.pdf - A Theory for Emergence of Complex Skills in Language Models and video  
+youtube: https://www.youtube.com/watch?v=0D23NeBjCeQ   
+
 ##  Wednesday, August 22, 2023  
 Paper: https://arxiv.org/pdf/2206.04843.pdf -- Neural Laplace: Learning diverse classes of differential equations in the Laplace domain  
 Slides and video from ICML 2022: https://icml.cc/virtual/2022/oral/16728  
