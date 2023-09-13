@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesday, September 19, 2023  
+paper: https://arxiv.org/pdf/2210.09276.pdf - Imagic: Text-Based Real Image Editing with Diffusion Models   
+youtube: https://www.youtube.com/watch?v=PzHMjCtuPuo   
+blog: https://imagic-editing.github.io/   
+
 ##  Tuesday, Sept 12, 2023  
 paper: https://arxiv.org/abs/2307.02486 - LongNet: Scaling Transformers to 1,000,000,000 Tokens   
 Blog: https://syncedreview.com/2023/07/10/microsofts-longnet-scales-transformer-to-one-billion-tokens   
