@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesda, September 26, 2023  
+paper: https://research.nvidia.com/labs/par/Perfusion/ - 3D Gaussian Splatting for Real-Time Radiance Field Rendering   
+
 ##  Tuesday, September 19, 2023  
 paper: https://arxiv.org/pdf/2210.09276.pdf - Imagic: Text-Based Real Image Editing with Diffusion Models   
 youtube: https://www.youtube.com/watch?v=PzHMjCtuPuo   
