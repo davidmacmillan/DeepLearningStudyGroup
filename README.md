@@ -4,7 +4,14 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
-##  Tuesda, September 26, 2023  
+##  Tuesday, October 3 , 2023  
+paper: https://arxiv.org/abs/2112.04035 - Relating transformers to models and neural representations of the hippocampal formation  
+another paper:  https://amygdala.psychdept.arizona.edu/labspace/JclubLabMeetings/JeanMarc-Build-cognitive-maps.pdf - How to build a cognitive map   
+youtube:  https://www.youtube.com/watch?v=9qOaII_PzGY&t=413s - How Your Brain Organizes Information   
+youtube:  https://www.youtube.com/watch?v=cufOEzoVMVA - Can We Build an Artificial Hippocampus?   
+youtube:  https://www.cell.com/cell/fulltext/S0092-8674(20)31388-X - The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation   
+
+##  Tuesday, September 26, 2023  
 paper: https://research.nvidia.com/labs/par/Perfusion/ - 3D Gaussian Splatting for Real-Time Radiance Field Rendering   
 
 ##  Tuesday, September 19, 2023  
