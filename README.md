@@ -4,6 +4,12 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesday, October 10, 2023   
+paper - 3D Gaussian Splatting for Real-Time Radiance Field Rendering https://arxiv.org/abs/2308.04079   
+youtube: Superb 2 minute video on paper https://www.youtube.com/watch?v=HVv_IQKlafQ   
+youtube: Siggraph 2023 talk on paper - this is 5 minutes https://www.youtube.com/watch?v=T_kXY43VZnk&t=3s   
+Author's blog: including links to code: https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/   
+
 ##  Tuesday, October 3 , 2023  
 paper: https://arxiv.org/abs/2112.04035 - Relating transformers to models and neural representations of the hippocampal formation  
 another paper:  https://amygdala.psychdept.arizona.edu/labspace/JclubLabMeetings/JeanMarc-Build-cognitive-maps.pdf - How to build a cognitive map   
