@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesday, October 17, 2023  
+paper: Liquid Time-Constant Networks https://arxiv.org/abs/2006.04439  
+youtube: https://www.youtube.com/watch?v=IlliqYiRhMU  
+shorter video: https://www.youtube.com/watch?v=RI35E5ewBuI  
+
 ##  Tuesday, October 10, 2023   
 paper - 3D Gaussian Splatting for Real-Time Radiance Field Rendering https://arxiv.org/abs/2308.04079   
 youtube: Superb 2 minute video on paper https://www.youtube.com/watch?v=HVv_IQKlafQ   
