@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesday, October 29,  2023   
+paper: https://arxiv.org/pdf/2209.12951.pdf - Liquid Structural State-Space Models  
+
 ##  Tuesday, October 17, 2023  
 paper: Liquid Time-Constant Networks https://arxiv.org/abs/2006.04439  
 youtube: https://www.youtube.com/watch?v=IlliqYiRhMU  
