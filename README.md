@@ -4,7 +4,10 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
-##  Tuesday, October 29,  2023   
+##  Tuesday, October 31,  2023   
+paper: https://www.nature.com/articles/s42256-023-00711-8 - From attribution maps to human-understandable explanations through Concept Relevance Propagation   
+
+##  Tuesday, October 24,  2023   
 paper: https://arxiv.org/pdf/2209.12951.pdf - Liquid Structural State-Space Models  
 
 ##  Tuesday, October 17, 2023  
