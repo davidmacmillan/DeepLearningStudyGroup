@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesday, November 7, 2023  
+paper: https://arxiv.org/pdf/2310.12962.pdf - An Emulator for Fine-Tuning Large Language Models using Small Language Models  
+
 ##  Tuesday, October 31,  2023   
 paper: https://www.nature.com/articles/s42256-023-00711-8 - From attribution maps to human-understandable explanations through Concept Relevance Propagation   
 
