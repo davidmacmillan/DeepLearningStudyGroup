@@ -4,6 +4,9 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesday, November 14, 2023  
+paper: https://openreview.net/pdf?id=S1KGaTSOTS - CLUSTERFORMER: Clustering As A Universal Visual Learner.  
+
 ##  Tuesday, November 7, 2023  
 paper: https://arxiv.org/pdf/2310.12962.pdf - An Emulator for Fine-Tuning Large Language Models using Small Language Models  
 
