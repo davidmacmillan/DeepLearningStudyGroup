@@ -4,6 +4,11 @@ See group discord - https://discord.gg/HuWVmMgmqS
 zoom link - On the meetup page  
 meeting time - 6:30 pm California time   
 
+##  Tuesday, November 21, 2023  
+paper:  MemGPT -Towards LLMs as an Operating System https://arxiv.org/pdf/2310.08560.pdf     
+Blog w MemBPT - https://memgpt.ai/     
+youtube:  https://www.youtube.com/watch?v=nQmZmFERmrg     
+
 ##  Tuesday, November 14, 2023  
 paper: https://openreview.net/pdf?id=S1KGaTSOTS - CLUSTERFORMER: Clustering As A Universal Visual Learner.  
 
