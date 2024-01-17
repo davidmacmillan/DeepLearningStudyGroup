@@ -23,7 +23,7 @@ Video: https://www.youtube.com/watch?v=ouF-H35atOY
 ## Tuesday, January 2, 2024
 The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks https://arxiv.org/pdf/2306.17844.pdf
 
-## ======== 2024 ========
+## ======== 2023 ========
 
 ##  Tuesday, November 21, 2023  
 paper:  MemGPT -Towards LLMs as an Operating System https://arxiv.org/pdf/2310.08560.pdf     
