@@ -1,7 +1,7 @@
 # Deep Learning Study Group  
 Papers, code, etc. for Deep Learning Study Group     
 Meeting time - Tuesdays, 6:30 pm California time on Zoom     
-Zoom and Discord links are on the meetup page     
+Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprogrammingevents/     
 
 ### Tuesday, January 23, 2024
 "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference https://arxiv.org/pdf/2310.04378.pdf     
