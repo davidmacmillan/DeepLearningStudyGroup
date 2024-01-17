@@ -1,5 +1,5 @@
 # Deep Learning Study Group  
-Papers, code etc for Deep Learning Study Group     
+Papers, code, etc. for Deep Learning Study Group     
 Meeting time - Tuesdays, 6:30 pm California time on Zoom     
 Zoom and Discord links are on the meetup page     
 
