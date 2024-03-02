@@ -3,6 +3,70 @@ Papers, code, etc. for Deep Learning Study Group
 Meeting time - Tuesdays, 6:30 pm California time on Zoom     
 Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprogrammingevents/     
 
+### Tuesday, March 5, 2024
+Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models 
+https://arxiv.org/abs/2312.10091
+
+### Tuesday, February 27, 2024
+
+Representation Engineering draws on insights from cognitive neuroscience to engineer neural representations, rather than neurons or circuits. Rep. Eng. can be used to apply a control vector during inference to change or limit a model's behavior.
+Paper:
+Representation Engineering - a Top-Down Approach to AI Transparency
+https://arxiv.org/pdf/2310.01405.pdf
+
+Additional background info:
+Blog:
+Representation Engineering Mistral-7B an Acid Trip
+https://vgel.me/posts/representation-engineering/
+Another blog:
+Steering GPT-2-XL by adding an activation vector
+https://www.lesswrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector
+Third blog:
+https://www.astralcodexten.com/p/the-road-to-honest-ai
+Github:
+https://github.com/andyzoujm/representation-engineering
+Github - Python library
+https://github.com/vgel/repeng/
+
+### Tuesday February 20, 2024:
+Grandmaster-Level Chess Without Search
+https://arxiv.org/abs/2402.04494
+
+### Tuesday, February 13, 2024:
+Mistral 7B
+https://arxiv.org/pdf/2310.06825.pdf
+Mixtral of Experts
+https://arxiv.org/pdf/2401.04088.pdf
+
+Optional:
+There are many YouTubes on each, including by Yannic Kilcher.
+There are download-and-run llamafile quantized versions of Mistral 7B and Mixtral 8x7B at:
+https://github.com/Mozilla-Ocho/llamafile
+(Mac and Linux, Windows has a few very minor additional steps.)
+
+### Tueday, February 6, 2024
+Paper for Feb. 6, 2024:
+Why think step by step - Reasoning emerges from the locality of experience 
+https://arxiv.org/pdf/2304.03843.pdf
+
+### Tuesday, January 30, 2024
+Paper for January 30, 2024:
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+https://arxiv.org/pdf/2305.18290.pdf
+
+Optional:
+There are lots of YouTubes on DPO to choose from.
+
+A related github by lucidrains:
+https://github.com/lucidrains/self-rewarding-lm-pytorch
+
+A couple of more recent related papers;
+Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
+https://arxiv.org/pdf/2401.01335v1.pdf
+and
+Self-Rewarding Language Models
+https://arxiv.org/pdf/2401.10020.pdf
+
 ### Tuesday, January 23, 2024
 "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference https://arxiv.org/pdf/2310.04378.pdf     
 Additional background items:     
