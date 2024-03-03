@@ -1485,7 +1485,6 @@ https://github.com/MLWave/extremely-simple-one-shot-learning
 Papers - Using VAE for anomaly detection  
 https://arxiv.org/pdf/1411.7610.pdf - Stochastic Recurrent Networks  
 https://drive.google.com/file/d/0B8Dg3PBX90KNWG5KQXNQOFlBLU1JWWVONkN1UFpnbUR6Y0cw/view?pref=2&pli=1 - Using Stochastic RNN for temporal anomaly detection  
-
   
 ### July 21, 2016 - SF
 Papers to read:  
@@ -1499,8 +1498,6 @@ https://github.com/tristandeleu/ntm-one-shot
 https://github.com/MLWave/extremely-simple-one-shot-learning  
 https://www.periscope.tv/hugo_larochelle/1ypJdnPRYEoKW  
   
-  
-  
 ### July 18, 2016 - Hacker Dojo  
 Papers to read:  
 http://arxiv.org/pdf/1312.6114v10.pdf - variational autoencoders - U of Amsterdam - Kingma and Welling  
@@ -1510,8 +1507,6 @@ http://arxiv.org/pdf/1310.8499v2.pdf - deep autoregressive networks - deep mind
 Commentaries/Code  
 https://jmetzen.github.io/2015-11-27/vae.html - metzen - code and discussion  
 http://blog.keras.io/building-autoencoders-in-keras.html - chollet - discusses different autoencoders, gives keras code.  
-
-
 
 ### June 27, July 11 2016 - Hacker Dojo   
 Recurrent network for image generation - Deep Mind   
@@ -1559,18 +1554,15 @@ Google inception paper - origin of 1x1 convolution layers
 http://arxiv.org/pdf/1409.4842v1.pdf  
 
 ### June 2, May 26, 2016 - Galvanize
-
 Image segmentation with deep encoder-decoder
 https://arxiv.org/pdf/1511.00561.pdf
 
 ### May 23, 2016 - Hacker Dojo
-
 Compressed networks, reducing flops by pruning
 https://arxiv.org/pdf/1510.00149.pdf
 http://arxiv.org/pdf/1602.07360v3.pdf
 
 ### May 16, 2016
-
 Word2Vec meets LDA:
 http://arxiv.org/pdf/1605.02019v1.pdf - Paper
 
@@ -1580,14 +1572,12 @@ http://qpleple.com/topic-coherence-to-evaluate-topic-models/ - writeup on topic 
 
 
 ### May 9, 2016
-
 https://arxiv.org/pdf/1603.05027v2.pdf - Update on microsoft resnet - identity mapping
 
 http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - batch normalization w. RNN
 
 
 ### May 2, 2016
-
 Go playing DQN - AlphaGo
 https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf
 https://m.youtube.com/watch?sns=em&v=pgX4JSv4J70 - video of slide presentation on paper
@@ -1595,7 +1585,7 @@ https://en.m.wikipedia.org/wiki/List_of_Go_games#Lee.27s_Broken_Ladder_Game - Ha
 https://en.m.wikipedia.org/wiki/Ladder_(Go) - ladders in go
 
 
-### April 25, 2016 - Microsoft Resnet
+### April 25, 2016
 The Paper
 http://arxiv.org/pdf/1512.03385v1.pdf 
 
@@ -1614,9 +1604,9 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 http://gitxiv.com/posts/MwSDm6A4wPG7TcuPZ/recurrent-batch-normalization - Batch Normalization for RNN  
 
 
-### April 11, 2016 - Atari Game Playing DQN
+### April 11, 2016
 The Paper
-https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 Related references:
 This adds 'soft' and 'hard' attention and the 4 frames are replaced with an LSTM layer:
@@ -1632,9 +1622,9 @@ http://stackoverflow.com/questions/35394446/why-doesnt-my-deep-q-network-master-
 http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
 
 
-###  March 3, 2016 Gated Feedback RNN
+###  March 3, 2016 
 The Paper
-"Gated RNN" (http://arxiv.org/pdf/1502.02367v4.pdf
+"Gated RNN" http://arxiv.org/pdf/1502.02367v4.pdf
 
 -Background Material
 http://arxiv.org/pdf/1506.00019v4.pdf - Lipton's excellent review of RNN  
