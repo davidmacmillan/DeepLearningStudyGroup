@@ -6,6 +6,13 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Tuesday March 12, 2024
+A Review of Sparse Expert Models in Deep Learning
+https://arxiv.org/pdf/2209.01667.pdf
+Background paper:
+Twenty Years of Mixture of Experts
+https://www.ee.hacettepe.edu.tr/~eyuksel/Publications/2012_TwentyYearsofMixtureofExperts.pdf
+
 ### Tuesday, March 5, 2024
 Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models 
 https://arxiv.org/abs/2312.10091
