@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=gzwj0jWbvbo
 and
 https://www.youtube.com/watch?v=b9xfYBKIaX4
 
-Still want more? Two more YouTubes by the same host, Neel Nanda, on his research, inspired by this week's paper.
+Still want more? Two more YouTubes by the YouTube channel owner, Neel Nanda, on his research, inspired by this week's paper.
 (Neel is head of DeepMind's interoperability team - see https://www.neelnanda.io/about)
 
 https://www.youtube.com/watch?v=m8tzXelUTLo
