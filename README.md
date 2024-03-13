@@ -6,6 +6,20 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Tuesday, March 19, 2024
+Paper for March 19, 2024:
+
+Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small https://arxiv.org/abs/2211.00593
+Additional material - YouTube with the authors (in 2 parts):
+https://www.youtube.com/watch?v=gzwj0jWbvbo
+and
+https://www.youtube.com/watch?v=b9xfYBKIaX4
+Still want more? Two more YouTubes by the same host, Neel Nanda, on his research, inspired by this week's paper. (Neel is head of DeepMind's interoperability team - see https://www.neelnanda.io/about)
+https://www.youtube.com/watch?v=m8tzXelUTLo
+and
+https://www.youtube.com/watch?v=tiHRceW-19U
+
+
 ### Tuesday March 12, 2024
 A Review of Sparse Expert Models in Deep Learning
 https://arxiv.org/pdf/2209.01667.pdf
