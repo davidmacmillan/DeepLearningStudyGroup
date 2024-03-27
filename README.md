@@ -16,111 +16,111 @@ and (Yannic)
 https://www.youtube.com/watch?v=ZNK4nfgNQpM
 
 ### Tuesday, March 19, 2024
-Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small 
-https://arxiv.org/abs/2211.00593
+Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small  
+https://arxiv.org/abs/2211.00593  
 
-Additional material - YouTube with the authors (in 2 parts): 
-https://www.youtube.com/watch?v=gzwj0jWbvbo
-and
-https://www.youtube.com/watch?v=b9xfYBKIaX4
+Additional material - YouTube with the authors (in 2 parts):  
+https://www.youtube.com/watch?v=gzwj0jWbvbo  
+and  
+https://www.youtube.com/watch?v=b9xfYBKIaX4  
 
-Still want more? Two more YouTubes by the YouTube channel owner, Neel Nanda, on his research, inspired by this week's paper.
-(Neel is head of DeepMind's interoperability team - see https://www.neelnanda.io/about)
+Still want more? Two more YouTubes by the YouTube channel owner, Neel Nanda, on his research, inspired by this week's paper.  
+(Neel is head of DeepMind's interoperability team - see https://www.neelnanda.io/about)  
 
-https://www.youtube.com/watch?v=m8tzXelUTLo
-and
-https://www.youtube.com/watch?v=tiHRceW-19U
+https://www.youtube.com/watch?v=m8tzXelUTLo  
+and  
+https://www.youtube.com/watch?v=tiHRceW-19U  
 
 
 ### Tuesday March 12, 2024
-A Review of Sparse Expert Models in Deep Learning
-https://arxiv.org/pdf/2209.01667.pdf
+A Review of Sparse Expert Models in Deep Learning  
+https://arxiv.org/pdf/2209.01667.pdf  
 
-Background paper:
-Twenty Years of Mixture of Experts
-https://www.ee.hacettepe.edu.tr/~eyuksel/Publications/2012_TwentyYearsofMixtureofExperts.pdf
+Background paper:  
+Twenty Years of Mixture of Experts  
+https://www.ee.hacettepe.edu.tr/~eyuksel/Publications/2012_TwentyYearsofMixtureofExperts.pdf  
 
-### Tuesday, March 5, 2024
-Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models 
-https://arxiv.org/abs/2312.10091
+### Tuesday, March 5, 2024  
+Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models   
+https://arxiv.org/abs/2312.10091  
 
-### Tuesday, February 27, 2024
+### Tuesday, February 27, 2024  
 
-Representation Engineering draws on insights from cognitive neuroscience to engineer neural representations, rather than neurons or circuits. Rep. Eng. can be used to apply a control vector during inference to change or limit a model's behavior.
-Paper:
-Representation Engineering - a Top-Down Approach to AI Transparency
-https://arxiv.org/pdf/2310.01405.pdf
+Representation Engineering draws on insights from cognitive neuroscience to engineer neural representations, rather than neurons or circuits. Rep. Eng. can be used to apply a control vector during inference to change or limit a model's behavior.  
+Paper:  
+Representation Engineering - a Top-Down Approach to AI Transparency  
+https://arxiv.org/pdf/2310.01405.pdf   
 
-Additional background info:
-Blog:
-Representation Engineering Mistral-7B an Acid Trip
-https://vgel.me/posts/representation-engineering/
-Another blog:
-Steering GPT-2-XL by adding an activation vector
-https://www.lesswrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector
-Third blog:
-https://www.astralcodexten.com/p/the-road-to-honest-ai
-Github:
-https://github.com/andyzoujm/representation-engineering
-Github - Python library
-https://github.com/vgel/repeng/
+Additional background info:  
+Blog:  
+Representation Engineering Mistral-7B an Acid Trip  
+https://vgel.me/posts/representation-engineering/  
+Another blog:  
+Steering GPT-2-XL by adding an activation vector  
+https://www.lesswrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector  
+Third blog:  
+https://www.astralcodexten.com/p/the-road-to-honest-ai  
+Github:  
+https://github.com/andyzoujm/representation-engineering  
+Github - Python library  
+https://github.com/vgel/repeng/  
 
-### Tuesday February 20, 2024:
-Grandmaster-Level Chess Without Search
-https://arxiv.org/abs/2402.04494
+### Tuesday February 20, 2024:  
+Grandmaster-Level Chess Without Search  
+https://arxiv.org/abs/2402.04494  
 
-### Tuesday, February 13, 2024:
-Mistral 7B
-https://arxiv.org/pdf/2310.06825.pdf
-Mixtral of Experts
-https://arxiv.org/pdf/2401.04088.pdf
+### Tuesday, February 13, 2024:  
+Mistral 7B  
+https://arxiv.org/pdf/2310.06825.pdf  
+Mixtral of Experts  
+https://arxiv.org/pdf/2401.04088.pdf  
 
-Optional:
-There are many YouTubes on each, including by Yannic Kilcher.
-There are download-and-run llamafile quantized versions of Mistral 7B and Mixtral 8x7B at:
-https://github.com/Mozilla-Ocho/llamafile
-(Mac and Linux, Windows has a few very minor additional steps.)
+Optional:  
+There are many YouTubes on each, including by Yannic Kilcher.  
+There are download-and-run llamafile quantized versions of Mistral 7B and Mixtral 8x7B at:  
+https://github.com/Mozilla-Ocho/llamafile  
+(Mac and Linux, Windows has a few very minor additional steps.)  
 
-### Tueday, February 6, 2024
-Why think step by step - Reasoning emerges from the locality of experience 
-https://arxiv.org/pdf/2304.03843.pdf
+### Tueday, February 6, 2024  
+Why think step by step - Reasoning emerges from the locality of experience   
+https://arxiv.org/pdf/2304.03843.pdf  
 
-### Tuesday, January 30, 2024
-Direct Preference Optimization: Your Language Model is Secretly a Reward Model
-https://arxiv.org/pdf/2305.18290.pdf
+### Tuesday, January 30, 2024  
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model  
+https://arxiv.org/pdf/2305.18290.pdf  
 
-Optional:
-There are lots of YouTubes on DPO to choose from.
+Optional:  
+There are lots of YouTubes on DPO to choose from.  
 
-A related github by lucidrains:
-https://github.com/lucidrains/self-rewarding-lm-pytorch
+A related github by lucidrains:  
+https://github.com/lucidrains/self-rewarding-lm-pytorch  
 
-A couple of more recent related papers;
-Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
-https://arxiv.org/pdf/2401.01335v1.pdf
-and
-Self-Rewarding Language Models
-https://arxiv.org/pdf/2401.10020.pdf
+A couple of more recent related papers:  
+Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models  
+https://arxiv.org/pdf/2401.01335v1.pdf  
+and  
+Self-Rewarding Language Models  
+https://arxiv.org/pdf/2401.10020.pdf  
 
-### Tuesday, January 23, 2024
+### Tuesday, January 23, 2024  
 "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference https://arxiv.org/pdf/2310.04378.pdf     
 Additional background items:     
 There is at least one YouTube on this paper: https://www.youtube.com/watch?v=OT3JWNz0Il8     
 Huggingface demos: https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f     
 LCM-LoRA: A Universal Stable-Diffusion Acceleration Module https://arxiv.org/abs/2311.05556     
 
-### Tuesday, January 16, 2024
-Consistency Models https://arxiv.org/abs/2303.01469     
+### Tuesday, January 16, 2024  
+Consistency Models https://arxiv.org/abs/2303.01469       
 There are also multiple YouTubes on Consistency Models.     
 
-### Tuesday, January 9, 2024
+### Tuesday, January 9, 2024  
 Mamba: Linear-Time Sequence Modeling with Selective State Spaces https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf     
 A few optional videos (likely are others too):     
 Video: https://youtu.be/ouF-H35atOY?si=BFQ_PTVfhfNXBLPb     
 Video: https://www.youtube.com/watch?v=ouF-H35atOY     
 
-### Tuesday, January 2, 2024
-The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks https://arxiv.org/pdf/2306.17844.pdf
+### Tuesday, January 2, 2024  
+The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks https://arxiv.org/pdf/2306.17844.pdf  
 
 ___________________________________________________________________________________________________________
 # ======== 2023 ========
