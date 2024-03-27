@@ -4,7 +4,7 @@ Meeting time - Tuesdays, 6:30 pm California time on Zoom
 Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprogrammingevents/     
 
 ___________________________________________________________________________________________________________
-# ======== 2024 ========Solving Olympiad Geometry Without Human Demonstrations
+# ======== 2024 ========
 
 ### March 26, 2024
 Solving Olympiad Geometry Without Human Demonstrations 
