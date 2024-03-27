@@ -82,12 +82,10 @@ https://github.com/Mozilla-Ocho/llamafile
 (Mac and Linux, Windows has a few very minor additional steps.)
 
 ### Tueday, February 6, 2024
-Paper for Feb. 6, 2024:
 Why think step by step - Reasoning emerges from the locality of experience 
 https://arxiv.org/pdf/2304.03843.pdf
 
 ### Tuesday, January 30, 2024
-Paper for January 30, 2024:
 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 https://arxiv.org/pdf/2305.18290.pdf
 
