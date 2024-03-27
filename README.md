@@ -6,6 +6,10 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+###E April 2, 2024
+Evolutionary Optimization of Model Merging Recipes  
+https://arxiv.org/pdf/2403.13187.pdf  
+
 ### March 26, 2024
 Solving Olympiad Geometry Without Human Demonstrations  
 https://www.nature.com/articles/s41586-023-06747-5
