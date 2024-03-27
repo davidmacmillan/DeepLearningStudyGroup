@@ -4,14 +4,22 @@ Meeting time - Tuesdays, 6:30 pm California time on Zoom
 Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprogrammingevents/     
 
 ___________________________________________________________________________________________________________
-# ======== 2024 ========
+# ======== 2024 ========Solving Olympiad Geometry Without Human Demonstrations
+
+### March 26, 2024
+Solving Olympiad Geometry Without Human Demonstrations 
+https://www.nature.com/articles/s41586-023-06747-5
+
+There are a number of YouTubes, including: 
+https://www.youtube.com/watch?v=ZobxevIJQ7A
+and (Yannic)
+https://www.youtube.com/watch?v=ZNK4nfgNQpM
 
 ### Tuesday, March 19, 2024
-Paper for March 19, 2024:
+Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small 
+https://arxiv.org/abs/2211.00593
 
-Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small https://arxiv.org/abs/2211.00593
-
-Additional material - YouTube with the authors (in 2 parts):
+Additional material - YouTube with the authors (in 2 parts): 
 https://www.youtube.com/watch?v=gzwj0jWbvbo
 and
 https://www.youtube.com/watch?v=b9xfYBKIaX4
