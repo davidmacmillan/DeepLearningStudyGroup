@@ -6,7 +6,7 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
-###E April 2, 2024
+### April 2, 2024
 Evolutionary Optimization of Model Merging Recipes  
 https://arxiv.org/pdf/2403.13187.pdf  
 
