@@ -103,24 +103,30 @@ Self-Rewarding Language Models
 https://arxiv.org/pdf/2401.10020.pdf  
 
 ### Tuesday, January 23, 2024  
-"Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference https://arxiv.org/pdf/2310.04378.pdf     
+"Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference  
+https://arxiv.org/pdf/2310.04378.pdf     
 Additional background items:     
-There is at least one YouTube on this paper: https://www.youtube.com/watch?v=OT3JWNz0Il8     
-Huggingface demos: https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f     
-LCM-LoRA: A Universal Stable-Diffusion Acceleration Module https://arxiv.org/abs/2311.05556     
+There is at least one YouTube on this paper:  
+https://www.youtube.com/watch?v=OT3JWNz0Il8     
+Huggingface demos:  
+https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f     
+LCM-LoRA: A Universal Stable-Diffusion Acceleration Module  
+https://arxiv.org/abs/2311.05556     
 
 ### Tuesday, January 16, 2024  
 Consistency Models https://arxiv.org/abs/2303.01469       
 There are also multiple YouTubes on Consistency Models.     
 
 ### Tuesday, January 9, 2024  
-Mamba: Linear-Time Sequence Modeling with Selective State Spaces https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf     
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces  
+https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf     
 A few optional videos (likely are others too):     
 Video: https://youtu.be/ouF-H35atOY?si=BFQ_PTVfhfNXBLPb     
 Video: https://www.youtube.com/watch?v=ouF-H35atOY     
 
 ### Tuesday, January 2, 2024  
-The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks https://arxiv.org/pdf/2306.17844.pdf  
+The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks  
+https://arxiv.org/pdf/2306.17844.pdf  
 
 ___________________________________________________________________________________________________________
 # ======== 2023 ========
