@@ -7,12 +7,12 @@ ________________________________________________________________________________
 # ======== 2024 ========
 
 ### March 26, 2024
-Solving Olympiad Geometry Without Human Demonstrations 
+Solving Olympiad Geometry Without Human Demonstrations  
 https://www.nature.com/articles/s41586-023-06747-5
 
-There are a number of YouTubes, including: 
-https://www.youtube.com/watch?v=ZobxevIJQ7A
-and (Yannic)
+There are a number of YouTubes, including:  
+https://www.youtube.com/watch?v=ZobxevIJQ7A  
+and (Yannic)  
 https://www.youtube.com/watch?v=ZNK4nfgNQpM
 
 ### Tuesday, March 19, 2024
