@@ -6,7 +6,7 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
-### April 9, 2024
+### April 16, 2024
 From DeepMind, on their generalized AI that can play arbitrary video games,
 Scalable Instructable Multiworld Agent (SIMA AI).  
 Paper: Scaling Instructable Agents Across Many Simulated Worlds  
@@ -19,6 +19,9 @@ https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-en
 https://www.youtube.com/watch?v=5U_Q2Lmnq_c  
 Longer YouTube:  
 https://www.youtube.com/watch?v=ymKkfRu6dz4  
+
+### April 9, 2024
+Cancelled
 
 ### April 2, 2024
 Evolutionary Optimization of Model Merging Recipes  
