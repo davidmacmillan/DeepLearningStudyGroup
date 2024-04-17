@@ -6,6 +6,10 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Paper for April 23, 2024:  
+Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention  
+https://arxiv.org/pdf/2404.07143.pdf  
+
 ### April 16, 2024
 From DeepMind, on their generalized AI that can play arbitrary video games,
 Scalable Instructable Multiworld Agent (SIMA AI).  
