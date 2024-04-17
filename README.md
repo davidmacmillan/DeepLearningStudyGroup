@@ -162,57 +162,96 @@ Blog w MemBPT - https://memgpt.ai/
 youtube:  https://www.youtube.com/watch?v=nQmZmFERmrg     
 
 ### Tuesday, November 14, 2023  
-paper: https://openreview.net/pdf?id=S1KGaTSOTS - CLUSTERFORMER: Clustering As A Universal Visual Learner.  
+paper:   
+CLUSTERFORMER: Clustering As A Universal Visual Learner  
+https://openreview.net/pdf?id=S1KGaTSOTS 
 
 ### Tuesday, November 7, 2023  
-paper: https://arxiv.org/pdf/2310.12962.pdf - An Emulator for Fine-Tuning Large Language Models using Small Language Models  
+paper:  
+An Emulator for Fine-Tuning Large Language Models using Small Language Models  
+https://arxiv.org/pdf/2310.12962.pdf  
 
 ### Tuesday, October 31,  2023   
-paper: https://www.nature.com/articles/s42256-023-00711-8 - From attribution maps to human-understandable explanations through Concept Relevance Propagation   
+paper:  
+From attribution maps to human-understandable explanations through Concept Relevance Propagation   
+https://www.nature.com/articles/s42256-023-00711-8  
 
 ### Tuesday, October 24,  2023   
-paper: https://arxiv.org/pdf/2209.12951.pdf - Liquid Structural State-Space Models  
+paper:
+Liquid Structural State-Space Models   
+https://arxiv.org/pdf/2209.12951.pdf   
 
 ### Tuesday, October 17, 2023  
-paper: Liquid Time-Constant Networks https://arxiv.org/abs/2006.04439  
-youtube: https://www.youtube.com/watch?v=IlliqYiRhMU  
-shorter video: https://www.youtube.com/watch?v=RI35E5ewBuI  
+paper: 
+Liquid Time-Constant Networks  
+https://arxiv.org/abs/2006.04439  
+youtube:  
+https://www.youtube.com/watch?v=IlliqYiRhMU  
+shorter video:  
+https://www.youtube.com/watch?v=RI35E5ewBuI  
 
 ### Tuesday, October 10, 2023   
-paper - 3D Gaussian Splatting for Real-Time Radiance Field Rendering https://arxiv.org/abs/2308.04079   
-youtube: Superb 2 minute video on paper https://www.youtube.com/watch?v=HVv_IQKlafQ   
-youtube: Siggraph 2023 talk on paper - this is 5 minutes https://www.youtube.com/watch?v=T_kXY43VZnk&t=3s   
-Author's blog: including links to code: https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/   
+paper  
+3D Gaussian Splatting for Real-Time Radiance Field Rendering  
+https://arxiv.org/abs/2308.04079   
+youtubes: 
+Superb 2 minute video on paper  
+https://www.youtube.com/watch?v=HVv_IQKlafQ   
+Siggraph 2023 talk on paper - this is 5 minutes  
+https://www.youtube.com/watch?v=T_kXY43VZnk&t=3s   
+Author's blog, including links to code:  
+https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/   
 
 ### Tuesday, October 3 , 2023  
-paper: https://arxiv.org/abs/2112.04035 - Relating transformers to models and neural representations of the hippocampal formation  
-another paper:  https://amygdala.psychdept.arizona.edu/labspace/JclubLabMeetings/JeanMarc-Build-cognitive-maps.pdf - How to build a cognitive map   
-youtube:  https://www.youtube.com/watch?v=9qOaII_PzGY&t=413s - How Your Brain Organizes Information   
-youtube:  https://www.youtube.com/watch?v=cufOEzoVMVA - Can We Build an Artificial Hippocampus?   
-youtube:  https://www.cell.com/cell/fulltext/S0092-8674(20)31388-X - The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation   
+paper: https://arxiv.org/abs/2112.04035 
+Relating transformers to models and neural representations of the hippocampal formation  
+another paper:  
+https://amygdala.psychdept.arizona.edu/labspace/JclubLabMeetings/JeanMarc-Build-cognitive-maps.pdf - 
+How to build a cognitive map   
+YouTubes:  
+How Your Brain Organizes Information   
+https://www.youtube.com/watch?v=9qOaII_PzGY&t=413s  
+Can We Build an Artificial Hippocampus?   
+https://www.youtube.com/watch?v=cufOEzoVMVA   
+The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation   
+https://www.cell.com/cell/fulltext/S0092-8674(20)31388-X   
 
 ### Tuesday, September 26, 2023  
-paper: https://research.nvidia.com/labs/par/Perfusion/ - 3D Gaussian Splatting for Real-Time Radiance Field Rendering   
+paper:  
+3D Gaussian Splatting for Real-Time Radiance Field Rendering   
+https://research.nvidia.com/labs/par/Perfusion/   
 
 ### Tuesday, September 19, 2023  
-paper: https://arxiv.org/pdf/2210.09276.pdf - Imagic: Text-Based Real Image Editing with Diffusion Models   
-youtube: https://www.youtube.com/watch?v=PzHMjCtuPuo   
-blog: https://imagic-editing.github.io/   
+paper:  
+Imagic: Text-Based Real Image Editing with Diffusion Models   
+https://arxiv.org/pdf/2210.09276.pdf   
+YouTube:  
+https://www.youtube.com/watch?v=PzHMjCtuPuo   
+blog:  
+https://imagic-editing.github.io/   
 
 ### Tuesday, Sept 12, 2023  
-paper: https://arxiv.org/abs/2307.02486 - LongNet: Scaling Transformers to 1,000,000,000 Tokens   
-Blog: https://syncedreview.com/2023/07/10/microsofts-longnet-scales-transformer-to-one-billion-tokens   
+LongNet: Scaling Transformers to 1,000,000,000 Tokens   
+paper: https://arxiv.org/abs/2307.02486   
+Blog:  
+https://syncedreview.com/2023/07/10/microsofts-longnet-scales-transformer-to-one-billion-tokens   
 
 ### Tuesday, Sept 5, 2023  
-https://arxiv.org/pdf/2308.08708.pdf - Consciousness in Artificial Intelligence: Insights from the Science of Consciousness  
+Consciousness in Artificial Intelligence: Insights from the Science of Consciousness   
+https://arxiv.org/pdf/2308.08708.pdf  
 
 ### Tuesday, August 29, 2023  
-paper: https://arxiv.org/pdf/2307.15936.pdf - A Theory for Emergence of Complex Skills in Language Models and video  
-youtube: https://www.youtube.com/watch?v=0D23NeBjCeQ   
+paper:  
+A Theory for Emergence of Complex Skills in Language Models and video   
+https://arxiv.org/pdf/2307.15936.pdf  
+youtube:  
+https://www.youtube.com/watch?v=0D23NeBjCeQ   
 
 ### Tuesday, August 22, 2023  
-Paper: https://arxiv.org/pdf/2206.04843.pdf -- Neural Laplace: Learning diverse classes of differential equations in the Laplace domain  
-Slides and video from ICML 2022: https://icml.cc/virtual/2022/oral/16728  
+Paper: Neural Laplace: Learning diverse classes of differential equations in the Laplace domain   
+https://arxiv.org/pdf/2206.04843.pdf
+Slides and video from ICML 2022:  
+https://icml.cc/virtual/2022/oral/16728   
 
 ### Wednesday, August 16, 2023  
 paper: https://arxiv.org/abs/2308.03296 - Studying Large Language Model Generalization with Influence Functions   
