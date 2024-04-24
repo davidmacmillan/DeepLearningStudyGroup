@@ -6,6 +6,12 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Paper for April 30, 2024:   
+Chronos: Learning the Language of Time Series   
+https://arxiv.org/abs/2403.07815  
+There is a YouTube on the paper:  
+https://www.youtube.com/watch?v=yKKWCqABspw  
+
 ### Paper for April 23, 2024:  
 Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention  
 https://arxiv.org/pdf/2404.07143.pdf  
