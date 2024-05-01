@@ -6,6 +6,10 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Paper for May 7, 2024:   
+iTransformer: Inverted Transformers Are Effective for Time Series Forecasting   
+https://arxiv.org/pdf/2310.06625.pdf   
+
 ### Paper for April 30, 2024:   
 Chronos: Learning the Language of Time Series   
 https://arxiv.org/abs/2403.07815  
