@@ -6,6 +6,10 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Paper for May 14, 2024:
+KAN: Kolmogorov-Arnold Networks
+https://arxiv.org/pdf/2404.19756
+
 ### Paper for May 7, 2024:   
 iTransformer: Inverted Transformers Are Effective for Time Series Forecasting   
 https://arxiv.org/pdf/2310.06625.pdf   
