@@ -6,6 +6,24 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Paper for May 28, 2024   
+The Platonic Representation Hypothesis   
+https://arxiv.org/pdf/2405.07987   
+Github / project page:   
+https://phillipi.github.io/prh/   
+Github with their code:   
+https://github.com/minyoungg/platonic-rep   
+There are also a number of YouTubes that discuss the paper.   
+
+### For May 21, 2024:   
+Instead of a paper, we are going to go through Andrej Karpathy's YouTube video on creating transformer code:   
+https://www.youtube.com/watch?v=kCc8FmEb1nY   
+Have the colab or github code loaded on your PC before, ready to go through, so you don't have to type it in during our session.   
+Colab:   
+https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-   
+Github:   
+https://github.com/karpathy/ng-video-lecture   
+
 ### Paper for May 14, 2024:   
 KAN: Kolmogorov-Arnold Networks   
 https://arxiv.org/pdf/2404.19756   
