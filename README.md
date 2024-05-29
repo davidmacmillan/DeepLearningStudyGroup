@@ -6,6 +6,14 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Our paper for June 4, 2024 is a blog:   
+"Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet"   
+https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html   
+Tweet thread / overview & highlights:   
+https://x.com/mlpowered/status/1792948212728524917   
+The paper includes discussion of tweaking an LLM to always discuss the Golden Gate bridge. Anthropic has now put this online:   
+Go to https://claude.ai/ and click on the Golden Gate Bridge icon at the top right of the page. Then enter your request and you'll get a Golden (Gate) response.   
+
 ### Paper for May 28, 2024   
 The Platonic Representation Hypothesis   
 https://arxiv.org/pdf/2405.07987   
