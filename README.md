@@ -11,8 +11,6 @@ ________________________________________________________________________________
 https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html   
 Tweet thread / overview & highlights:   
 https://x.com/mlpowered/status/1792948212728524917   
-The paper includes discussion of tweaking an LLM to always discuss the Golden Gate bridge. Anthropic has now put this online:   
-Go to https://claude.ai/ and click on the Golden Gate Bridge icon at the top right of the page. Then enter your request and you'll get a Golden (Gate) response.   
 
 ### Paper for May 28, 2024   
 The Platonic Representation Hypothesis   
