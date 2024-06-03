@@ -11,6 +11,8 @@ ________________________________________________________________________________
 https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html   
 Tweet thread / overview & highlights:   
 https://x.com/mlpowered/status/1792948212728524917   
+Good video on this week's paper (blog):   
+https://www.youtube.com/watch?v=y0ZXFl3rQlQ   
 
 ### Paper for May 28, 2024   
 The Platonic Representation Hypothesis   
