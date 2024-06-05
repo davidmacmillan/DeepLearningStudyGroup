@@ -5,6 +5,12 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+   
+### For June 11, 2024, will continue with the paper (blog):   
+"Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet"   
+https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html   
+Tweet thread / overview & highlights:   
+https://x.com/mlpowered/status/1792948212728524917   
 
 ### Our paper for June 4, 2024 is a blog:   
 "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet"   
