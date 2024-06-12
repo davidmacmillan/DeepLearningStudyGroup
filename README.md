@@ -7,7 +7,7 @@ ________________________________________________________________________________
 # ======== 2024 ========
 
 ### Paper for June 18, 2024:   
-Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space D  uality (Mamba 2)   
+Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality (Mamba 2)   
 https://arxiv.org/abs/2405.21060   
    
 ### For June 11, 2024, will continue with the paper (blog):   
