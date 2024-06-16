@@ -9,6 +9,11 @@ ________________________________________________________________________________
 ### Paper for June 18, 2024:   
 Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality (Mamba 2)   
 https://arxiv.org/abs/2405.21060   
+This blog:  
+https://gonzoml.substack.com/p/mamba-2-is-here   
+and the 4 referenced blogs starting here:   
+https://goombalab.github.io/blog/2024/mamba2-part1-model/   
+are more approachable.   
    
 ### For June 11, 2024, will continue with the paper (blog):   
 "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet"   
