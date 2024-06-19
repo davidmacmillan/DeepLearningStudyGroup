@@ -6,6 +6,12 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Paper for June 25, 2024:    
+Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention    
+https://arxiv.org/abs/2006.16236    
+YouTube by Yannic Kilcher on  paper (may be others):    
+https://www.youtube.com/watch?v=hAooAOFRsYc    
+
 ### Paper for June 18, 2024:   
 Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality (Mamba 2)   
 https://arxiv.org/abs/2405.21060   
