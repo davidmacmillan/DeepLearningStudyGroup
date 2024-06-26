@@ -6,6 +6,10 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 
+### Paper for July 2, 2024:
+Paper:  Banishing LLM Hallucinations Requires Rethinking Generalization
+https://github.com/lamini-ai/Lamini-Memory-Tuning/blob/main/research-paper.pdf
+
 ### Paper for June 25, 2024:    
 Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention    
 https://arxiv.org/abs/2006.16236    
