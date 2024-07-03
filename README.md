@@ -20,10 +20,10 @@ https://medium.com/@AIBites/xlstm-extended-long-short-term-memory-networks-c4ba3
 At: Agave Mexican Bistro, 194 Castro Street, Mountain View, California 94041.      
 
 ### Paper for July 2, 2024:
-Paper:  Banishing LLM Hallucinations Requires Rethinking Generalization
-https://arxiv.org/abs/2406.17642
-Github:
-https://github.com/lamini-ai/
+Paper:  Banishing LLM Hallucinations Requires Rethinking Generalization   
+https://arxiv.org/abs/2406.17642   
+Github:   
+https://github.com/lamini-ai/   
 
 ### Paper for June 25, 2024:    
 Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention    
