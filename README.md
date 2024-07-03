@@ -6,9 +6,18 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
 ### Paper for July 16, 2024
+xLSTM: Extended Long Short-Term Memory
+https://arxiv.org/abs/2405.04517
+YouTube (Yannic Kilcher)
+https://www.youtube.com/watch?v=0OaEv1a5jUM
+YouTube (Gabriel Mongaras)
+https://www.youtube.com/watch?v=4ND8lU2aN_k
+Medium article
+https://medium.com/@AIBites/xlstm-extended-long-short-term-memory-networks-c4ba34fdd98d
 
-
-### July 9 - no Zoom meeting. Instead face-to-face social event in Mtn. View
+### For July 9, 2024:
+6:30 PM - face-to-face get together & casual sit-down dinner. No paper this week.
+At: Agave Mexican Bistro, 194 Castro Street, Mountain View, California 94041. (650) 969-6767. 
 
 ### Paper for July 2, 2024:
 Paper:  Banishing LLM Hallucinations Requires Rethinking Generalization
