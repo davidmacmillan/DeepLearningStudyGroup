@@ -5,6 +5,10 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for July 23, 2024
+When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs
+https://arxiv.org/abs/2406.01297
+
 ### Paper for July 16, 2024
 xLSTM: Extended Long Short-Term Memory   
 https://arxiv.org/abs/2405.04517   
