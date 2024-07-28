@@ -5,9 +5,18 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
-### Paper for July 30, 2024
+### Paper for July 30, 2024   
+The paper for July 30, 2024 is:   
 DETRs Beat YOLOs on Real-time Object Detection   
 https://arxiv.org/abs/2304.08069   
+Additional Background Materials - Project page:   
+https://zhao-yian.github.io/RTDETR/   
+Video (demo only):   
+https://www.youtube.com/watch?v=TbaLWroPYbo   
+Github:   
+https://github.com/lyuwenyu/RT-DETR   
+Background video on normal DETR by Meta (creator also has videos on other object detection models):   
+https://www.youtube.com/watch?v=A2f4w54fSsM   
    
 ### Paper for July 23, 2024   
 When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs   
