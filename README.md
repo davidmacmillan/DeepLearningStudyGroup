@@ -5,6 +5,14 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for August 6, 2024   
+TextGrad: Automatic "Differentiation" via Text  
+https://arxiv.org/abs/2406.07496    
+Github:   
+https://github.com/zou-group/textgrad   
+Many YouTubes including:   
+https://youtu.be/Qks4UEsRwl0   
+   
 ### Paper for July 30, 2024   
 The paper for July 30, 2024 is:   
 DETRs Beat YOLOs on Real-time Object Detection   
