@@ -5,6 +5,19 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for August 13, 2024:   
+Segment 2 Anything (arXiv version):    
+https://arxiv.org/abs/2408.00714   
+Additional resources - Meta's Blog:   
+https://ai.meta.com/sam2/
+Meta's Interactive Demo:   
+https://sam2.metademolab.com/   
+Meta's Announcement:   
+https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/   
+Github:   
+https://github.com/facebookresearch/segment-anything-2     
+There are a number of YouTube videos.   
+
 ### Paper for August 6, 2024   
 TextGrad: Automatic "Differentiation" via Text  
 https://arxiv.org/abs/2406.07496    
