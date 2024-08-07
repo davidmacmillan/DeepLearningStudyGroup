@@ -9,7 +9,7 @@ ________________________________________________________________________________
 Segment 2 Anything (arXiv version):    
 https://arxiv.org/abs/2408.00714   
 Additional resources - Meta's Blog:   
-https://ai.meta.com/sam2/
+https://ai.meta.com/sam2/   
 Meta's Interactive Demo:   
 https://sam2.metademolab.com/   
 Meta's Announcement:   
