@@ -5,6 +5,10 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for August 20, 2024:   
+The Remarkable Robustness of LLMs: Stages of Inference?    
+https://arxiv.org/abs/2406.19384    
+    
 ### Paper for August 13, 2024:   
 Segment 2 Anything (arXiv version):    
 https://arxiv.org/abs/2408.00714   
