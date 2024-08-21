@@ -5,6 +5,17 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for August 28, 2024:
+*** This is a long paper!  Focus on pages 1-21 and skim Appendix D.8 as a representative output. ***
+The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery   
+https://arxiv.org/pdf/2408.06292   
+Enticing or disturbing tweet:   
+https://x.com/Simeon_Cps/status/1823207094318735527   
+Blog:      
+https://sakana.ai/ai-scientist/   
+Github:   
+https://github.com/SakanaAI/AI-Scientist    
+
 ### Paper for August 20, 2024:   
 The Remarkable Robustness of LLMs: Stages of Inference?    
 https://arxiv.org/abs/2406.19384    
