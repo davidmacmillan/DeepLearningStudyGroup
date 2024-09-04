@@ -5,6 +5,13 @@ Zoom and Discord links are on the meetup page https://www.meetup.com/handsonprog
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for September 10, 2024    
+Paper for September 10, 2024    
+Unexpected Benefits of Self-Modeling in Neural Systems    
+https://arxiv.org/pdf/2407.10188    
+YouTube video    
+https://www.youtube.com/watch?v=yvHZ0nk8O5I    
+    
 ### Paper for September 3, 2024
 We are continuing the discussion of the paper from August 20, 2024:   
 The Remarkable Robustness of LLMs: Stages of Inference?    
