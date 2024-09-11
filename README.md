@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for September 17, 2024   
+Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering∗   
+https://arxiv.org/pdf/2402.09268   
+   
 ### Paper for September 10, 2024    
 Paper for September 10, 2024    
 Unexpected Benefits of Self-Modeling in Neural Systems    
