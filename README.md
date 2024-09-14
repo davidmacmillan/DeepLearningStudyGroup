@@ -8,7 +8,7 @@ ________________________________________________________________________________
 # ======== 2024 ========
 ### Paper for September 17, 2024   
 Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering∗   
-https://arxiv.org/pdf/2409.02426  
+https://www.arxiv.org/abs/2409.02426    
    
 ### Paper for September 10, 2024    
 Paper for September 10, 2024    
