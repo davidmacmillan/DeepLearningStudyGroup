@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### For September 24, 2024:    
+Writing in the Margins: Better Inference Pattern for Long Context Retrieval   
+https://www.arxiv.org/abs/2408.14906   
+   
 ### Paper for September 17, 2024   
 Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering∗   
 https://www.arxiv.org/abs/2409.02426    
