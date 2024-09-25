@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ### Paper for October 1, 2024:   
 Graph Retrieval-Augmented Generation: A Survey   
 https://arxiv.org/abs/2408.08921    
-YouTube (in Mandarin):  
+YouTube (in Mandarin) (but click CC, then the Gear, then subtitles, then English):     
 https://www.youtube.com/watch?v=1OsVlbhMkek    
    
 ### For September 24, 2024:    
