@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========
+### Paper for October 8, 2024
+Scaling Scaling Laws with Board Games
+https://arxiv.org/pdf/2104.03113
+
 ### Paper for October 1, 2024:   
 Graph Retrieval-Augmented Generation: A Survey   
 https://arxiv.org/abs/2408.08921    
