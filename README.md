@@ -5,7 +5,17 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/      
 
 ___________________________________________________________________________________________________________
-# ======== 2024 ========
+# ======== 2024 ========   
+### Paper for October 15, 2024:   
+Diffusion Models are Evolutionary Algorithms   
+https://arxiv.org/pdf/2410.02543   
+Tweet:   
+https://x.com/YanboZhang3/status/1843134007892176995   
+Github:   
+https://github.com/Zhangyanbo/diffusion-evolution   
+At least one YouTube:   
+https://www.youtube.com/watch?v=Dh9gtg6N79U   
+   
 ### Paper for October 8, 2024     
 Scaling Scaling Laws with Board Games    
 https://arxiv.org/pdf/2104.03113    
