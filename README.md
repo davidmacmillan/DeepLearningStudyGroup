@@ -1,5 +1,5 @@
 # Deep Learning Study Group  
-Papers, code, etc. for the Deep Learning Study Group (originally started by Mike Bowles in 2016).
+Papers, code, etc. for the Deep Learning Study Group.
 Meeting time - Tuesdays, 6:30 pm California time on Zoom     
 Zoom and Discord links are on the meetup page:      
 https://www.meetup.com/handsonprogrammingevents/      
@@ -1549,7 +1549,6 @@ http://nuit-blanche.blogspot.com/2007/07/how-does-rice-one-pixel-camera-work.htm
 If we have time, we may discuss this paper:  
 Information Processing Using a Single Dynamical Node as Complex System.  
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195233/pdf/ncomms1476.pdf  
-
 
 ### Apr 10, 2017 - Hacker Dojo  
 
