@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
+For October 22, 2024:   
+Open discussion of AI coding assist & AI coding completion tools people have used, and their assessment of them.   
+Interested in the full range of people's experiences with AI code tools: for code creation, code completion (copiloting), code debugging, and code refactoring.    
+Examples of code welcome but not required.    
+
 ### Paper for October 15, 2024:   
 Diffusion Models are Evolutionary Algorithms   
 https://arxiv.org/pdf/2410.02543   
