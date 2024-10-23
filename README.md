@@ -6,7 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
-For October 22, 2024:   
+### Paper for October 29, 2024:   
+nGPT: Normalized Transformer with Representation Learning on the Hypersphere   
+https://arxiv.org/pdf/2410.01131   
+There appear to be multiple YouTubes.   
+   
+### Paper for October 22, 2024:   
 Open discussion of AI coding assist & AI coding completion tools people have used, and their assessment of them.   
 Interested in the full range of people's experiences with AI code tools: for code creation, code completion (copiloting), code debugging, and code refactoring.    
 Examples of code welcome but not required.    
