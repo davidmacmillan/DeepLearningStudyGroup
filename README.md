@@ -6,6 +6,13 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
+### Paper for November 5, 2024:   
+Agent S: An Open Agentic Framework that Uses Computers Like a Human   
+https://arxiv.org/pdf/2410.08164v1   
+Github:   
+https://github.com/simular-ai/Agent-S   
+There are a number of YouTubes on this paper.   
+   
 ### Paper for October 29, 2024:   
 nGPT: Normalized Transformer with Representation Learning on the Hypersphere   
 https://arxiv.org/pdf/2410.01131   
