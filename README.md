@@ -1814,7 +1814,7 @@ http://www.cs.toronto.edu/~fritz/absps/colt93.html - keep neural simple by minim
 https://github.com/vivanov879/draw - code  
 
 
-### June 20, 2016 - Penninsula   
+### June 20, 2016 - Peninsula   
 Recurrent models of visual attention - Deep Mind   
 https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf   
 
@@ -1833,7 +1833,7 @@ https://github.com/brendenlake/omniglot
 https://github.com/tristandeleu/ntm-one-shot
 https://github.com/MLWave/extremely-simple-one-shot-learning
 
-### June 13, 2016 - TBD, Penninsula
+### June 13, 2016 - TBD, Peninsula
 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning:  
 http://arxiv.org/pdf/1602.07261v1.pdf  
 
