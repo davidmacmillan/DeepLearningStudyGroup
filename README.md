@@ -6,6 +6,24 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
+### Paper for November 12, 2024:   
+The Llama 3 Herd of Models   
+https://arxiv.org/abs/2407.21783   
+This is a long paper (92 pg) so we are skipping the sections on hardware, inference and results (leaves ~30 pg to read).   
+Our focus is on the software and architecture, including multi-modal aspects (the "assignment").   
+At the meetup we will discuss the paper, not read through it. Bring your questions, comments, etc.   
+Anyone is welcome to attend and listen without reading the "assignment".   
+If nobody reads it, the meeting will be short.   
+On the other hand, feel free to read more than the "assignment" and to share your wider insights in the meeting!   
+Here is the "assigned" reading with precise Sections shown:   
+* From the start through end of Section 3.2.1 (~pages 1 - 8)   
+* Section 3.4 through end of Section 4.3.7 (~pages 14-28)   
+* Section 7 through end of Section 7.5.7 (~pages 54-61)   
+* Section 8 through end of Section 8.3.2 (~pages 63-66)   
+* Any Figures and Tables that are referenced in the above text.   
+If you are on our Discord, it has a copy of the paper with the above sections marked.   
+There are multiple YouTubes on the paper.   
+
 ### Paper for November 5, 2024:   
 Agent S: An Open Agentic Framework that Uses Computers Like a Human   
 https://arxiv.org/pdf/2410.08164v1   
