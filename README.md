@@ -21,6 +21,7 @@ Here is the "assigned" reading with precise Sections shown:
 * Section 7 through end of Section 7.5.7 (~pages 54-61)   
 * Section 8 through end of Section 8.3.2 (~pages 63-66)   
 * Any Figures and Tables that are referenced in the above text.   
+
 If you are on our Discord, it has a copy of the paper with the above sections marked.   
 There are multiple YouTubes on the paper.   
 
