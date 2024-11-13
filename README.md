@@ -16,7 +16,7 @@ If time permits (it likely will) we will discuss (this week's new reading "assig
 * Section 6 (all of it) (~pages 51 - 53)   
 * Section 5 (skim for what whatever results catch your interest) (~pages 28 - 51)   
 * Any Figures and Tables that are referenced in the above text.   
-* Anything anywhere in the paper that you want to discuss.
+* Anything anywhere in the paper that you want to discuss.   
 There are multiple YouTubes on the paper.   
    
 ### Paper for November 12, 2024:   
