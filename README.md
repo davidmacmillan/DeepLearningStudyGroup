@@ -6,6 +6,19 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
+### Paper for November 19, 2024:   
+We will continue the discussion of:   
+The Llama 3 Herd of Models   
+https://arxiv.org/abs/2407.21783   
+We will start the discussion with a focus on Sections 7 and 8 (which we didn't have time for last week).    
+If time permits (it likely will) we will discuss (this week's new reading "assignment"):   
+* Section 3.3 through end of Section 3.3.4 (~pages 8 - 14)   
+* Section 6 (all of it) (~pages 51 - 53)   
+* Section 5 (skim for what whatever results catch your interest) (~pages 28 - 51)   
+* Any Figures and Tables that are referenced in the above text.   
+* Anything anywhere in the paper that you want to discuss.
+There are multiple YouTubes on the paper.   
+   
 ### Paper for November 12, 2024:   
 The Llama 3 Herd of Models   
 https://arxiv.org/abs/2407.21783   
