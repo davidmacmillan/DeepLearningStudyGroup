@@ -15,7 +15,7 @@ If time permits (it likely will) we will discuss (this week's new reading "assig
 * Section 3.3 through end of Section 3.3.4 (~pages 8 - 14)   
 * Section 6 (all of it) (~pages 51 - 53)   
 * Section 5 (skim for what whatever results catch your interest) (~pages 28 - 51)   
-* Any Figures and Tables that are referenced in the above text.   
+* Any Figures and Tables that are referenced in the above readings.   
 * Anything anywhere in the paper that you want to discuss.
    
 There are multiple YouTubes on the paper.   
@@ -34,7 +34,7 @@ Here is the "assigned" reading with precise Sections shown:
 * Section 3.4 through end of Section 4.3.7 (~pages 14-28)   
 * Section 7 through end of Section 7.5.7 (~pages 54-61)   
 * Section 8 through end of Section 8.3.2 (~pages 63-66)   
-* Any Figures and Tables that are referenced in the above text.   
+* Any Figures and Tables that are referenced in the above readings.   
 
 A copy of the paper with the above sections marked is in this Github here:    
 https://github.com/davidmacmillan/DeepLearningStudyGroup/blob/master/The%20Llama%203%20Herd%20of%20Models%202407.21783v2.pdf   
