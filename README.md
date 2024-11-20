@@ -6,6 +6,16 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
+### Paper for November 26, 2024:   
+Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution   
+https://arxiv.org/abs/2310.16834   
+YouTube (shorter):   
+https://www.youtube.com/watch?v=K_9wQ6LZNpI   
+YouTube (longer, by primary paper author):   
+https://www.youtube.com/watch?v=_1qv_LNjH9U   
+Github:   
+https://github.com/louaaron/Score-Entropy-Discrete-Diffusion   
+   
 ### Paper for November 19, 2024:   
 We will continue the discussion of:   
 The Llama 3 Herd of Models   
