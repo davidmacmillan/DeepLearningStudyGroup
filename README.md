@@ -6,9 +6,9 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
-### Paper for December 3, 2024:
-Enhancing LLM Reasoning with Reward-guided Tree Search
-https://arxiv.org/abs/2411.11694
+### Paper for December 3, 2024:   
+Enhancing LLM Reasoning with Reward-guided Tree Search   
+https://arxiv.org/abs/2411.11694   
 
 ### Paper for November 26, 2024:   
 Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution   
