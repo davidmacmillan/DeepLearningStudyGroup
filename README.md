@@ -6,6 +6,14 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
+### Paper for Dec. 10:   
+Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization   
+https://arxiv.org/pdf/2405.15071   
+Github:   
+https://github.com/OSU-NLP-Group/GrokkedTransformer   
+OpenReview:   
+https://openreview.net/forum?id=ns8IH5Sn5y   
+   
 ### Paper for December 3, 2024:   
 Enhancing LLM Reasoning with Reward-guided Tree Search   
 https://arxiv.org/abs/2411.11694   
