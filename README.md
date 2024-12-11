@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
+### Paper for Dec. 17
+Generative Reward Models
+https://arxiv.org/abs/2410.12832
+
 ### Paper for Dec. 10:   
 Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization   
 https://arxiv.org/pdf/2405.15071   
