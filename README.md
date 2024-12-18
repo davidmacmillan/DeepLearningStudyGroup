@@ -6,7 +6,7 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2024 ========   
-### Paper for January 7, 2024   
+### Paper for January 7, 2025   
 Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction   
 https://arxiv.org/pdf/2404.02905   
 There is at least one YouTube:   
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=yJ396Ksiv2s
    
 ### No paper or meeting for December 31, 2024 - Happy New Year!   
    
-### No paper or meeting for December 24, 20204 - Happy Holidays!   
+### No paper or meeting for December 24, 2024 - Happy Holidays!   
    
 ### Paper for Dec. 17, 2024:
 Generative Reward Models     
