@@ -7,13 +7,13 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 ### Paper for January 14, 2025:
-TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters
-https://arxiv.org/pdf/2410.23168
-There are many YouTubes including by Yanic:
-https://www.youtube.com/watch?v=gfU5y7qCxF0
-and Gabriel Mongaras:
-https://www.youtube.com/watch?v=4lGgbkD6Z0I
-
+TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters   
+https://arxiv.org/pdf/2410.23168   
+There are many YouTubes including by Yanic:   
+https://www.youtube.com/watch?v=gfU5y7qCxF0   
+and Gabriel Mongaras:   
+https://www.youtube.com/watch?v=4lGgbkD6Z0I   
+   
 ### Paper for January 7, 2025   
 Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction   
 https://arxiv.org/pdf/2404.02905   
