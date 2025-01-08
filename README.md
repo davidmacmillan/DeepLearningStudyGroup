@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ### Paper for January 14, 2025:
 TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters   
 https://arxiv.org/pdf/2410.23168   
-There are many YouTubes including by Yanic:   
+There are many YouTubes including by Yannic Kilcher:   
 https://www.youtube.com/watch?v=gfU5y7qCxF0   
 and Gabriel Mongaras:   
 https://www.youtube.com/watch?v=4lGgbkD6Z0I   
