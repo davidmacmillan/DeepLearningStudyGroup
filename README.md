@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for January 21, 2025:
+Nash Learning from Human Feedback
+https://arxiv.org/pdf/2312.00886
+
 ### Paper for January 14, 2025:
 TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters   
 https://arxiv.org/pdf/2410.23168   
