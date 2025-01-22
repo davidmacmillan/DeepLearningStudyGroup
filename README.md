@@ -11,7 +11,7 @@ READ THIS FIRST:
 This is a long paper (68 pages).    
 They are doing some cool, non-standard stuff with transformers.    
 That will be the focus of our discussion.    
-The "assigned reading" is Architecture, pages 21-36 (first part of Appendix), including Algorithms & Figures.   
+The "assigned reading" is Architecture, pages 21-37 (first part of Appendix), including Algorithms & Figures.   
 Skim the rest of the paper, as needed, to understand their context / what they are trying to do.   
 We may also look at their GitHub code, so you may want to take a look at that also.   
 \-\-\-   
