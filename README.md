@@ -14,7 +14,8 @@ That will be the focus of our discussion.
 The "assigned reading" is Architecture, pages 21-36 (first part of Appendix), including Algorithms & Figures.   
 Skim the rest of the paper, as needed, to understand their context / what they are trying to do.   
 We may also look at their GitHub code, so you may want to take a look at that also.   
-Paper:  
+\-\-\-
+Paper (focus on pages 21-36 - see the READ THIS above):  
 Simulating 500 million years of evolution with a language model   
 https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1   
 Github for model (open source):   
