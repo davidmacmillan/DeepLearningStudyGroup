@@ -14,14 +14,14 @@ That will be the focus of our discussion.
 The "assigned reading" is Architecture, pages 21-36 (first part of Appendix), including Algorithms & Figures.   
 Skim the rest of the paper, as needed, to understand their context / what they are trying to do.   
 We may also look at their GitHub code, so you may want to take a look at that also.   
----   
+Paper:  
 Simulating 500 million years of evolution with a language model   
 https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1   
+Github for model (open source):   
+https://github.com/evolutionaryscale/esm   
 Project page:    
 ESM3: Simulating 500 million years of evolution with a language model   
 https://www.evolutionaryscale.ai/blog/esm3-release   
-Github for model (open source)   
-https://github.com/evolutionaryscale/esm   
 Huggingface for weights (open source license for non-commercial use; commercial use requires license):   
 https://huggingface.co/EvolutionaryScale/esm3   
    
