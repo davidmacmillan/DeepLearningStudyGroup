@@ -15,9 +15,9 @@ The "assigned reading" is Architecture, pages 21-36 (first part of Appendix), in
 Skim the rest of the paper, as needed, to understand their context / what they are trying to do.   
 We may also look at their GitHub code, so you may want to take a look at that also.   
 \-\-\-   
-Paper (focus on pages 21-36 - see the READ THIS above):  
+Paper (focus on pages 21-37 - see the READ THIS above):  
 Simulating 500 million years of evolution with a language model   
-https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1   
+https://www.biorxiv.org/content/10.1101/2024.07.01.600583v2  <-- note v2 at end of URL 
 Github for model (open source):   
 https://github.com/evolutionaryscale/esm   
 Project page:    
