@@ -20,6 +20,8 @@ Simulating 500 million years of evolution with a language model
 https://www.biorxiv.org/content/10.1101/2024.07.01.600583v2  <-- note v2 at end of URL   
 Github for model (open source):   
 https://github.com/evolutionaryscale/esm   
+YouTube by paper author:   
+https://www.youtube.com/watch?v=qeqbm8a1-ZA   
 Project page:    
 ESM3: Simulating 500 million years of evolution with a language model   
 https://www.evolutionaryscale.ai/blog/esm3-release   
