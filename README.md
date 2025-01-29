@@ -18,6 +18,8 @@ https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
 Other R1-related info:   
 Berkeley Researchers Replicate Deepseek R1's Core Tech for Just $30   
 https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek   
+Jiayi Pan's discussion of what he and his team did:   
+https://x.com/jiayi_pirate/status/1882839370505621655   
 Berkeley team's code:  
 https://github.com/Jiayi-Pan/TinyZero   
 
