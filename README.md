@@ -11,7 +11,7 @@ Deepseek R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learni
 https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf   
 There are many YouTubes and lots of press coverage   
    
-Base tech for R1 / background info:   
+Base tech for R1 / background info / may also discuss if time:   
 Deepseek-V3 Technical Report   
 https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf   
    
