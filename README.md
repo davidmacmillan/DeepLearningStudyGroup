@@ -6,6 +6,21 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for February 4, 2025:   
+Deepseek R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning   
+https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf   
+There are many YouTubes and lots of press coverage   
+   
+Base tech for R1 / background info:   
+Deepseek-V3 Technical Report   
+https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf   
+   
+Other R1-related info:   
+Berkeley Researchers Replicate Deepseek R1's Core Tech for Just $30   
+https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek   
+Berkeley team's code:  
+https://github.com/Jiayi-Pan/TinyZero   
+
 ### Paper for January 28, 2025:   
 READ THIS FIRST:   
 This is a long paper (68 pages).    
