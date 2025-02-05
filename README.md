@@ -6,6 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### paper for February 11, 2025:    
+Large Concept Models: Language Modeling in a Sentence Representation Space    
+https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/    
+A YouTube (many others):    
+https://www.youtube.com/watch?v=TwLiNTYvpPo    
+
 ### Paper for February 4, 2025:   
 Deepseek R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning   
 https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf   
