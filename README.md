@@ -6,7 +6,7 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-### paper for February 11, 2025:    
+### Paper for February 11, 2025:    
 Large Concept Models: Language Modeling in a Sentence Representation Space    
 https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/    
 A YouTube (many others):    
