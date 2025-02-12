@@ -11,7 +11,13 @@ s1: Simple test-time scaling
 https://arxiv.org/abs/2501.19393   
 Github:   
 https://github.com/simplescaling/s1   
-There are many YouTubes   
+There are many YouTubes, including:   
+https://www.youtube.com/watch?v=3tM3yc9UI84   
+and that YouTube points out two similar papers published on almost the same date as the S1 paper:   
+Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization (by Meta)   
+https://arxiv.org/abs/2501.17974   
+Large Language Models Think Too Fast To Explore Effectively (Georgia Institute of Tech.)   
+https://arxiv.org/pdf/2501.18009   
    
 ### Paper for February 11, 2025:    
 Large Concept Models: Language Modeling in a Sentence Representation Space    
