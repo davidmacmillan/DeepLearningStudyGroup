@@ -6,6 +6,13 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for February 18, 2025:   
+s1: Simple test-time scaling   
+https://arxiv.org/abs/2501.19393   
+Github:   
+https://github.com/simplescaling/s1   
+Many YouTubes   
+   
 ### Paper for February 11, 2025:    
 Large Concept Models: Language Modeling in a Sentence Representation Space    
 https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/    
