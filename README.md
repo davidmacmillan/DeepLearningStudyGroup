@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for February 25, 2025:    
+Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach    
+https://arxiv.org/pdf/2502.05171    
+
 ### Paper for February 18, 2025:   
 s1: Simple test-time scaling   
 https://arxiv.org/abs/2501.19393   
