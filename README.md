@@ -6,6 +6,14 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for March 4, 2025:   
+MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking (Deepmind)   
+https://arxiv.org/pdf/2501.13011   
+There is a blog:   
+https://deepmindsafetyresearch.medium.com/mona-a-method-for-addressing-multi-step-reward-hacking-a31ac4b16483   
+There is at least one YouTube:   
+https://www.youtube.com/watch?v=mwqgIF3Ey8k   
+
 ### Paper for February 25, 2025:    
 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach    
 https://arxiv.org/pdf/2502.05171    
