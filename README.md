@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for March 11, 2025 is a blog:   
+The Ultra-Scale Playbook: Training LLMs on GPU Clusters   
+https://huggingface.co/spaces/nanotron/ultrascale-playbook   
+There are a number of YouTubes on this.   
+   
 ### Paper for March 4, 2025:   
 MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking (Deepmind)   
 https://arxiv.org/pdf/2501.13011   
