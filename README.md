@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for March 18, 2025:   
+u-µP: The Unit-Scaled Maximal Update Parametrization   
+https://arxiv.org/pdf/2407.17465   
+
 ### Paper for March 11, 2025 is a blog:   
 The Ultra-Scale Playbook: Training LLMs on GPU Clusters   
 https://huggingface.co/spaces/nanotron/ultrascale-playbook   
