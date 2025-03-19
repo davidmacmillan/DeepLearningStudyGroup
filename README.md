@@ -7,11 +7,11 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 ### Paper for March 25, 2025:
-From superposition to sparse codes: interpretable representations in neural networks
-https://arxiv.org/pdf/2503.01824
-There is at least one YouTube:
-https://www.youtube.com/watch?v=t_i2NRr2eZA
-
+From superposition to sparse codes: interpretable representations in neural networks   
+https://arxiv.org/pdf/2503.01824   
+There is at least one YouTube:   
+https://www.youtube.com/watch?v=t_i2NRr2eZA   
+   
 ### Paper for March 18, 2025:   
 u-µP: The Unit-Scaled Maximal Update Parametrization   
 https://arxiv.org/pdf/2407.17465   
