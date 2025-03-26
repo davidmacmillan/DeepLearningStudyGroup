@@ -6,6 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for April 1, 2025:   
+Forecasting Rare Language Model Behaviors   
+https://arxiv.org/pdf/2502.16797   
+Blog (same title):   
+https://www.anthropic.com/research/forecasting-rare-behaviors    
+
 ### Paper for March 25, 2025:
 From superposition to sparse codes: interpretable representations in neural networks   
 https://arxiv.org/pdf/2503.01824   
