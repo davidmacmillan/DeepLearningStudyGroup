@@ -6,7 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-### NOTE: WE CHANGED TO THIS PAPER ON THURSDAY AFTERNOON (3/27) ###
+### Paper (actually a blog) for April 8, 2025:  
+Circuit Tracing: Revealing Computational Graphs in Language Models https://transformer-circuits.pub/2025/attribution-graphs/methods.html   
+As an advance peek, in a following week we will do the companion paper (blog):   
+On the Biology of a Large Language Model   
+https://transformer-circuits.pub/2025/attribution-graphs/biology.html   
+   
 ### Paper for April 1, 2025:      
 Fractal Generative Models    
 https://arxiv.org/pdf/2502.17437    
