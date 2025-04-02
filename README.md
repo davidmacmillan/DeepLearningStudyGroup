@@ -10,7 +10,12 @@ ________________________________________________________________________________
 Circuit Tracing: Revealing Computational Graphs in Language Models    
 https://transformer-circuits.pub/2025/attribution-graphs/methods.html   
 If you prefer reading a PDF version, try: https://webtopdf.com/   
-   
+Additional background reading:   
+* Faith and Fate: Limits of Transformers on Compositionality   
+https://arxiv.org/abs/2305.18654   
+* On Limitations of the Transformer Architecture,  Chapter 3 - The Impossibility of Composition   
+https://arxiv.org/abs/2402.08164   
+      
 As an advance peek, in a following week we will do the companion paper (blog):   
 On the Biology of a Large Language Model   
 https://transformer-circuits.pub/2025/attribution-graphs/biology.html   
