@@ -7,8 +7,8 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 ### Paper (actually a blog) for April 15, 2025:
-Continuing the discussion from last week on the recent Anthropic papers/blogs.   
-We are doing the second paper this week:   
+We are continuing the discussion from last week on the recent Anthropic papers/blogs.   
+We are doing the second paper/blog this week:   
 On the Biology of a Large Language Model     
 https://transformer-circuits.pub/2025/attribution-graphs/biology.html    
 Yannic Kilcher has a YouTube (part 1 of 2 parts is out so far):   
