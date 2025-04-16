@@ -6,6 +6,13 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### For April 22, 2025 we will discuss Anthropic's MCP and Google's Agent2Agent.   
+Anthropic MCP    
+https://www.anthropic.com/news/model-context-protocol   
+Google agent2agent    
+https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/   
+More reading will be posted by the weekend (April 19).   
+   
 ### Paper (actually a blog) for April 15, 2025:
 We are continuing the discussion from last week on the recent Anthropic papers/blogs.   
 We are doing the second paper/blog this week:   
