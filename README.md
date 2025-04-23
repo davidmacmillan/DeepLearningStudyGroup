@@ -6,7 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-### (Updated) For April 22, 2025 we will discuss Anthropic's MCP and Google's Agent2Agent.
+### Paper for April 29, 2025:
+Why do LLMs attend to the first token?
+https://arxiv.org/abs/2504.02732
+
+### For April 22, 2025 we will discuss Anthropic's MCP and Google's Agent2Agent.
 Anthropic MCP   
 https://www.anthropic.com/news/model-context-protocol   
 MCP Introduction,  Tutorials, Concepts:   
