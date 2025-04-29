@@ -14,9 +14,8 @@ add +1 in the transformer softmax denominators (but not to the final LLM output 
 https://www.evanmiller.org/attention-is-off-by-one.html    
 Tracing the heritage, tonight's paper on pg. 3 references Xiao 2024  
 https://arxiv.org/abs/2309.17453   
-and Xiao (pg. 4 & 6)  
-notes his StreamingLLM approach for attention sinks can (perhaps) be eliminated if  
-one instead uses Miller's +1 softmax recommendation.  
+and Xiao (pg. 4 & 6) notes his StreamingLLM approach for attention sinks can  
+(perhaps) be eliminated if one instead uses Miller's +1 softmax recommendation.  
  
 ### For April 22, 2025 we will discuss Anthropic's MCP and Google's Agent2Agent.
 Anthropic MCP   
