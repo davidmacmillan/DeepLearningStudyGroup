@@ -6,6 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for May 6, 2025, from DeepMind:   
+Round and Round We Go! What makes Rotary Positional Encodings useful?   
+https://arxiv.org/pdf/2410.06205   
+There is a YouTube from Gabriel Mongaras:   
+https://www.youtube.com/watch?v=2tS_bXPoriI   
+   
 ### Paper for April 29, 2025:
 Why do LLMs attend to the first token?  
 https://arxiv.org/abs/2504.02732  
