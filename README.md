@@ -11,9 +11,9 @@ Flow matching for Generative Modeling
 https://arxiv.org/abs/2210.02747   
 YouTube by Yannic Kilcher:   
 https://youtu.be/7NNxK3CqaDk   
-YouTube by Jia-Bin Huang:   
+YouTube by Jia-Bin Huang (Univ. Maryland):   
 https://youtu.be/DDq_pIfHqLs   
-YouTube by peter Abeel, Berkeley:   
+YouTube by Peter Abbeel (UC Berkeley):   
 https://www.youtube.com/watch?v=SkSDCzz41Vs   
 There are also other YouTubes and blogs such as:  
 https://www.youtube.com/watch?v=7cMzfkWFWhI   
