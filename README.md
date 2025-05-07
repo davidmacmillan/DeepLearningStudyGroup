@@ -6,6 +6,18 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for May 13, 2025:   
+Flow matching for Generative Modeling   
+https://arxiv.org/abs/2210.02747   
+YouTube by Yannic Kilcher:   
+https://youtu.be/7NNxK3CqaDk   
+YouTube by Jia-Bin Huang:   
+https://youtu.be/DDq_pIfHqLs   
+YouTube by peter Abeel, Berkeley:   
+https://www.youtube.com/watch?v=SkSDCzz41Vs   
+There are also other YouTubes and blogs such as:  
+https://www.youtube.com/watch?v=7cMzfkWFWhI   
+   
 ### Paper for May 6, 2025, from DeepMind:   
 Round and Round We Go! What makes Rotary Positional Encodings useful?   
 https://arxiv.org/pdf/2410.06205   
