@@ -10,8 +10,8 @@ ________________________________________________________________________________
 Qwen3 Technical Report   
 https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf   
 There are many YouTubes.  
-Also try it out (e.g. Ollama has it) or here:
-https://qwen3.app/
+Also try it out (e.g. Ollama has it) or here:  
+https://qwen3.app/   
 
 ### Paper for May 13, 2025:   
 Flow matching for Generative Modeling   
