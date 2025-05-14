@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for May 20, 2023   
+Qwen3 Technical Report   
+https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf   
+There are many YouTubes. Also try it out.   
+
 ### Paper for May 13, 2025:   
 Flow matching for Generative Modeling   
 https://arxiv.org/abs/2210.02747   
