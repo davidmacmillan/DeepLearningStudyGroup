@@ -6,6 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for May 27, 2025    
+AlphaEvolve: A coding agent for scientific and algorithmic discovery   
+https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf   
+Blog:   
+https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/   
+   
 ### Paper for May 20, 2023   
 Qwen3 Technical Report   
 https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf   
