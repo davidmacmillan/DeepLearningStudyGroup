@@ -6,6 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Papers for June 3, 2025:   
+Efficient Sequence Transduction by Jointly Predicting Tokens and Durations    
+https://arxiv.org/abs/2304.06795    
+Fast Conformer with Linearly Scalable Attention for Efficient Speech Recognition    
+https://arxiv.org/abs/2305.05084    
+   
 ### Paper for May 27, 2025    
 AlphaEvolve: A coding agent for scientific and algorithmic discovery   
 https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf   
