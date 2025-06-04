@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### For June 10, 2025:   
+Good news - no homework this week!!!   
+At the meeting, one of our members, Ted, will present MultiDecode,    
+original work he has done on speeding inference, including for RAG.   
+   
 ### Papers for June 3, 2025:   
 Efficient Sequence Transduction by Jointly Predicting Tokens and Durations    
 https://arxiv.org/abs/2304.06795    
