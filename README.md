@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for June 17, 2025:   
+Concise Reasoning via Reinforcement Learning    
+https://arxiv.org/pdf/2504.05185   
+    
 ### For June 10, 2025:   
 Good news - no homework this week!!!   
 At the meeting, one of our members, Ted, will present MultiDecode,    
