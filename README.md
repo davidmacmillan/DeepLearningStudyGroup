@@ -6,6 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for June 24, 2025:   
+Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA   
+https://arxiv.org/pdf/2410.20672   
+OpenReview:   
+https://openreview.net/forum?id=WwpYSOkkCt   
+   
 ### Paper for June 17, 2025:   
 Concise Reasoning via Reinforcement Learning    
 https://arxiv.org/pdf/2504.05185   
