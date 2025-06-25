@@ -6,6 +6,12 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for July 1, 2025:   
+MELODI: Exploring Memory Compression for Long Contexts (DeepMind, Oct. 2024)   
+https://arxiv.org/abs/2410.03156   
+Open Review:   
+https://openreview.net/forum?id=TvGPP8i18S   
+
 ### Paper for June 24, 2025:   
 Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA   
 https://arxiv.org/pdf/2410.20672   
