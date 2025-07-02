@@ -6,6 +6,15 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+#### Two blogs and a paper for July 8, 2025:   
+Blog #1 - Gemma 3n model overview   
+https://ai.google.dev/gemma/docs/gemma-3n   
+Blog #2 - Introducing Gemma 3n: The developer guide   
+https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/   
+MatFormer: Nested Transformer for Elastic Inference   
+https://arxiv.org/pdf/2310.07707   
+There are multiple YouTubes on Gemma 3n and MatFormer.   
+   
 ### Paper for July 1, 2025:   
 MELODI: Exploring Memory Compression for Long Contexts (DeepMind, Oct. 2024)   
 https://arxiv.org/abs/2410.03156   
