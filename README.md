@@ -6,7 +6,7 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-#### Two blogs and a paper for July 8, 2025:   
+### Two blogs and a paper for July 8, 2025:   
 Blog #1 - Gemma 3n model overview   
 https://ai.google.dev/gemma/docs/gemma-3n   
 Blog #2 - Introducing Gemma 3n: The developer guide   
