@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for July 15, 2025:     
+DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal    
+https://arxiv.org/abs/2503.14269    
+    
 ### Two blogs and a paper for July 8, 2025:   
 Blog #1 - Gemma 3n model overview   
 https://ai.google.dev/gemma/docs/gemma-3n   
