@@ -6,6 +6,15 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for July 22, 2025:
+   
+Kimi k1.5: Scaling Reinforcement Learning with LLMs   
+https://arxiv.org/pdf/2501.12599   
+There are also multiple YouTubes.   
+Additional Kimi info, if interested:   
+Kimi-VL Technical Report   
+https://arxiv.org/pdf/2504.07491   
+   
 ### Paper for July 15, 2025:     
 DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal    
 https://arxiv.org/abs/2503.14269    
