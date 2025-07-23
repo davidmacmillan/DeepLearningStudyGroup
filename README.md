@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+   
+### Our paper for July 29, 2025 is:   
+Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation   
+https://arxiv.org/pdf/2507.10524   
+   
 ### Paper for July 22, 2025:
    
 Kimi k1.5: Scaling Reinforcement Learning with LLMs   
