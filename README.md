@@ -6,8 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for August 5, 2025:   
+Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought   
+https://arxiv.org/pdf/2505.12514   
    
-### Our paper for July 29, 2025 is:   
+### Paper for July 29, 2025:   
 Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation   
 https://arxiv.org/pdf/2507.10524   
    
