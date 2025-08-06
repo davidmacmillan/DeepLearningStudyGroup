@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for August 12, 2025:    
+Subliminal Learning: Language models transmit behavioral traits via hidden signals in data    
+https://arxiv.org/abs/2507.14805    
+    
 ### Paper for August 5, 2025:   
 Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought   
 https://arxiv.org/pdf/2505.12514   
