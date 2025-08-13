@@ -2,10 +2,18 @@
 Papers, code, etc. for the Deep Learning Study Group.   
 Meeting time - Tuesdays, 6:30 pm California time on Zoom     
 Zoom and Discord links are on the meetup page:      
-https://www.meetup.com/handsonprogrammingevents/      
+https://www.meetup.com/handsonprogrammingevents/          
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+### Paper for August 19, 2025    
+Hierarchical Reasoning Models    
+https://arxiv.org/abs/2506.21734    
+There are multiple human YouTubes, including one by Gabriel Mongaras:    
+https://www.youtube.com/watch?v=TUsbk8vPDoM   
+Github:    
+https://github.com/sapientinc/HRM    
+
 ### Paper for August 12, 2025:    
 Subliminal Learning: Language models transmit behavioral traits via hidden signals in data    
 https://arxiv.org/abs/2507.14805    
