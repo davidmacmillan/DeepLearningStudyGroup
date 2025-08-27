@@ -10,7 +10,7 @@ ________________________________________________________________________________
 A Survey on Diffusion Language Models    
 https://arxiv.org/pdf/2508.10875    
     
-### Paper for August 29, 2025:   
+### Paper for August 26, 2025:   
 GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning   
 https://arxiv.org/pdf/2507.19457   
    
