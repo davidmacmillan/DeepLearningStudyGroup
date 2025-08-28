@@ -9,6 +9,9 @@ ________________________________________________________________________________
 ### Paper for Sept. 2, 2025:     
 A Survey on Diffusion Language Models    
 https://arxiv.org/pdf/2508.10875    
+NOTE: We are planning an in-person social event (dinner)    
+on Tuesday Sept. 30 around 6 PM in Mountain View, CA.    
+Hold the date. Details forthcoming.   
     
 ### Paper for August 26, 2025:   
 GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning   
