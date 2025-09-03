@@ -7,7 +7,7 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 
-#### Paper for Sept. 9, 2025:   
+### Paper for Sept. 9, 2025:   
 DataRater: Meta-Learned Dataset Curation    
 https://arxiv.org/pdf/2505.17895    
     
