@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+
+#### Paper for Sept. 9, 2025:   
+DataRater: Meta-Learned Dataset Curation    
+https://arxiv.org/pdf/2505.17895    
+    
 ### Paper for Sept. 2, 2025:     
 A Survey on Diffusion Language Models    
 https://arxiv.org/pdf/2508.10875    
