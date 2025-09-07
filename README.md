@@ -10,13 +10,11 @@ ________________________________________________________________________________
 ### Paper for Sept. 9, 2025:   
 DataRater: Meta-Learned Dataset Curation    
 https://arxiv.org/pdf/2505.17895    
+We are having an in-person social event (dinner) on Tuesday Sept. 30 at 6:30 PM in Mountain View, CA. The restaurant is Agave, 194 Castro St., Mountain View CA. Each person buys their own dinner and drinks (both will run about $40; Agave's menu is online, or just stop by to socialize.) Hold the date. Please RSVP at our Sept. 9 Zoom meetup if you plan to attend this Sept. 30 event (if you have not already RSVPed).
     
 ### Paper for Sept. 2, 2025:     
 A Survey on Diffusion Language Models    
 https://arxiv.org/pdf/2508.10875    
-NOTE: We are planning an in-person social event (dinner)    
-on Tuesday Sept. 30 around 6 PM in Mountain View, CA.    
-Hold the date. Details forthcoming.   
     
 ### Paper for August 26, 2025:   
 GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning   
