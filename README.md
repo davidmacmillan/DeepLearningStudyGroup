@@ -7,10 +7,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 ### Paper for September 16, 2025:
-Why Language Models Hallucinate
-https://www.arxiv.org/abs/2509.04664
-We are planning an in-person social event (dinner) on Tuesday Sept. 30 at 6:30 PM in Mountain View, CA. The restaurant is Agave, 194 Castro St., Mountain View CA. Each person buys their own dinner and drinks (both will run about $40; Agave's menu is online, or just stop by to socialize.) Hold the date. Please RSVP at our Sept. 16 Zoom meetup if you plan to attend this Sept. 30 event so we have a headcount estimate (if you have not already RSVPed).
-
+Why Language Models Hallucinate   
+https://www.arxiv.org/abs/2509.04664   
+We are planning an in-person social event (dinner) on Tuesday Sept. 30 at 6:30 PM in Mountain View, CA. The restaurant is Agave, 194 Castro St., Mountain View CA. Each person buys their own dinner and drinks (both will run about $40; Agave's menu is online, or just stop by to socialize.) Hold the date. Please RSVP at our Sept. 16 Zoom meetup if you plan to attend this Sept. 30 event so we have a headcount estimate (if you have not already RSVPed).   
+   
 
 ### Paper for Sept. 9, 2025:   
 DataRater: Meta-Learned Dataset Curation    
