@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+
+### Paper for Sept. 23, 2025:   
+Real-Time Detection of Hallucinated Entities in Long-Form Generation   
+https://arxiv.org/pdf/2509.03531   
+    
 ### Paper for September 16, 2025:
 Why Language Models Hallucinate   
 https://www.arxiv.org/abs/2509.04664   
