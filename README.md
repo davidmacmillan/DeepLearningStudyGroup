@@ -13,9 +13,11 @@ https://arxiv.org/pdf/2509.04575
 ### Paper for OCTOBER 7, 2025:   
 Small Language Models are the Future of Agentic AI   
 https://arxiv.org/abs/2506.02153   
-Many YouTubes on this paper.   
+Many YouTubes on this paper incuding by an author:
+https://www.youtube.com/watch?v=9xgRTznP21E.   
    
-### Sept. 30, 2025 - No paper this week. Instead an in-person social event (dinner) on Tuesday Sept. 30 at 6:30 PM in Mountain View, CA. The restaurant is Agave, 194 Castro St., Mountain View CA. Each person buys their own dinner and drinks (both will run about $40; Agave's menu is online, or just stop by to socialize.)  Outside (weather permitting) so bring something for possible evening chill.     
+### Sept. 30, 2025
+No paper this week. Instead we did an in-person social event (dinner) on Tuesday Sept. 30 at 6:30 PM in Mountain View, CA.     
    
 ### Paper for Sept. 23, 2025:   
 Real-Time Detection of Hallucinated Entities in Long-Form Generation   
