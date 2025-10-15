@@ -6,10 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-### Paper for OCTOBER 21, 2025:
-Less is More: Recursive Reasoning with Tiny Networks
-https://arxiv.org/pdf/2510.04871
-
+### Paper for OCTOBER 21, 2025:   
+Less is More: Recursive Reasoning with Tiny Networks   
+https://arxiv.org/pdf/2510.04871   
+   
 ### Paper for OCTOBER 14, 2025:   
 Bootstrapping Task Spaces for Self-Improvement   
 https://arxiv.org/pdf/2509.04575   
