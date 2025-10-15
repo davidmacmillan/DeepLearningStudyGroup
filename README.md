@@ -6,15 +6,15 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-### Paper for OCTOBER 21, 2025:   
+### Paper for October 21, 2025:   
 Less is More: Recursive Reasoning with Tiny Networks   
 https://arxiv.org/pdf/2510.04871   
    
-### Paper for OCTOBER 14, 2025:   
+### Paper for October 14, 2025:   
 Bootstrapping Task Spaces for Self-Improvement   
 https://arxiv.org/pdf/2509.04575   
    
-### Paper for OCTOBER 7, 2025:   
+### Paper for October 7, 2025:   
 Small Language Models are the Future of Agentic AI   
 https://arxiv.org/abs/2506.02153   
 Many YouTubes on this paper incuding by an author:
