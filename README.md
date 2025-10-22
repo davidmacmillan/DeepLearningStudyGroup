@@ -6,6 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
+   
+### Paper for October 28, 2025:   
+Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin.   
+http://arxiv.org/abs/2510.06477   
+   
 ### Paper for October 21, 2025:   
 Less is More: Recursive Reasoning with Tiny Networks   
 https://arxiv.org/pdf/2510.04871   
