@@ -6,7 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-   
+
+### Paper for November 11, 2025:    
+Kimi linear attention     
+https://arxiv.org/pdf/2510.26692    
+
 ### Paper for November 4, 2025:   
 In-the-Flow Agentic System Optimization for Effective Planning and Tool Use   
 https://arxiv.org/pdf/2510.05592   
