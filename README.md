@@ -14,6 +14,7 @@ https://www.alphaxiv.org/abs/2510.18234
 ### Paper for November 11, 2025:    
 Kimi linear attention     
 https://arxiv.org/pdf/2510.26692    
+Slides: https://github.com/davidmacmillan/DeepLearningStudyGroup/blob/master/2025-11-11%20Kimi%20Linear%20%26%20Kimi%20Delta%20Attention.pdf   
 
 ### Paper for November 4, 2025:   
 In-the-Flow Agentic System Optimization for Effective Planning and Tool Use   
