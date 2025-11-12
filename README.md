@@ -7,6 +7,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 
+### Paper for November 18, 2025:   
+DeepSeek-OCR: Contexts Optical Compression   
+https://www.alphaxiv.org/abs/2510.18234   
+   
 ### Paper for November 11, 2025:    
 Kimi linear attention     
 https://arxiv.org/pdf/2510.26692    
