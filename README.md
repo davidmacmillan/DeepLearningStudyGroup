@@ -1,5 +1,5 @@
 # Deep Learning Study Group  
-Papers, code, etc. for the Deep Learning Study Group, which has been meeting weekly since 2016.   
+Papers, code, etc. for the Deep Learning Study Group.   
 Meeting time - Tuesdays, 6:30 pm California time on Zoom     
 Zoom and Discord links are on the meetup page:      
 https://www.meetup.com/handsonprogrammingevents/          
