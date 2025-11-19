@@ -6,7 +6,13 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-
+   
+### Paper for November 25, 2025:   
+Nested Learning: The Illusion of Deep Learning Architectures   
+https://abehrouz.github.io/files/NL.pdf    
+Blog on Nested Learning paper   
+https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/   
+   
 ### Paper for November 18, 2025:   
 DeepSeek-OCR: Contexts Optical Compression   
 https://arxiv.org/pdf/2510.18234   
