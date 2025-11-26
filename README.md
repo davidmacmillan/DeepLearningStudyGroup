@@ -6,11 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-
-### Paper for December 9, 2025
-PaTH Attention: Position Encoding via Accumulating Householder Transformations
-https://arxiv.org/pdf/2505.16381
-
+    
+### Paper for December 9, 2025  
+PaTH Attention: Position Encoding via Accumulating Householder Transformations   
+https://arxiv.org/pdf/2505.16381  
+  
 ### December 2, 2025
 No paper - NeurIPS
 
