@@ -6,7 +6,14 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
-   
+
+### Paper for December 9, 2025
+PaTH Attention: Position Encoding via Accumulating Householder Transformations
+https://arxiv.org/pdf/2505.16381
+
+### December 2, 2025
+No paper - NeurIPS
+
 ### Paper for November 25, 2025:   
 Nested Learning: The Illusion of Deep Learning Architectures   
 https://abehrouz.github.io/files/NL.pdf    
