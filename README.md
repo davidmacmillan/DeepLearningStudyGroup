@@ -7,7 +7,11 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 
-### Paper for December 16, 2025    
+### Paper for December 23, 2025:
+The Path Not Taken: RLVR Provably Learns Off the Principals    
+https://arxiv.org/pdf/2511.08567    
+   
+### Paper for December 16, 2025:    
 1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities    
 https://arxiv.org/abs/2503.14858    
 Additional background - Project site:    
