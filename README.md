@@ -14,6 +14,9 @@ Additional background - Project site:
 https://wang-kevin3290.github.io/scaling-crl/    
 Code:    
 https://github.com/wang-kevin3290/scaling-crl    
+Helpful CRL background info by one of the authors:   
+"Contrastive Learning as Goal-Conditioned Reinforcement Learning"    
+https://arxiv.org/pdf/2206.07568   
        
 ### Paper for December 9, 2025  
 PaTH Attention: Position Encoding via Accumulating Householder Transformations   
