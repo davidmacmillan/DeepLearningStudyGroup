@@ -10,6 +10,10 @@ ________________________________________________________________________________
 ### Paper for December 23, 2025:
 The Path Not Taken: RLVR Provably Learns Off the Principals    
 https://arxiv.org/pdf/2511.08567    
+YouTube: 
+https://www.youtube.com/watch?v=iYpQJK5KLlw   
+Additional material   
+https://github.com/davidmacmillan/DeepLearningStudyGroup/blob/master/2025-12-23%20Supervised%20fine-tuning%20vs.%20reinforcement%20learning%20with%20verified%20rewards%20_%20Claude.pdf   
    
 ### Paper for December 16, 2025:    
 1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities    
