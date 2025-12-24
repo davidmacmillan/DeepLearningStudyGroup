@@ -7,6 +7,12 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2025 ========   
 
+### Paper for December 30, 2025:   
+NVIDIA-Nemotron-3-White-Paper.pdf   
+https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-White-Paper.pdf   
+For addition background, if interested:   
+https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf   
+   
 ### Paper for December 23, 2025:
 The Path Not Taken: RLVR Provably Learns Off the Principals    
 https://arxiv.org/pdf/2511.08567    
