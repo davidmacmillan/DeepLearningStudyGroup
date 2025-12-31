@@ -5,6 +5,12 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 
 ___________________________________________________________________________________________________________
+# ======== 2026 ========   
+Happy New Year!   
+Paper for January 6, 2026:   
+When Models Manipulate Manifolds: The Geometry of a Counting Task    
+https://transformer-circuits.pub/2025/linebreaks/index.html    
+
 # ======== 2025 ========   
 
 ### Paper for December 30, 2025:   
