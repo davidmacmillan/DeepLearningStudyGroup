@@ -6,7 +6,13 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
-Happy New Year!   
+
+Paper for January 13, 2026:   
+Hessian structure of neural networks     
+https://arxiv.org/abs/2505.02809   
+Blog: Loss functions and optimizers – Adam and Muon and the Hessian of the loss function   
+https://securemachinery.com/2025/12/18/loss-functions-and-optimizers/   
+   
 Paper (a blog) for January 6, 2026:   
 When Models Manipulate Manifolds: The Geometry of a Counting Task    
 https://transformer-circuits.pub/2025/linebreaks/index.html    
