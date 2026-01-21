@@ -12,7 +12,9 @@ mHC: Manifold-Constrained Hyper-Connections
 https://arxiv.org/pdf/2512.24880v1    
 There are multiple YouTubes including:   
 https://www.youtube.com/watch?v=jYn_1PpRzxI   
-
+Background material: Hyper-Connections   
+https://arxiv.org/abs/2409.19606   
+   
 ### Paper for January 20, 2026:   
 Digital Red Queen: Adversarial Program Evolution in Core War with LLMs   
 https://arxiv.org/pdf/2601.03335   
