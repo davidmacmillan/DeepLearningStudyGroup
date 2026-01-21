@@ -7,7 +7,7 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
-### Paper for January 27, 2026 is:   
+### Paper for January 27, 2026:   
 mHC: Manifold-Constrained Hyper-Connections   
 https://arxiv.org/pdf/2512.24880v1    
 There are multiple YouTubes including:   
