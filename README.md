@@ -7,6 +7,14 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### Paper for February 10, 2026:   
+Reinforcement Learning via Self-Distillation   
+https://arxiv.org/pdf/2601.20802   
+   
+### Paper for February 3, 2026:   
+Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models   
+https://arxiv.org/pdf/2601.07372   
+    
 ### Paper for January 27, 2026:   
 mHC: Manifold-Constrained Hyper-Connections   
 https://arxiv.org/pdf/2512.24880v1    
