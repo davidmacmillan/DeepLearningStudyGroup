@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
+   
+### Paper for February 17, 2026:   
+ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation    
+https://arxiv.org/pdf/2601.21420   
 
 ### Paper for February 10, 2026:   
 Reinforcement Learning via Self-Distillation   
