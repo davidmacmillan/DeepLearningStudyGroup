@@ -7,6 +7,16 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
    
+### Paper for February 24, 2026:   
+Recursive Language Models  
+https://arxiv.org/pdf/2512.24601   
+Blog   
+https://alexzhang13.github.io/blog/2025/rlm/   
+Github   
+https://github.com/alexzhang13/rlm   
+Documentation   
+https://alexzhang13.github.io/rlm/   
+   
 ### Paper for February 17, 2026:   
 ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation    
 https://arxiv.org/pdf/2601.21420   
