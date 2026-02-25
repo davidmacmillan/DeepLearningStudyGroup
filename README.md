@@ -7,6 +7,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
    
+### Paper for March 3, 2026:   
+Weak-Driven Learning: How Weak Agents make Strong Agents Stronger   
+https://arxiv.org/abs/2602.08222   
+   
 ### Paper for February 24, 2026:   
 Recursive Language Models  
 https://arxiv.org/pdf/2512.24601   
