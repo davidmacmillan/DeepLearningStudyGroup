@@ -6,6 +6,10 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
+
+### Paper for March 10, 2026:    
+ROMA: Recursive Open Meta-Agent Framework for Long-Horizon Multi-Agent Systems.    
+http://arxiv.org/abs/2602.01848   
    
 ### Paper for March 3, 2026:   
 Weak-Driven Learning: How Weak Agents make Strong Agents Stronger   
