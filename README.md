@@ -10,6 +10,10 @@ ________________________________________________________________________________
 ### Paper for March 10, 2026:    
 ROMA: Recursive Open Meta-Agent Framework for Long-Horizon Multi-Agent Systems.    
 http://arxiv.org/abs/2602.01848   
+Blog:    
+https://www.sentient.xyz/blog/recursive-open-meta-agent     
+YouTube:    
+https://www.youtube.com/watch?v=ghoYOq1bSE4    
    
 ### Paper for March 3, 2026:   
 Weak-Driven Learning: How Weak Agents make Strong Agents Stronger   
