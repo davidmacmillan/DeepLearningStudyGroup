@@ -7,6 +7,17 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### For March 17, 2026:   
+We will walk through the code for Karpathy's autoresearch:   
+https://github.com/karpathy/autoresearch/   
+He has some discussion of his experiments here and many others have posted on uses for it:   
+https://x.com/karpathy   
+A blog by someone on using it:   
+https://medium.com/modelmind/getting-started-with-andrej-karpathys-autoresearch-full-guide-c2f3a80b9ce6   
+There are lots of YouTubes on it.   
+Karpathy's code only runs on H100's, so I patched it to run on consumer GPUs (tested on a 5090 32GB):   
+https://github.com/davidmacmillan/autoresearch.git   
+   
 ### Paper for March 10, 2026:    
 ROMA: Recursive Open Meta-Agent Framework for Long-Horizon Multi-Agent Systems.    
 http://arxiv.org/abs/2602.01848   
