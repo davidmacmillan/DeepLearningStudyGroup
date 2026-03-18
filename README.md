@@ -6,7 +6,11 @@ https://www.meetup.com/handsonprogrammingevents/
 
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
-
+   
+### Paper for March 24, 2026:   
+Attention Residuals    
+https://arxiv.org/pdf/2603.15031    
+    
 ### For March 17, 2026:   
 We will walk through the code for Karpathy's autoresearch:   
 https://github.com/karpathy/autoresearch/   
