@@ -7,7 +7,7 @@ The primary goal is to facilitate technical and mathematical discussion
 about the paper, in a supportive environment, to help each other   
 get the maximum out of each paper. This requires that some participants   
 read the paper beforehand. However, anyone is welcome to attend   
-and listen without reading the paper. Paper selection is based on
+and listen without reading the paper. Paper selection is based on   
 suggestions from attendees and we vote to select the next week's paper.
 
 Meeting time - Tuesdays, 6:30 pm California time on Zoom.     
