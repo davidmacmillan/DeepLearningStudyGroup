@@ -15,7 +15,11 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
-   
+    
+### Paper for March 31, 2026:    
+How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models    
+https://arxiv.org/pdf/2510.02453    
+    
 ### Paper for March 24, 2026:   
 Attention Residuals    
 https://arxiv.org/pdf/2603.15031    
