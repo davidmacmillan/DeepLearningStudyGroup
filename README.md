@@ -15,6 +15,16 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
+   
+### Paper for April 7, 2026:
+TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate   
+https://arxiv.org/pdf/2504.19874   
+Additional background material if interested:   
+Google's Blog:   
+https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/   
+OpenReview:   
+https://openreview.net/forum?id=tO3ASKZlok   
+There are also lots of YouTubes and news articles.   
     
 ### Paper for March 31, 2026:    
 How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models    
