@@ -17,7 +17,7 @@ ________________________________________________________________________________
 # ======== 2026 ========   
 
 ### Paper for April 14, 2026:    
-We will discuss Claude Code and post reading materials Thursday evening (April 16)   
+We will discuss Claude Code and post reading materials Thursday evening (April 9)   
 
 ### Paper for April 7, 2026:
 TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate   
