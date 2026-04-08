@@ -15,7 +15,10 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
-   
+
+### Paper for April 14, 2026:    
+We will discuss Claude Code and post reading materials Thursday evening (April 16)   
+
 ### Paper for April 7, 2026:
 TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate   
 https://arxiv.org/pdf/2504.19874   
