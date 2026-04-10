@@ -17,8 +17,24 @@ ________________________________________________________________________________
 # ======== 2026 ========   
 
 ### Paper for April 14, 2026:    
-We will discuss Claude Code and post reading materials Thursday evening (April 9)   
-
+How Claude Code Actually Works: Reverse-Engineering 512K Lines of Production AI Agent   
+https://www.karanprasad.com/blog/how-claude-code-actually-works-reverse-engineering-512k-lines   
+Additional background materials:   
+The Claude Code Source Leak   
+https://www.latent.space/p/ainews-the-claude-code-source-leak   
+Claude Code architecture Deep Dive: What the Leaked Source Reveals   
+https://wavespeed.ai/blog/posts/claude-code-architecture-leaked-source-deep-dive/   
+The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more   
+https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/   
+Inside Claude Code: An Architecture Deep Dive   
+https://zainhas.github.io/blog/2026/inside-claude-code-architecture/   
+Claude Code source leak reveals how much info Anthropic can hoover up about you and your system   
+https://www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/   
+X post by @iamfakeguru   
+https://x.com/iamfakeguru/status/2038965567269249484?s=20   
+Comprehensive Analysis of Claude Code Source Leak!   
+https://www.sabrina.dev/p/claude-code-source-leak-analysis   
+   
 ### Paper for April 7, 2026:
 TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate   
 https://arxiv.org/pdf/2504.19874   
