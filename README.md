@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### Paper for Tuesday April 21, 2026:     
+LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels    
+https://arxiv.org/abs/2603.19312    
+
 ### Paper for April 14, 2026:    
 How Claude Code Actually Works: Reverse-Engineering 512K Lines of Production AI Agent   
 https://www.karanprasad.com/blog/how-claude-code-actually-works-reverse-engineering-512k-lines   
