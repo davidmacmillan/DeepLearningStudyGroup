@@ -16,7 +16,13 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
-### Paper for Tuesday April 21, 2026:     
+### Paper for April 28, 2026:   
+"Demystifying the Mechanisms Behind Emergent Exploration in Goal-conditioned RL"   
+https://arxiv.org/abs/2510.14129   
+Blog:   
+https://proximal.hashnode.dev/how-infonce-creates-exploration-the-hidden-engine-of-contrastive-rl   
+   
+### Paper for April 21, 2026:     
 LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels    
 https://arxiv.org/abs/2603.19312    
 
