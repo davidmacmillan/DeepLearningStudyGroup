@@ -20,7 +20,7 @@ ________________________________________________________________________________
 "Demystifying the Mechanisms Behind Emergent Exploration in Goal-conditioned RL"   
 https://arxiv.org/abs/2510.14129   
 Blog:   
-https://proximal.hashnode.dev/how-infonce-creates-exploration-the-hidden-engine-of-contrastive-rl
+https://proximal.hashnode.dev/how-infonce-creates-exploration-the-hidden-engine-of-contrastive-rl   
 Video:   
 https://mahsa-bastankhah.github.io/demystifying-single-goal-exploration/   
    
