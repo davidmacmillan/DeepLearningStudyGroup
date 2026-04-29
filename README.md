@@ -16,6 +16,15 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### Paper for May 5, 2026:    
+HyperAgents   
+https://arxiv.org/pdf/2603.19461   
+Code:    
+https://github.com/facebookresearch/Hyperagents    
+Additional similar agent material, if interested:    
+Meta-Harness: End-to-End Optimization of Model Harnesses    
+https://arxiv.org/pdf/2603.28052    
+    
 ### Paper for April 28, 2026:   
 "Demystifying the Mechanisms Behind Emergent Exploration in Goal-conditioned RL"   
 https://arxiv.org/abs/2510.14129   
