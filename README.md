@@ -16,6 +16,14 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### Paper for May 12, 2026:   
+The last human-written paper     
+https://arxiv.org/pdf/2604.24658   
+Blog / Project page:   
+https://www.orchestra-research.com/ara  
+Code:   
+https://github.com/Orchestra-Research/Agent-Native-Research-Artifact   
+   
 ### Paper for May 5, 2026:    
 HyperAgents   
 https://arxiv.org/pdf/2603.19461   
