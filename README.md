@@ -21,11 +21,11 @@ Image Generators are Generalist Vision Learners
 https://www.alphaxiv.org/abs/2604.20329    
 
 ### Paper for May 19, 2026:    
-Deekseek v4    
+Deepkseek v4    
 https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf    
-Slides and marked up paper frm Deekseek V4 presentation
-
-
+Slides and marked up paper frm Deekseek V4 presentation    
+https://github.com/davidmacmillan/DeepLearningStudyGroup/blob/master/2026-05-19%20DLSG%20DeepSeek-V4%20-%20paper%20and%20slides.pdf    
+     
 ### Paper for May 12, 2026:   
 The last human-written paper     
 https://arxiv.org/pdf/2604.24658   
