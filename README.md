@@ -21,7 +21,7 @@ Image Generators are Generalist Vision Learners
 https://www.alphaxiv.org/abs/2604.20329    
 
 ### Paper for May 19, 2026:    
-Deepkseek v4    
+Deepseek v4    
 https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf    
 Slides and marked up paper from meetup       
 https://github.com/davidmacmillan/DeepLearningStudyGroup/blob/master/2026-05-19%20DLSG%20DeepSeek-V4%20-%20paper%20and%20slides.pdf    
