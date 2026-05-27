@@ -17,7 +17,7 @@ ________________________________________________________________________________
 # ======== 2026 ========   
 
 ### Paper for June 2, 2026:    
-Loop, Think, & Generalize: Implicit Reasoning in RecurrentDepth Transformers    
+Loop, Think, & Generalize: Implicit Reasoning in Recurrent Depth Transformers    
 https://arxiv.org/pdf/2604.07822    
 
 ### Paper for May 26, 2026:    
