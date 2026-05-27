@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### Paper for June 2, 2026:    
+Loop, Think, & Generalize: Implicit Reasoning in RecurrentDepth Transformers    
+https://arxiv.org/pdf/2604.07822    
+
 ### Paper for May 26, 2026:    
 Image Generators are Generalist Vision Learners      
 https://www.alphaxiv.org/abs/2604.20329    
