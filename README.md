@@ -15,7 +15,11 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
-
+   
+### Paper for June 9, 2026:   
+TriAttention: Efficient Long Reasoning with Trigonometric KV Compression    
+https://arxiv.org/abs/2604.04921v1    
+   
 ### Paper for June 2, 2026:    
 Loop, Think, & Generalize: Implicit Reasoning in Recurrent Depth Transformers    
 https://arxiv.org/pdf/2604.07822    
