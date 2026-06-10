@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
    
+### Paper (blog) for June 16, 2026:   
+Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations   
+https://transformer-circuits.pub/2026/nla/index.html    
+   
 ### Paper for June 9, 2026:   
 TriAttention: Efficient Long Reasoning with Trigonometric KV Compression    
 https://arxiv.org/abs/2604.04921v1    
