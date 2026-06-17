@@ -15,6 +15,10 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
+
+### Paper for June 23, 2026:   
+From AGI to ASI    
+https://arxiv.org/abs/2606.12683   
    
 ### Paper (blog) for June 16, 2026:   
 Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations   
