@@ -16,6 +16,14 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### paper for June 30, 2026:   
+DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation   
+https://arxiv.org/pdf/2506.14202   
+Blog:   
+https://sakana.ai/diffusion-blocks/   
+GitHub:    
+https://github.com/SakanaAI/DiffusionBlocks   
+   
 ### Paper for June 23, 2026:   
 From AGI to ASI    
 https://arxiv.org/abs/2606.12683   
