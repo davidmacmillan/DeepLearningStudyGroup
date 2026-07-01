@@ -16,7 +16,7 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
-### Paper for July 7:   
+### Paper for July 7, 2026:   
 Critique of Agent Model   
 https://arxiv.org/pdf/2606.23991  
 
