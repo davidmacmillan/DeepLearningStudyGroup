@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### Paper for July 7:   
+Critique of Agent Model   
+https://arxiv.org/pdf/2606.23991  
+
 ### Paper for June 30, 2026:   
 DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation   
 https://arxiv.org/pdf/2506.14202   
