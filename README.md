@@ -16,6 +16,12 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
 
+### Paper (blog) for July 14, 2026:   
+Verbalizable Representations Form a Global Workspace in Language Models   
+https://transformer-circuits.pub/2026/workspace/index.html   
+Additional material - summarization:   
+https://www.anthropic.com/research/global-workspace    
+
 ### Paper for July 7, 2026:   
 Critique of Agent Model   
 https://arxiv.org/pdf/2606.23991  
