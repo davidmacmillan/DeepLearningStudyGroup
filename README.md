@@ -51,6 +51,7 @@ https://www.alphaxiv.org/abs/2604.20329
 ### Paper for May 19, 2026:    
 Deepseek v4    
 https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf    
+(Paper seems to now have moved to arXiv as: https://arxiv.org/pdf/2606.19348)
 Slides and marked up paper from meetup       
 https://github.com/davidmacmillan/DeepLearningStudyGroup/blob/master/2026-05-19%20DLSG%20DeepSeek-V4%20-%20paper%20and%20slides.pdf    
      
