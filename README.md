@@ -15,12 +15,33 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
+### Paper for July 21, 2026:   
+Next Latent Prediction   
+https://arxiv.org/abs/2511.05963   
+GitHub:   
+https://github.com/JaydenTeoh/NextLat   
 
 ### Paper (blog) for July 14, 2026:   
 Verbalizable Representations Form a Global Workspace in Language Models   
 https://transformer-circuits.pub/2026/workspace/index.html   
 Additional material - summarization:   
 https://www.anthropic.com/research/global-workspace    
+Commentary of experts:    
+https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf   
+YouTube:   
+https://www.youtube.com/watch?v=rKV5JcALQoQ  
+Demo:   
+https://www.neuronpedia.org/qwen3.6-27b/jlens   
+Github:   
+https://github.com/anthropics/jacobian-lens   
+Articles on Workspace Theory (in humans):   
+Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework   
+https://www.unicog.org/publications/DehaeneNaccache_WorkspaceModel_Cognition2001.pdf   
+Conscious Processing and the Global Neuronal Workspace Hypothesis   
+https://www.cell.com/neuron/fulltext/S0896-6273(20)30052-0   
+Workspace Theory book:   
+A Cognitive Theory of Consciousness   
+https://ccrg.cs.memphis.edu/assets/papers/1988/Baars-A%20Cognitive%20Theory%20of%20Consciousness.pdf   
 
 ### Paper for July 7, 2026:   
 Critique of Agent Model   
