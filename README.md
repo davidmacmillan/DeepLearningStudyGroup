@@ -15,6 +15,11 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
+### Paper for July 28, 2026:
+The focus will be on Sections 1 & 2 (the architecture - up to page 15)
+Cosmos 3: Omnimodal World Models for Physical AI
+https://arxiv.org/pdf/2606.02800
+
 ### Paper for July 21, 2026:   
 Next Latent Prediction   
 https://arxiv.org/abs/2511.05963   
