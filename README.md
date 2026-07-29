@@ -15,6 +15,12 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
+### Paper for August 4, 2026:
+Kimi K3 Technical Report   
+https://arxiv.org/pdf/2607.24653   
+Blog   
+https://www.kimi.com/blog/kimi-k3   
+
 ### Paper for July 28, 2026:
 The focus will be on Sections 1 & 2 (the architecture - up to page 15)
 Cosmos 3: Omnimodal World Models for Physical AI
