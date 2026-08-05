@@ -15,7 +15,11 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 # ======== 2026 ========   
-### Paper for August 4, 2026:
+### Paper for August 11, 2026:    
+Lost in the Middle at Birth: An Exact Theory of Transformer Position Bias    
+https://arxiv.org/abs/2603.10123    
+   
+### Paper for August 4, 2026:   
 Kimi K3 Technical Report   
 https://arxiv.org/pdf/2607.24653   
 Blog   
