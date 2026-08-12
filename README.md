@@ -18,7 +18,8 @@ ________________________________________________________________________________
 Paper for August 18, 2026:    
 Stealing Reasoning Traces from Proprietary LLM APIs   
 https://arxiv.org/pdf/2608.09867   
-The paper is what we will be discussing but this is interesting: Black Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident   
+The paper is what we will be discussing but this is interesting:   
+Black Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident   
 https://www.youtube.com/watch?v=87DyyMV0kCY    
 
 ### Paper for August 11, 2026:    
