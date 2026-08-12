@@ -14,7 +14,13 @@ Meeting time - Tuesdays, 6:30 pm California time on Zoom.
 Zoom and Discord links are on the meetup page:      
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
-# ======== 2026 ========   
+### ======== 2026 ========   
+Paper for August 18, 2026:    
+Stealing Reasoning Traces from Proprietary LLM APIs   
+https://arxiv.org/pdf/2608.09867   
+The paper is what we will be discussing but this is interesting: Black Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident   
+https://www.youtube.com/watch?v=87DyyMV0kCY    
+
 ### Paper for August 11, 2026:    
 Lost in the Middle at Birth: An Exact Theory of Transformer Position Bias    
 https://arxiv.org/abs/2603.10123    
