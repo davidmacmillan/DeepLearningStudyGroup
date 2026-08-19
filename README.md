@@ -16,7 +16,7 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
    
-### Paper for August 15, 2026:   
+### Paper for August 25, 2026:   
 Full-bandwidth transformer   
 https://arxiv.org/pdf/2608.08888   
    
