@@ -15,7 +15,12 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
-Paper for August 18, 2026:    
+   
+### Paper for August 15, 2026:   
+Full-bandwidth transformer   
+https://arxiv.org/pdf/2608.08888   
+   
+### Paper for August 18, 2026:    
 Stealing Reasoning Traces from Proprietary LLM APIs   
 https://arxiv.org/pdf/2608.09867   
 The paper is what we will be discussing but this is interesting:   
