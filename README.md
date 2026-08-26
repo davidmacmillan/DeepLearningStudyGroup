@@ -15,11 +15,11 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
-
-### Paper for September 1, 2026
-Training AI Scientists to Replicate Research
-https://arxiv.org/abs/2608.13331
-
+    
+### Paper for September 1, 2026    
+Training AI Scientists to Replicate Research    
+https://arxiv.org/abs/2608.13331   
+   
 ### Paper for August 25, 2026:   
 Full-bandwidth transformer   
 https://arxiv.org/pdf/2608.08888   
