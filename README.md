@@ -15,6 +15,17 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
+   
+### Paper (Blogs) for Septermber 8, 2026:   
+Inside the eighth-generation TPU: An architecture deep dive   
+https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive   
+TPU Technical Documentation   
+https://docs.cloud.google.com/tpu/docs/system-architecture-tpu-vm   
+Some additional background material, if interested (lots more on web):   
+TPU7x (Ironwood)   
+https://docs.cloud.google.com/tpu/docs/tpu7x   
+Tensor Processing Units   
+https://cloud.google.com/tpu   
     
 ### Paper for September 1, 2026    
 Training AI Scientists to Replicate Research    
