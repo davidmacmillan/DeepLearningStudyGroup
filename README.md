@@ -15,7 +15,11 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
-   
+    
+### Paper for September 15, 2026:    
+Pandora’s AI Model Router (DeepMind)  
+https://arxiv.org/abs/2608.20316v1  
+    
 ### Paper (Blogs) for Septermber 8, 2026:   
 Inside the eighth-generation TPU: An architecture deep dive   
 https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive   
