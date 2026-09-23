@@ -16,6 +16,12 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
     
+### Paper for September 29, 2026:   
+We will continue discussing DeepSeek v4.1 Technical Report   
+https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf   
+Ruchir's github with annotated copy of the Deepseek paper and animations:   
+https://ruchirtewari.github.io/deepseek/   
+   
 ### Paper for September 22, 2026:    
 DeepSeek v4.1 Technical Report    
 https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf    
