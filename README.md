@@ -15,6 +15,10 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
+   
+### Paper for October 6, 2026:   
+Generalization Dynamics of LM Pre-training   
+https://arxiv.org/html/2609.33150v1   
     
 ### Paper for September 29, 2026:   
 We will continue discussing DeepSeek v4.1 Technical Report   
