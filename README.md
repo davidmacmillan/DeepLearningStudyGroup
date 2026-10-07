@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
    
+### Paper for Tuesday October 13, 2026:   
+Context Language Models   
+https://arxiv.org/pdf/2609.37725   
+   
 ### Paper for October 6, 2026:   
 Generalization Dynamics of LM Pre-training   
 https://arxiv.org/html/2609.33150v1   
