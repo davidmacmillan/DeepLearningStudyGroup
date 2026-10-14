@@ -15,8 +15,12 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
-   
-### Paper for Tuesday October 13, 2026:   
+
+### Paper for October 20, 2026:
+Language Models Can Control Their Own Attention
+https://arxiv.org/pdf/2609.02737
+
+### Paper for October 13, 2026:   
 Context Language Models   
 https://arxiv.org/pdf/2609.37725   
    
