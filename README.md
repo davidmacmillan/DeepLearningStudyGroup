@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
    
+### Paper for October 27, 2026:    
+Swarm Telepathy: Prefill-Free KV-Cache Transfer Across Families    
+https://arxiv.org/pdf/2610.11570    
+
 ### Paper for October 20, 2026:  
 Language Models Can Control Their Own Attention   
 https://arxiv.org/pdf/2609.02737  
