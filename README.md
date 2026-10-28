@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
    
+### Paper for November 3, 2026:   
+Retriever-Free Retrieval: Navigating Documents with Decision Models    
+https://www.alphaxiv.org/abs/2610.35868   
+   
 ### Paper for October 27, 2026:    
 Swarm Telepathy: Prefill-Free KV-Cache Transfer Across Families    
 https://arxiv.org/abs/2610.15095   
