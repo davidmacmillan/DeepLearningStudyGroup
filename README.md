@@ -21,6 +21,8 @@ LLMs can natively read & write neural network weights
 https://rikiyat.github.io/blog/weight-space-programming/   
 Related YouTube:   
 https://www.youtube.com/watch?v=r8sZgPx4jYA   
+Also interesting:   
+https://github.com/eomcaleb/weight-space-bench   
    
 ### Paper for November 3, 2026:   
 Retriever-Free Retrieval: Navigating Documents with Decision Models    
