@@ -16,6 +16,12 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
    
+### Paper (actually a blog) for November 10, 2026:   
+LLMs can natively read & write neural network weights   
+https://rikiyat.github.io/blog/weight-space-programming/   
+Related YouTube:   
+https://www.youtube.com/watch?v=r8sZgPx4jYA   
+   
 ### Paper for November 3, 2026:   
 Retriever-Free Retrieval: Navigating Documents with Decision Models    
 https://arxiv.org/pdf/2610.35868   
