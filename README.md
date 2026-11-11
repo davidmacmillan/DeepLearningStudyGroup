@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
    
+### Paper for November 17, 2026:    
+A Circuit for In-Context Learning     
+https://arxiv.org/pdf/2611.05344    
+    
 ### Paper (actually a blog) for November 10, 2026:   
 LLMs can natively read & write neural network weights   
 https://rikiyat.github.io/blog/weight-space-programming/   
