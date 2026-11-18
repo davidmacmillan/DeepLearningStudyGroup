@@ -15,6 +15,10 @@ Zoom and Discord links are on the meetup page:
 https://www.meetup.com/handsonprogrammingevents/          
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
+    
+### Paper for November 24, 2026:     
+Exo: An Architecture for Self-Improving Systems at Runtime    
+https://arxiv.org/abs/2611.00463     
    
 ### Paper for November 17, 2026:    
 A Circuit for In-Context Learning     
