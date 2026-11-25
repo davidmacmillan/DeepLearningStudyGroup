@@ -16,6 +16,10 @@ https://www.meetup.com/handsonprogrammingevents/
 ___________________________________________________________________________________________________________
 ### ======== 2026 ========   
     
+### Paper for December 1, 2026:    
+Understanding, Predicting, and Steering LLM Behavior via Representational Effective Theory    
+https://arxiv.org/pdf/2605.09294   
+   
 ### Paper for November 24, 2026:     
 Exo: An Architecture for Self-Improving Systems at Runtime    
 https://arxiv.org/abs/2611.00463     
